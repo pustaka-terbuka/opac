@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00532pam a2200193   4500</marc:leader>
+    <marc:controlfield tag="001">25328</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170327151121</marc:controlfield>
+    <marc:controlfield tag="008">161215s1995    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9577870287</marc:subfield>
+      <marc:subfield code="c">RM 18.00</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0052-88160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)25328</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="d">PustakaTerbuka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">380.1</marc:subfield>
+      <marc:subfield code="b">GUA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">GUAN, Ren Jian.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Ru he cheng wei ye wu gao shou /</marc:subfield>
+      <marc:subfield code="c">Guan Ren Jian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Taipei :</marc:subfield>
+      <marc:subfield code="b">Si lu chu ban she,</marc:subfield>
+      <marc:subfield code="c">1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1=" " ind2="0">
+      <marc:subfield code="a">Ting ying guan li cong shu ; 13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">How to be the best Merchandiser.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="2">
+      <marc:subfield code="u">https://github.com/pustaka-terbuka/master</marc:subfield>
+      <marc:subfield code="y">PustakaTerbuka</marc:subfield>
+      <marc:subfield code="z">Shared open catalog record provided by PustakaTerbuka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="900" ind1=" " ind2=" ">
+      <marc:subfield code="a">PustakaTerbuka</marc:subfield>
+      <marc:subfield code="u">https://github.com/pustaka-terbuka/master</marc:subfield>
+      <marc:subfield code="d">Open Shared MARC Catalog for Malaysian Libraries</marc:subfield>
+      <marc:subfield code="r">017phbahxh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">C</marc:subfield>
+      <marc:subfield code="d">2017-03-27</marc:subfield>
+      <marc:subfield code="e">Tan Mark Book Centre Sdn. Bhd., 281, Jalan Burmah, Pulau Tikus, 10350 Penang  Tel. no. : 04-2262767</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">5</marc:subfield>
+      <marc:subfield code="m">3</marc:subfield>
+      <marc:subfield code="o">380.1 GUA</marc:subfield>
+      <marc:subfield code="p">1000182259</marc:subfield>
+      <marc:subfield code="r">2018-12-11 00:00:00</marc:subfield>
+      <marc:subfield code="s">2018-11-14</marc:subfield>
+      <marc:subfield code="w">2017-03-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PKB</marc:subfield>
+      <marc:subfield code="b">PKB</marc:subfield>
+      <marc:subfield code="c">ZZZ</marc:subfield>
+      <marc:subfield code="d">2017-03-27</marc:subfield>
+      <marc:subfield code="e">Tan Mark Book Centre Sdn. Bhd., 281, Jalan Burmah, Pulau Tikus, 10350 Penang  Tel. no. : 04-2262767</marc:subfield>
+      <marc:subfield code="g">18</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">380.1 GUA</marc:subfield>
+      <marc:subfield code="p">1000182260</marc:subfield>
+      <marc:subfield code="r">2017-03-27 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-03-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">13509</marc:subfield>
+      <marc:subfield code="d">13509</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

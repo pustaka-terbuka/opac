@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000Ia 4500</marc:leader>
+    <marc:controlfield tag="001">223830</marc:controlfield>
+    <marc:controlfield tag="003">PPAS</marc:controlfield>
+    <marc:controlfield tag="005">20261011171312</marc:controlfield>
+    <marc:controlfield tag="008">261011s2026       my            000 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670046167</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670046165</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670046174</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9670046173</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAS)223830</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000504429</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)223830</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAS)223828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">vtls000504427</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNK)223828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAS</marc:subfield>
+      <marc:subfield code="b">may</marc:subfield>
+      <marc:subfield code="c">PPAS</marc:subfield>
+      <marc:subfield code="d">PPAS</marc:subfield>
+      <marc:subfield code="d">PustakaTerbuka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">899.283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">899.283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Vallicelli, Uma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Ayam berkokok dan berketuk</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="c">2026</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Siri dimensi alam sains (5T)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Book</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAS</marc:subfield>
+      <marc:subfield code="h">899.283</marc:subfield>
+      <marc:subfield code="b">Cawangan Kajang</marc:subfield>
+      <marc:subfield code="b">Cawangan Pelabuhan Klang</marc:subfield>
+      <marc:subfield code="b">Cawangan Rawang</marc:subfield>
+      <marc:subfield code="b">Cawangan Tanjung Karang</marc:subfield>
+      <marc:subfield code="b">Daerah Gombak</marc:subfield>
+      <marc:subfield code="b">Daerah Hulu Langat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="2">
+      <marc:subfield code="u">https://secure.syndetics.com/index.aspx?isbn=9789670046167/mc.gif&amp;client=ppas&amp;type=unbound&amp;nicaption=Ayam+berkokok+dan+berketuk%1FVallicelli%2C+Uma%1FBook</marc:subfield>
+      <marc:subfield code="3">Cover Image</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="2">
+      <marc:subfield code="u">https://github.com/pustaka-terbuka/master</marc:subfield>
+      <marc:subfield code="y">PustakaTerbuka</marc:subfield>
+      <marc:subfield code="z">Shared open catalog record provided by PustakaTerbuka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="900" ind1=" " ind2=" ">
+      <marc:subfield code="a">PustakaTerbuka</marc:subfield>
+      <marc:subfield code="u">https://github.com/pustaka-terbuka/master</marc:subfield>
+      <marc:subfield code="d">Open Shared MARC Catalog for Malaysian Libraries</marc:subfield>
+      <marc:subfield code="r">ej5r1mehds</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">55</marc:subfield>
+      <marc:subfield code="b">Cawangan Kajang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">11</marc:subfield>
+      <marc:subfield code="b">Cawangan Pelabuhan Klang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">75</marc:subfield>
+      <marc:subfield code="b">Cawangan Rawang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">24</marc:subfield>
+      <marc:subfield code="b">Cawangan Tanjung Karang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">74</marc:subfield>
+      <marc:subfield code="b">Daerah Gombak</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">54</marc:subfield>
+      <marc:subfield code="b">Daerah Hulu Langat</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">55</marc:subfield>
+      <marc:subfield code="b">Cawangan Kajang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">11</marc:subfield>
+      <marc:subfield code="b">Cawangan Pelabuhan Klang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">75</marc:subfield>
+      <marc:subfield code="b">Cawangan Rawang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">24</marc:subfield>
+      <marc:subfield code="b">Cawangan Tanjung Karang</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">74</marc:subfield>
+      <marc:subfield code="b">Daerah Gombak</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">54</marc:subfield>
+      <marc:subfield code="b">Daerah Hulu Langat</marc:subfield>
+      <marc:subfield code="o">899.283</marc:subfield>
+      <marc:subfield code="l">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppas</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

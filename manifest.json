@@ -1,0 +1,19 @@
+{
+  "name": "PustakaTerbuka — Katalog Induk Terbuka Kebangsaan",
+  "short_name": "PustakaTerbuka",
+  "description": "Katalog Induk Terbuka Kebangsaan & OPAC Statik Berprestasi Tinggi dengan sokongan luar talian.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

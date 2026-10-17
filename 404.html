@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mengalihkan / Redirecting — PustakaTerbuka</title>
+<script>
+(function() {
+  var path = window.location.pathname;
+  var base = path.includes('/master') ? '/master/' : (path.includes('/pustaka-terbuka') ? '/pustaka-terbuka/' : '/');
+  // Match /book/{recordId}/ or /book/{recordId}
+  var match = path.match(/\/book\/([a-zA-Z0-9_-]+)\/?$/);
+  if (match && match[1] !== 'index.html') {
+    var target = base + 'book/?id=' + encodeURIComponent(match[1]);
+    if (window.location.search) {
+      target += '&' + window.location.search.substring(1);
+    }
+    window.location.replace(target);
+    return;
+  }
+  document.addEventListener('DOMContentLoaded', function() {
+    var btn = document.querySelector('.not-found-btn');
+    if (btn) btn.href = base;
+    var link = document.getElementById('not-found-style');
+    if (link) link.href = base + 'style.css';
+  });
+})();
+</script>
+<link id="not-found-style" rel="stylesheet" href="style.css">
+<style>
+.not-found-card {
+  max-width: 600px;
+  margin: 80px auto;
+  padding: 40px;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #dee2e6;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+.not-found-card h1 {
+  font-size: 2rem;
+  color: #0056b3;
+  margin-bottom: 1rem;
+}
+.not-found-card p {
+  color: #495057;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+.not-found-btn {
+  display: inline-block;
+  background: #0056b3;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+.not-found-btn:hover {
+  background: #004494;
+}
+</style>
+</head>
+<body>
+<div class="not-found-card">
+  <h1>Halaman Tidak Dijumpai / Page Not Found</h1>
+  <p>Halaman atau rekod yang anda cari tidak dapat dijumpai dalam katalog terbuka.</p>
+  <a href="/master/" class="not-found-btn">Kembali ke Carian / Back to Search</a>
+</div>
+</body>
+</html>
