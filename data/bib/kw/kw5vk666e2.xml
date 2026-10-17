@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00713cam a2200217 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002888460</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110830</marc:controlfield>
+    <marc:controlfield tag="008">110218s1995    nyu           000 1 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0684815451(hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002888460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201201171130</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181433</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200508111632</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200410250945</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us-ny</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">813.54</marc:subfield>
+      <marc:subfield code="b">CLA 1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Clark, Mary Higgins.</marc:subfield>
+      <marc:subfield code="9">16789</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Silent night :</marc:subfield>
+      <marc:subfield code="b">a novel /</marc:subfield>
+      <marc:subfield code="c">Mary Higgins Clark.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York, N.Y. :</marc:subfield>
+      <marc:subfield code="b">Simon &amp;amp; Schuster,</marc:subfield>
+      <marc:subfield code="c">c1995.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">154 p. ;</marc:subfield>
+      <marc:subfield code="c">20 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Children</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">213705</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104338</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30297</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

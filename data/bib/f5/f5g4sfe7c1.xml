@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00579cam a2200193 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002880860</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103936</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003       a          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">600608077</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002880860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201401230832</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181426</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200410140933</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">200410131054</marc:subfield>
+      <marc:subfield code="d">kusuma</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">641.589</marc:subfield>
+      <marc:subfield code="b">WOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Wok bible</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Hamlyn,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">160 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cooking, Asian</marc:subfield>
+      <marc:subfield code="9">44991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wok cooking.</marc:subfield>
+      <marc:subfield code="9">47334</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 640171</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30209</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

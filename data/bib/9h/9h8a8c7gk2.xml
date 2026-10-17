@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00761nam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003020792</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085823</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    maua          001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0130543845 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003020792</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201406161049</marc:subfield>
+      <marc:subfield code="b">patrick</marc:subfield>
+      <marc:subfield code="c">201102181242</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008201653</marc:subfield>
+      <marc:subfield code="d">muhammad</marc:subfield>
+      <marc:subfield code="f">adzli</marc:subfield>
+      <marc:subfield code="c">200503120958</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200502021221</marc:subfield>
+      <marc:subfield code="z">meena</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">540</marc:subfield>
+      <marc:subfield code="b">ADD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Addison-Wesley chemistry /</marc:subfield>
+      <marc:subfield code="c">Antony C. Wilbraham ... [et al.].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Chemistry.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Needham, Mass. :</marc:subfield>
+      <marc:subfield code="b">Prentice Hall,</marc:subfield>
+      <marc:subfield code="c">c2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxiii, 881, 58 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (chiefly col.) ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Chemistry : 9701</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Chemistry.</marc:subfield>
+      <marc:subfield code="9">202239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wilbraham, Antony C.</marc:subfield>
+      <marc:subfield code="9">81061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAL : 89768</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30045</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

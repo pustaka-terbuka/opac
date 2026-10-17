@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00791cim a22002174a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003139820</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103937</marc:controlfield>
+    <marc:controlfield tag="007">sd uuugnnumuuu</marc:controlfield>
+    <marc:controlfield tag="008">090122t2004    enka          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780521545051 (class audio CDs)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003139820</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201104251821</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">200901221000</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200901220954</marc:subfield>
+      <marc:subfield code="z">shuhada</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">428.24</marc:subfield>
+      <marc:subfield code="b">PUC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Puchta, Herbert.</marc:subfield>
+      <marc:subfield code="9">4690</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">English in mind</marc:subfield>
+      <marc:subfield code="h">[sound recording].</marc:subfield>
+      <marc:subfield code="n">1 /</marc:subfield>
+      <marc:subfield code="c">Herbert Puchta and Jeff Stranks.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">2 sound discs (ca. 2 hr., 27 min.) :</marc:subfield>
+      <marc:subfield code="b">digital, stereo ;</marc:subfield>
+      <marc:subfield code="c">4 (3 /4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers.</marc:subfield>
+      <marc:subfield code="9">10818</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Stranks, Jeff.</marc:subfield>
+      <marc:subfield code="9">30079</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : CD459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30267</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

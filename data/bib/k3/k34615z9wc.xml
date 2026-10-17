@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01096cam a2200313 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003019295</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154553</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    enkae    b    000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0470849436 (hardback)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780470849439 (hardback)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003019295</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201809071436</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201504130940</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201504130938</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201504111649</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200410141327</marc:subfield>
+      <marc:subfield code="z">kusuma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">727.6009049</marc:subfield>
+      <marc:subfield code="b">HOU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hourston Hanks, Laura.</marc:subfield>
+      <marc:subfield code="9">73880</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Museum builders II /</marc:subfield>
+      <marc:subfield code="c">Laura Hourston.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Museum builders two</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Museum builders 2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chichester, West Sussex :</marc:subfield>
+      <marc:subfield code="b">Wiley-Academy,</marc:subfield>
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">216 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations (some color), plans ;</marc:subfield>
+      <marc:subfield code="c">32 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Museum architecture.</marc:subfield>
+      <marc:subfield code="9">209653</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Architecture, Modern</marc:subfield>
+      <marc:subfield code="y">20th century.</marc:subfield>
+      <marc:subfield code="9">10674</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Architecture, Modern</marc:subfield>
+      <marc:subfield code="y">21st century</marc:subfield>
+      <marc:subfield code="9">29534</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Museum buildings.</marc:subfield>
+      <marc:subfield code="9">18059</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SABD : 523727, 215349</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30275</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01095nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002870960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154545</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    enk           000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0421829907 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002870960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201303050945</marc:subfield>
+      <marc:subfield code="b">wilmina</marc:subfield>
+      <marc:subfield code="c">201102181344</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200610110910</marc:subfield>
+      <marc:subfield code="d">radtha</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">e-uk---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">343.42071</marc:subfield>
+      <marc:subfield code="b">LOW</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lowe, Robert.</marc:subfield>
+      <marc:subfield code="9">213456</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Consumer law and practice /</marc:subfield>
+      <marc:subfield code="c">Robert Lowe and Geoffrey Woodroffe ; with precedents by Stephen Gerlis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">6th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Sweet &amp;amp; Maxwell,</marc:subfield>
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxvi, 450 p. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - Preface to the First Edition.  - Table of Cases.  - Table of Statutes.  - Table of Statutory Instruments.  1.  Introduction.  - Pt.  I.  The Consumer and the Civil Law.  2.  &amp;quot;They Say it isn&apos;t Mine&amp;quot;.  3.  &amp;quot;It&apos;s a Good Little Bus&amp;quot;.  4.  &amp;quot;It doesn&apos;t Work&amp;quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Consumer protection</marc:subfield>
+      <marc:subfield code="x">Law and legislation</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">213457</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Woodroffe, G. F.</marc:subfield>
+      <marc:subfield code="9">213458</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAW : 19738, 19739, 19740, 19741</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30099</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

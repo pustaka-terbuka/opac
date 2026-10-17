@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00891nam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002907660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154605</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9832652308 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002907660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181651</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008281158</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">362.7083</marc:subfield>
+      <marc:subfield code="b">TEO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Teoh, Hsien-Jin.</marc:subfield>
+      <marc:subfield code="9">213970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Community programmes for teenagers /</marc:subfield>
+      <marc:subfield code="c">by Teoh Hsien-Jin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Petaling Jaya :</marc:subfield>
+      <marc:subfield code="b">Oak Enterprise,</marc:subfield>
+      <marc:subfield code="c">c2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">47 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">19 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Advice over a cup of tea</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Design &amp;amp; illustrations by Yusri Bin Razali&amp;quot; - Verso t.p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Adolescent psychology.</marc:subfield>
+      <marc:subfield code="9">203459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Juvenile delinquency</marc:subfield>
+      <marc:subfield code="x">Prevention.</marc:subfield>
+      <marc:subfield code="9">213971</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Teenagers</marc:subfield>
+      <marc:subfield code="x">Counseling of.</marc:subfield>
+      <marc:subfield code="9">42599</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advice over a cup of tea</marc:subfield>
+      <marc:subfield code="9">213972</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104469, 104470</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30505</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

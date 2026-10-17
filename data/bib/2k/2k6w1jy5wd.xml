@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02077nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000018318</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204340</marc:controlfield>
+    <marc:controlfield tag="008">070223t2006    my a   f m    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0004275(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000018318</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905161356</marc:subfield>
+      <marc:subfield code="b">farhana</marc:subfield>
+      <marc:subfield code="c">201107131903</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201011091149</marc:subfield>
+      <marc:subfield code="d">ida</marc:subfield>
+      <marc:subfield code="c">200908141302</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200702231008</marc:subfield>
+      <marc:subfield code="z">kam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TP242 .A93 2006 rs</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nik Az Amin Nik Abdul Aziz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Effect of different shear rate on membrane performance on pes asymmetric membrane for gas separation /</marc:subfield>
+      <marc:subfield code="c">Nik Az Amin Bin Nik Abdul Aziz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">KUKTEM,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">42 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 computer disc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Project paper (Bachelor of Chemical Engineering) -- Kolej Universiti Kejuruteraan &amp; Teknologi Malaysia - 2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Membrane based gas separation process technology has been recognized as one of the most efficient and advanced unit operation for gas separation. The main problem in membrane gas separation is the trade off between permeability and selectivity. The membrane that provide high permeability offered low selectivity and vice versa. Therefore in this study, a high performance Polyethersulfone (PES) flat sheet asymmetric membrane will be fabricated based on high of both permeability and selectivity. The main objectives of this study are to illustrate the effect of shear rate on asymmetric membrane structure and gas separation performance. The membranes are produced by a simple dry/wet phase inversion technique using a conventional method. By using several membrane with different shear rate, the membranes then been installed to the gas permeation rig and to be tested by natural gas which are oxygen and nitrogen. Then, the permeability and selectivity can be calculated. The membrane with the optimum performance was chosen for further membrane fabrication.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Gases</marc:subfield>
+      <marc:subfield code="x">Separation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Separation (Technology)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 2045 | TP242 .A93 2006 rs</marc:subfield>
+      <marc:subfield code="p">21559</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TP242 .A93 2006 rs</marc:subfield>
+      <marc:subfield code="p">21558</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">488</marc:subfield>
+      <marc:subfield code="d">494</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5020*5200*6500*6501*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

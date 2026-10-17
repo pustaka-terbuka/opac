@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01509cam a2200361 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002907760</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20210204165259</marc:controlfield>
+    <marc:controlfield tag="008">110218t20042004maua          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0071235787 (paperback : international edition)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">007123578D (student resource CD-ROM)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002907760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201701091059</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201606131728</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201209181537</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="c">201102181224</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">621.4021</marc:subfield>
+      <marc:subfield code="b">CEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Çengel, Yunus A.</marc:subfield>
+      <marc:subfield code="9">1631</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Thermodynamics :</marc:subfield>
+      <marc:subfield code="b">an engineering approach /</marc:subfield>
+      <marc:subfield code="c">Yunus A. Cengel, Michael A. Boles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Fourth edition, international edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boston, Mass. :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill,</marc:subfield>
+      <marc:subfield code="c">[2004]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="4" ind2=" ">
+      <marc:subfield code="c">©2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxx, 930 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations (some colour) ;</marc:subfield>
+      <marc:subfield code="c">26 cm +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer disc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">McGraw-Hill series in mechanical engineering</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM : Student resource CD-ROM, version 1.2 to accompany Thermodynamics : an engineering approach, 4th edition.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Thermodynamics.</marc:subfield>
+      <marc:subfield code="9">1632</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boles, Michael A.</marc:subfield>
+      <marc:subfield code="9">1633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1=" " ind2=" ">
+      <marc:subfield code="a">Student Resource CD-ROM To Accompany Thermodynamics : An Engineering Approach</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">McGraw-Hill series in mechanical engineering</marc:subfield>
+      <marc:subfield code="9">4483</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GENLS : 180359, CDR000389, 180360, CDR000390</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30506</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

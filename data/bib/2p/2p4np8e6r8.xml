@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01273nam a2200325 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000064097</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="004">vtls000064096</marc:controlfield>
+    <marc:controlfield tag="005">20251114204331</marc:controlfield>
+    <marc:controlfield tag="008">120925t2007    enka   f      000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780194597364 (student&apos;s bk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780194568029 (pocket bk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780194597289 (DVD-ROM)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000064097</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201703141042</marc:subfield>
+      <marc:subfield code="b">saini</marc:subfield>
+      <marc:subfield code="c">201209251616</marc:subfield>
+      <marc:subfield code="d">ida</marc:subfield>
+      <marc:subfield code="c">201209251510</marc:subfield>
+      <marc:subfield code="d">ida</marc:subfield>
+      <marc:subfield code="y">201209251457</marc:subfield>
+      <marc:subfield code="z">ida</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">PE1128 .T39 2007 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Taylor, Liz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">International express : student&apos;s book : elementary /</marc:subfield>
+      <marc:subfield code="c">Liz Taylor, Alastair Lane</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Interactive ed.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Oxford :</marc:subfield>
+      <marc:subfield code="b">Oxford University Press,</marc:subfield>
+      <marc:subfield code="c">c2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">111 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 Pocket Book, 1 DVD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Oxford Business English</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Self-instruction</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Spoken English</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Sound recordings for foreign speakers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Problems, exercises, etc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lane, Alastair</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">PE1128 .T39 2007 f</marc:subfield>
+      <marc:subfield code="p">66160</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">PE1128 .T39 2007 f</marc:subfield>
+      <marc:subfield code="p">66161</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">YSPOT</marc:subfield>
+      <marc:subfield code="z">manual</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 6178 | PE1128 .T39 2007 f</marc:subfield>
+      <marc:subfield code="p">66162</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">ACCOM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUAM</marc:subfield>
+      <marc:subfield code="c">182</marc:subfield>
+      <marc:subfield code="d">188</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0040*0080*0200*0201*0202*0400*0900*1000*2450*2500*2600*3000*4900*6500*6501*6502*6503*6504*7000*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

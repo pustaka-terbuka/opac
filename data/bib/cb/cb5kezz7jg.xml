@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01113nam a2200289 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000073162</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204332</marc:controlfield>
+    <marc:controlfield tag="008">130708t2010    paua   f b    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781616920067</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1616920068</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000073162</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201703091601</marc:subfield>
+      <marc:subfield code="b">nazri</marc:subfield>
+      <marc:subfield code="y">201307081142</marc:subfield>
+      <marc:subfield code="z">jamie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">T174.7 .N368 2010 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Nanotechnology and microelectronics :</marc:subfield>
+      <marc:subfield code="b">global diffusion, economics and policy /</marc:subfield>
+      <marc:subfield code="c">editor by Ndubuisi Ekekwe</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hershey, PA :</marc:subfield>
+      <marc:subfield code="b">Information Science Reference,</marc:subfield>
+      <marc:subfield code="c">c2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxix, 507 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Premier reference source&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Nanotechnology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Microelectronics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Technological innovations</marc:subfield>
+      <marc:subfield code="x">Economic aspects</marc:subfield>
+      <marc:subfield code="z">Developing countries</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">High technology industries</marc:subfield>
+      <marc:subfield code="z">Developing countries</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Technology transfer</marc:subfield>
+      <marc:subfield code="z">Developing countries</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ekekwe, Ndubuisi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T174.7 .N368 2010 f</marc:subfield>
+      <marc:subfield code="p">74521</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">235</marc:subfield>
+      <marc:subfield code="d">241</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0201*0400*0900*2450*2600*3000*5000*5040*6500*6501*6502*6503*6504*7000*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

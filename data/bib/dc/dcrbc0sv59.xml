@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00870nam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002900560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110842</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">28640047</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002900560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181212</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658.456</marc:subfield>
+      <marc:subfield code="b">CRA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Craven, Robin E.</marc:subfield>
+      <marc:subfield code="9">16972</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The complete idiot&apos;s guide to meeting and event planning /</marc:subfield>
+      <marc:subfield code="c">by Robin E. Craven and Lynn Johnson Golabowski</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Meeting and event planning</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Indianapolis, Ind. :</marc:subfield>
+      <marc:subfield code="b">Alpha Books,</marc:subfield>
+      <marc:subfield code="c">2001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xviii, 317 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Business meetings</marc:subfield>
+      <marc:subfield code="x">Planning.</marc:subfield>
+      <marc:subfield code="9">213851</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Congresses and conventions</marc:subfield>
+      <marc:subfield code="x">Planning.</marc:subfield>
+      <marc:subfield code="9">14247</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Special events</marc:subfield>
+      <marc:subfield code="x">Planning.</marc:subfield>
+      <marc:subfield code="9">25398</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Johnson Golabowski, Lynn.</marc:subfield>
+      <marc:subfield code="9">213852</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 665088</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30415</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

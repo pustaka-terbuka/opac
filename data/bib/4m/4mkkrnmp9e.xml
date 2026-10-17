@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00991nam a2200289Ia 4500</marc:leader>
+    <marc:controlfield tag="001">b10003447</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20250106113237</marc:controlfield>
+    <marc:controlfield tag="008">981002s1992    at ab    b    001 0 eng/d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">646075500</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-35560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b10003447</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMQ</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMT</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">HF1416.6.S45 G112</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gabbay, Rony E.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Economic development in a small island economy :</marc:subfield>
+      <marc:subfield code="b">a study of the Seychelles Marketing Board /</marc:subfield>
+      <marc:subfield code="c">Rony Gabbay, Robin N. Ghosh.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">,</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Perth, W.A.] :</marc:subfield>
+      <marc:subfield code="b">Academic Press International</marc:subfield>
+      <marc:subfield code="c">1992</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">436 p. :</marc:subfield>
+      <marc:subfield code="b">ill., maps,</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Available from Academic Press International Pty Ltd, C/- Mr R Gabbay, 80 Booker St, Dianella WA 6062.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Export marketing</marc:subfield>
+      <marc:subfield code="z">Seychelles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Industrial promotion</marc:subfield>
+      <marc:subfield code="z">Seychelles.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ghosh, R. N.</marc:subfield>
+      <marc:subfield code="9">21259</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">HF1416.6.S45 G112</marc:subfield>
+      <marc:subfield code="p">73848</marc:subfield>
+      <marc:subfield code="r">2026-02-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">HF1416.6.S45 G112</marc:subfield>
+      <marc:subfield code="p">76433</marc:subfield>
+      <marc:subfield code="r">2026-02-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">openshelf</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">c_lg</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">HF1416.6.S45 G112</marc:subfield>
+      <marc:subfield code="p">76463</marc:subfield>
+      <marc:subfield code="r">2026-02-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">255</marc:subfield>
+      <marc:subfield code="d">255</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

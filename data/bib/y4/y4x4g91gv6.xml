@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01107nam a2200229   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002867560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154542</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1560320699 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002867560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181536</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">660.2804</marc:subfield>
+      <marc:subfield code="b">BAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Banerjee, Sanjoy,</marc:subfield>
+      <marc:subfield code="d">1943-</marc:subfield>
+      <marc:subfield code="9">213392</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Industrial hazards and plant safety /</marc:subfield>
+      <marc:subfield code="c">Sanjoy Banerjee</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">N.Y. ;</marc:subfield>
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Taylor &amp;amp; Francis,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 468 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Series in chemical and mechanical engineering / G. F. Hewitt, editor</marc:subfield>
+      <marc:subfield code="9">213393</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - 1.  Introduction.  - 2.  Qualitative evaluation of hazards.  - 3.  Probabilistic hazard evaluation.  - 4.  Reaction hazards.  - 5.  Emergency relief systems.  - 6.  Treatment of emergency relief discharges.  - 7.  Explosions.  - 8.  Dispersion of releases.  - 9.  External fires and radiation.  - 10.  Vapour cloud explosions.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Industrial safety.</marc:subfield>
+      <marc:subfield code="9">203954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hewitt, G. F.</marc:subfield>
+      <marc:subfield code="e">(ed.)</marc:subfield>
+      <marc:subfield code="9">213394</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ENG(UOS) : 31721</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30044</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

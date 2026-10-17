@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00914cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002895560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110838</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    enk           000 1 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0747564485 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002895560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201701091025</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201105201718</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181446</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us-mi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">813.54</marc:subfield>
+      <marc:subfield code="b">EUG 2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Eugenides, Jeffrey.</marc:subfield>
+      <marc:subfield code="9">16959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Middlesex /</marc:subfield>
+      <marc:subfield code="c">Jeffrey Eugenides.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Bloomsbury,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 529 p. ;</marc:subfield>
+      <marc:subfield code="c">18 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Gender identity</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">213809</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Greek Americans</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">213810</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hermaphroditism</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">213811</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Teenagers</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">16787</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Detroit (Mich.)</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">201750</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Grosse Pointe (Mich.)</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">213812</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADTP : 95948</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30374</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

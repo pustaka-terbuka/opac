@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00665cam a2200205 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002903860</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154602</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    enka          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">754810186</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002903860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906131044</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201906121757</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201111261451</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">201102181455</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">641.5637</marc:subfield>
+      <marc:subfield code="b">SPE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Spevack, Ysanne.</marc:subfield>
+      <marc:subfield code="9">16984</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Organic cookbook /</marc:subfield>
+      <marc:subfield code="c">Ysanne Spevack.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Lorenz Books,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">256 p. :</marc:subfield>
+      <marc:subfield code="b">col ill. ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cooking (Natural foods)</marc:subfield>
+      <marc:subfield code="9">46800</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Natural foods.</marc:subfield>
+      <marc:subfield code="9">213898</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 640250</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30459</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01882cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002884560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110826</marc:controlfield>
+    <marc:controlfield tag="008">081124s2000    waub          00  0 eng</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002884560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201406141527</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">912</marc:subfield>
+      <marc:subfield code="b">MIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="2" ind2=" ">
+      <marc:subfield code="a">Microsoft Corporation.</marc:subfield>
+      <marc:subfield code="9">95417</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Microsoft Encarta interactive world atlas 2001</marc:subfield>
+      <marc:subfield code="h">[electronic resource] /</marc:subfield>
+      <marc:subfield code="c">Microsoft.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Encarta interactive world atlas 2001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Interactive world atlas 2001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="255" ind1=" " ind2=" ">
+      <marc:subfield code="a">Scale not given.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Redmond, WA] :</marc:subfield>
+      <marc:subfield code="b">Microsoft Corp.,</marc:subfield>
+      <marc:subfield code="c">c2000.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">2 CD-ROMs :</marc:subfield>
+      <marc:subfield code="b">sd., col. ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">disc 1: Interactive world atlas - [disc 2]: Installation &amp;amp; resources.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Offers 1.8 million place names plus in-depth country articles with unique cultural information. Users can choose from more than 21 different maps styles, add or remove place names, borders, and topographic detail to create custom maps for reports and presentations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="538" ind1=" " ind2=" ">
+      <marc:subfield code="a">System requirements: Multimedia PC with a Pentium  90 or higher processor; Microsoft Windows 95, or Windows 98 or later operating system, or Windows NT workstation operating system version 4.0 or later with Service Pack 3 or later; 24 MB of RAM for Windows 95 or Windows 98; 32 MB for Windows NT Workstation; 75 MB of available hard-disk space (25 MB additional needed for install); Quad-speed or faster CD-ROM drive; Super VGA, 256-color or higher monitor supporting 640 X 480 or higher resolution with 16-bit color recommended; Local bus video with 1 MB or more of video memory; Microsoft Mouse, Microsoft IntelliMouse or compatible pointing device; 16-bit sound card with speakers or headphones.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Atlases.</marc:subfield>
+      <marc:subfield code="9">339</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Geography</marc:subfield>
+      <marc:subfield code="v">Maps.</marc:subfield>
+      <marc:subfield code="9">213643</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : CD075, CD076</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30254</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

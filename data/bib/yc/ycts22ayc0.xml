@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00942nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000037098</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204330</marc:controlfield>
+    <marc:controlfield tag="008">090601t2001    my a   f      001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789679363975</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000037098</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201703081627</marc:subfield>
+      <marc:subfield code="b">nazri</marc:subfield>
+      <marc:subfield code="c">201107132131</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201104181410</marc:subfield>
+      <marc:subfield code="d">ida</marc:subfield>
+      <marc:subfield code="c">200908141621</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200906011611</marc:subfield>
+      <marc:subfield code="z">farina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">SB4095.5.M3 O73 2001 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Orchids :</marc:subfield>
+      <marc:subfield code="b">the living jewels of Malaysia /</marc:subfield>
+      <marc:subfield code="c">text by Fadelah Abdul Aziz ... [et al.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Malaysian Agruculture Research and Development Institute,</marc:subfield>
+      <marc:subfield code="c">2001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">160 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">2001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Orchids</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Orchids</marc:subfield>
+      <marc:subfield code="x">Varieties</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Orchids</marc:subfield>
+      <marc:subfield code="x">Planting</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Fadelah Abdul Aziz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="g">95</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">SB4095.5.M3 O73 2001 f</marc:subfield>
+      <marc:subfield code="p">53728</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="v">95</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">153</marc:subfield>
+      <marc:subfield code="d">159</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*2450*2600*3000*5040*6500*6501*6502*7000*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

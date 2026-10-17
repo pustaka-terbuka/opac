@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00882cas a22002295  4500</marc:leader>
+    <marc:controlfield tag="001">vtls003128070</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200220002811</marc:controlfield>
+    <marc:controlfield tag="006">m        d  ||||||</marc:controlfield>
+    <marc:controlfield tag="007">cr anunnnuuuaa</marc:controlfield>
+    <marc:controlfield tag="008">070321c    9999xx uu p       0    0eng d</marc:controlfield>
+    <marc:datafield tag="022" ind1="0" ind2=" ">
+      <marc:subfield code="a">0101-8205</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EbpS)ebs49677588</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003128070</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="y">200812011704</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Computational &amp;amp; Applied Mathematics</marc:subfield>
+      <marc:subfield code="h">[electronic resource].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">25651-070 Petropolis RJ :</marc:subfield>
+      <marc:subfield code="b">Computational &amp;amp; Applied Mathematics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Academic Journal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="529" ind1=" " ind2=" ">
+      <marc:subfield code="a">TSLHHL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="530" ind1=" " ind2=" ">
+      <marc:subfield code="a">Online version of print publication.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">Computers &amp;amp; Applied Sciences Complete</marc:subfield>
+      <marc:subfield code="d">Ipswich, MA : EBSCO Publishing, 1999-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="3">Full text available: Sep 2005-.</marc:subfield>
+      <marc:subfield code="z">Available on EBSCOhost.</marc:subfield>
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://search.ebscohost.com/direct.asp?db=iih&amp;amp;jid=%221CKX%22&amp;amp;scope=site</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30069</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

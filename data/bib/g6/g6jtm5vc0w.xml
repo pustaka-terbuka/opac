@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00806nas a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">b1000404x</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20250110094514</marc:controlfield>
+    <marc:controlfield tag="008">990227c19779999mauqr p   o   0   a0eng/d</marc:controlfield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0148-9267</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-41560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b1000404x</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMQ</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMQ</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML1 .C857</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Computer music journal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Menlo Park, Calif. :</marc:subfield>
+      <marc:subfield code="b">People &apos;s Computer Co.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">v. :</marc:subfield>
+      <marc:subfield code="b">ill.,</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="310" ind1=" " ind2=" ">
+      <marc:subfield code="a">Quarterly, &lt;1979-&gt;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="362" ind1="0" ind2=" ">
+      <marc:subfield code="a">Vol. 1, no. 1 (Feb. 1977)-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Subscription for printed version has been stopped as of 1998-.Subscription is continued in electronic version.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Computer music</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="h">CD-ROM</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">ML1 .C857</marc:subfield>
+      <marc:subfield code="p">1000121301</marc:subfield>
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">309</marc:subfield>
+      <marc:subfield code="d">309</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

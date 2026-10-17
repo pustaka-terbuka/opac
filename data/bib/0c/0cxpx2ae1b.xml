@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01660ntm a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000083117</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204335</marc:controlfield>
+    <marc:controlfield tag="008">141105t2013    my da  f m    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0005715(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000083117</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905211501</marc:subfield>
+      <marc:subfield code="b">hanafiah</marc:subfield>
+      <marc:subfield code="c">201411131328</marc:subfield>
+      <marc:subfield code="d">training2</marc:subfield>
+      <marc:subfield code="y">201411051507</marc:subfield>
+      <marc:subfield code="z">training2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TA417.6 .A35 2013 r Bc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wan Mohd Afiq Asyraf Wan Junoh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Determination of fracture strain using stress relaxation method /</marc:subfield>
+      <marc:subfield code="c">Wan Mohd Afiq Asyraf Wan Junoh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvii, 73 p.  :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography : p. 74-75</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">This project is a study on determination of fracture strain using stress relaxation method. The objectives of this project are to determine fracture strain of API X65 using stress relaxation method and to investigate the effect of true stress-strain data on failure initiation point. This project involves both analysis and experiment of the API X65 steel using tensile test and MSc Marc 2008 r1 software. This project will determine fracture of ductile material using stress relaxation method. For validation, simulated results using stress relaxation method are compared with the experimental data for API X65 steel. Advantages in the use of the stress relaxation method for practical used are discussed. The results show that good comparison between simulation and experimental results support the method of stress relaxation method.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Stress relaxation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TA417.6 .A35 2013 r Bc.</marc:subfield>
+      <marc:subfield code="p">86475</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 8177 | TA417.6 .A35 2013 r Bc.</marc:subfield>
+      <marc:subfield code="p">86476</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">ACCOM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">322</marc:subfield>
+      <marc:subfield code="d">328</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5040*5200*6500*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

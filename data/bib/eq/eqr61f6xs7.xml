@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02411nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000051585</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204339</marc:controlfield>
+    <marc:controlfield tag="008">110302t2010    my da  f m    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0006425(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000051585</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905131517</marc:subfield>
+      <marc:subfield code="b">amirul</marc:subfield>
+      <marc:subfield code="c">201211011303</marc:subfield>
+      <marc:subfield code="d">Fida</marc:subfield>
+      <marc:subfield code="c">201107131747</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201103021043</marc:subfield>
+      <marc:subfield code="d">Fida</marc:subfield>
+      <marc:subfield code="y">201103020920</marc:subfield>
+      <marc:subfield code="z">Fida</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TJ853 .A84 2010 rs Bc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nur Ashikin Usri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Experimental study of heat transfer coefficient for nanofluid with inserted tape /</marc:subfield>
+      <marc:subfield code="c">Nur Ashikin Usri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvii, 85 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Project paper (Bachelor of Mechanical Engineering) -- Universiti Malaysia Pahang -- 2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography: p. 73-75</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">This thesis deals with a study of heat transfer coefficient for nanofluid with inserted tape. Research and development for enhancement heat transfer using nanofluid shows positive reaction for increasing the rate of convection heat transfer. The main objectives of this thesis are to determine heat transfer coefficient for nanofluid with inserted tape through experiment. Also, this paper will compare the experimental value of heat transfer coefficient with pervious literature. The thesis described the methodology utilize and the expected result from the experiment. Reynolds number varies between 4 000 until 22 000 within turbulent region, on the other hands, nanoparticles used is Alumina, Al2Owith volume concentration of 0.5%. The dimension of the twisted tape inserts used is 5, 10, 15 and 83. From the experimental result, ratio of twist, H/D =10 for nanofluid provides higher Nusselt number for higher Reynolds number. Theoretically, H/D of 5 for nanofluid should have highest value of Nusselt number. Different result than theory is due to environment distraction. Using twist insert tape with nanofluid as working fluid, the value of Nusselt number is higher compare to previous literature of Nusselt number for nanofluid and water in plain tube by 33.51% and 42.17% respectively. The research paper concluded with tabulation from result and recommendation for further research.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Nanofluids</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Fluidic devices</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Heat</marc:subfield>
+      <marc:subfield code="x">Transmission</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TJ853 .A84 2010 rs Bc.</marc:subfield>
+      <marc:subfield code="p">53947</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 4989 | TJ853 .A84 2010 rs Bc.</marc:subfield>
+      <marc:subfield code="p">53948</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">448</marc:subfield>
+      <marc:subfield code="d">454</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5020*5040*5200*6500*6501*6502*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

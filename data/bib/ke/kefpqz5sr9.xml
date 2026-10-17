@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01199nam a2200289 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000094723</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204305</marc:controlfield>
+    <marc:controlfield tag="008">160504t2008    cc a   g      000 0 mul d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9787040258752 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000094723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201605171058</marc:subfield>
+      <marc:subfield code="b">shima</marc:subfield>
+      <marc:subfield code="c">201605121039</marc:subfield>
+      <marc:subfield code="d">saini</marc:subfield>
+      <marc:subfield code="y">201605040924</marc:subfield>
+      <marc:subfield code="z">epul</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">PL1209 .T59 2008 mcc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Ti yan han yu pin yin ke ben =</marc:subfield>
+      <marc:subfield code="b">Experiencing Chinese Pinyin book /</marc:subfield>
+      <marc:subfield code="c">Guo ji yu yan yan jiu yu fa zhan zhong xin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="1">
+      <marc:subfield code="a">&amp;#x4F53;&amp;#x9A8C;&amp;#x6C49;&amp;#x8BED;&amp;#x62FC;&amp;#x97F3;&amp;#x8BFE;&amp;#x672C; =</marc:subfield>
+      <marc:subfield code="b">Experiencing Chinese Pinyin book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="1">
+      <marc:subfield code="a">Experiencing Chinese Pinyin book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Di 1 ban</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Beijing Shi :</marc:subfield>
+      <marc:subfield code="b">Gao deng jiao yu chu ban she,</marc:subfield>
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">129 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm. +</marc:subfield>
+      <marc:subfield code="e">1 VCD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">Text in simplified Chinese script and English</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Chinese language</marc:subfield>
+      <marc:subfield code="x">Pronunciation</marc:subfield>
+      <marc:subfield code="v">Juvenile literature</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Chinese language</marc:subfield>
+      <marc:subfield code="x">Phonetics</marc:subfield>
+      <marc:subfield code="v">Juvenile literature</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Chinese language materials</marc:subfield>
+      <marc:subfield code="v">Bilingual</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1="0" ind2="0">
+      <marc:subfield code="0">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">PL1209 .T59 2008 | PL1209 .T59 2008 mcc</marc:subfield>
+      <marc:subfield code="p">109527</marc:subfield>
+      <marc:subfield code="r">2019-11-01 00:00:00</marc:subfield>
+      <marc:subfield code="s">2019-10-08</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">INTER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 9816 | PL1209 .T59 2008 mcc</marc:subfield>
+      <marc:subfield code="p">109528</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">ACCOM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">3</marc:subfield>
+      <marc:subfield code="d">9</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*2450*2460*2461*2500*2600*3000*5410*5460*6500*6501*6502*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

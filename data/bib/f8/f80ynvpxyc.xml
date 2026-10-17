@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>03512ntm a2200289 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000093892</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204335</marc:controlfield>
+    <marc:controlfield tag="008">160316t2015    my da  f ab m 000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0005463(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000093892</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905151729</marc:subfield>
+      <marc:subfield code="b">hanafiah</marc:subfield>
+      <marc:subfield code="c">201710021625</marc:subfield>
+      <marc:subfield code="d">aishah</marc:subfield>
+      <marc:subfield code="c">201603161649</marc:subfield>
+      <marc:subfield code="d">asma</marc:subfield>
+      <marc:subfield code="c">201603161629</marc:subfield>
+      <marc:subfield code="d">asma</marc:subfield>
+      <marc:subfield code="y">201603161628</marc:subfield>
+      <marc:subfield code="z">asma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">PBMSK .M87 2015 r Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mushtaq, Ahmad Jahed</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Habits and motives of reading newspaper among students in Al-Beroni University of Afghanistan /</marc:subfield>
+      <marc:subfield code="c">Ahmad Jaheq Mushtaq</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 119 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Centre for Modern Languages and Human Sciences</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thesis (Master of Humanities Technology (Human Performance System)) -- Universiti Malaysia Pahang &amp;#x2013; 2015</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography : p. 95-102</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">Newspaper reading is considered as a most advantageous activity for students of all ages as it enhances their knowledge and information. The purpose of this study was to investigate the habits and motives of reading newspaper among Al-Beroni University students of Afghanistan as well as factors affecting their habits of reading newspaper. This study was also designed to find out the effect of age and gender on the students&amp;#x201F; habits and motives of reading newspaper. The explanatory design of mix methods was used to collect the data as well as statistical tools were used to analyze the relevant data of the study. A total of 103 questionnaires were administered to the students in Literature &amp; Language Faculty in Al-Beroni University. Besides that, ten students from the faculty were interviewed for qualitative study. The results showed that the habit of reading newspaper among the students is poor. They spent very little time reading newspaper. Some of the factors that are contributed to low readership of newspaper are; most of them listen to radio and television. They have less access to newspaper as well as their families challenged with economic problems. Apart from that, it was found that they read to satisfy their cognitive and social integrative needs. The study also found that there were significant differences in their habits and motives of reading newspaper across age groups. Older students obtained higher mean scores than younger students in terms of their habits and motives in reading newspaper. Another important finding revealed that there were significant differences between male and female students in their habits of reading newspaper. Female students were found to read more than male students. On the other hand, no significant differences were found between male and female students in terms of their opinions concerning the motives of reading newspaper. These findings of the current study are considered very helpful for both students and newspapers organizations to inculcate the habits of reading newspaper in the society. Inculcating the habits of reading newspaper in the society will create knowing persons that have the ability to adapt the changes and lead the society towards developments</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Centre for Modern Languages and Human Sciences</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Universities and Colleges</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Theses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://ecollib.ump.edu.my/3582/</marc:subfield>
+      <marc:subfield code="z">Access in library only</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">PBMSK .M87 2015 r Thesis</marc:subfield>
+      <marc:subfield code="p">100323</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 8909 | PBMSK .M87 2015 r Thesis</marc:subfield>
+      <marc:subfield code="p">100324</marc:subfield>
+      <marc:subfield code="r">2023-01-30 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">PBMSK .M87 2015 r Thesis</marc:subfield>
+      <marc:subfield code="p">107878</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">2</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+      <marc:subfield code="z">c.2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 9699 | PBMSK .M87 2015 r Thesis</marc:subfield>
+      <marc:subfield code="p">107879</marc:subfield>
+      <marc:subfield code="r">2023-01-30 00:00:00</marc:subfield>
+      <marc:subfield code="t">2</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+      <marc:subfield code="z">c.2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">328</marc:subfield>
+      <marc:subfield code="d">334</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5000*5020*5040*5200*6100*6500*6501*8560*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

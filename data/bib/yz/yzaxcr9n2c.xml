@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00839cam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003020196</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154550</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    si            000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">981204342x</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003020196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181745</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200412141302</marc:subfield>
+      <marc:subfield code="z">kusuma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">499.2883421</marc:subfield>
+      <marc:subfield code="b">LIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Liaw, Yock Fang.</marc:subfield>
+      <marc:subfield code="9">18473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Speak standard Malay :</marc:subfield>
+      <marc:subfield code="b">a beginner&apos;s guide   /</marc:subfield>
+      <marc:subfield code="c">Liaw Yock Fang.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Times Editions,</marc:subfield>
+      <marc:subfield code="c">c2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxiii, 280 p. ;</marc:subfield>
+      <marc:subfield code="c">19 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Times learn Malay</marc:subfield>
+      <marc:subfield code="9">90481</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">First published in 1993.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malay language</marc:subfield>
+      <marc:subfield code="v">Conversation and phrase books</marc:subfield>
+      <marc:subfield code="x">English.</marc:subfield>
+      <marc:subfield code="9">37514</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malay language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers</marc:subfield>
+      <marc:subfield code="x">English.</marc:subfield>
+      <marc:subfield code="9">16778</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malay language</marc:subfield>
+      <marc:subfield code="x">Spoken Malay.</marc:subfield>
+      <marc:subfield code="9">213073</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT: 660123</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30215</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

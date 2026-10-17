@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00913nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003144627</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154543</marc:controlfield>
+    <marc:controlfield tag="008">110218s2007    si            001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9810677790 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789810677794 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003144627</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181644</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200908031251</marc:subfield>
+      <marc:subfield code="d">shahriman</marc:subfield>
+      <marc:subfield code="c">200908031250</marc:subfield>
+      <marc:subfield code="d">shahriman</marc:subfield>
+      <marc:subfield code="y">200907031526</marc:subfield>
+      <marc:subfield code="z">siti</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">370.157</marc:subfield>
+      <marc:subfield code="b">TAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tan, Ai-Girl.</marc:subfield>
+      <marc:subfield code="9">213420</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Creative teaching :</marc:subfield>
+      <marc:subfield code="b">a positive beginning /</marc:subfield>
+      <marc:subfield code="c">Ai-Girl Tan and Swee-Chiew Goh.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Pearson/Prentice Hall,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 169 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Creative teaching.</marc:subfield>
+      <marc:subfield code="9">29297</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Creative teaching</marc:subfield>
+      <marc:subfield code="z">Singapore.</marc:subfield>
+      <marc:subfield code="9">213421</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Creative thinking</marc:subfield>
+      <marc:subfield code="x">Study and teaching.</marc:subfield>
+      <marc:subfield code="9">213422</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Goh, Swee-Chiew.</marc:subfield>
+      <marc:subfield code="9">213423</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADP/1/1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30066</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

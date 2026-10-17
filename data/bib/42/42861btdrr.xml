@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00875nam a2200265Ia 4500</marc:leader>
+    <marc:controlfield tag="001">b10002303</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20241218150723</marc:controlfield>
+    <marc:controlfield tag="008">990212s1990    my ab    b    000 0 eng/d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-24160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b10002303</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMQ</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMQ</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">QK545.M4 M913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Mosses and liverworts of Mt. Kinabalu /</marc:subfield>
+      <marc:subfield code="c">by Jan Peter Frahm ... [et. al.].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kota Kinabalu, Sabah, Malaysia :</marc:subfield>
+      <marc:subfield code="b">Sabah Parks Trustees,</marc:subfield>
+      <marc:subfield code="c">1990</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">91 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.), maps (some col.),</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Borneo Collection.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Liverworts</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="z">Kinabalu, Mount (Sabah).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Mosses</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="z">Kinabalu, Mount (Sabah).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Borneo.;&quot;Borneo&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Frahm, Jan-Peter, 1945-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">openshelf</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_2</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">QK545.M4 M913</marc:subfield>
+      <marc:subfield code="p">76050</marc:subfield>
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">openshelf</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_2</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">QK545.M4 M913</marc:subfield>
+      <marc:subfield code="p">117906</marc:subfield>
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">borneo</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cms_b</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">QK545.M4 M913</marc:subfield>
+      <marc:subfield code="p">87803</marc:subfield>
+      <marc:subfield code="r">2020-12-24 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">157</marc:subfield>
+      <marc:subfield code="d">157</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

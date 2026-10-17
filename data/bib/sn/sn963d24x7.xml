@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>05073ntm a2200373 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000105475</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204340</marc:controlfield>
+    <marc:controlfield tag="008">190212t20182018my a   f am   000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0000456(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000105475</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905151508</marc:subfield>
+      <marc:subfield code="b">nazirah</marc:subfield>
+      <marc:subfield code="y">201902121222</marc:subfield>
+      <marc:subfield code="z">saini</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">FKASA .H37 2018 r Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Al-Hasani, Ban Hikmat Qasim,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Assessment of physicochemical and bilogical properties of harvested rainwater in Gambang area and removal of contaminants using sodium hypochlorite /</marc:subfield>
+      <marc:subfield code="c">Ban Hikmat Qasim Al - Hasani</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="4">
+      <marc:subfield code="c">&amp;#xA9; 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiii, 119 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations (some color) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer disc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="347" ind1=" " ind2=" ">
+      <marc:subfield code="a">text file</marc:subfield>
+      <marc:subfield code="b">PDF</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Faculty of Civil Engineering &amp; Earth Resources</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thesis (Master of Science) -- Universiti Malaysia Pahang &amp;#x2013; 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">Rainwater harvesting system (RWH) refers to the collection and storage of rainwater for potable and non-potable use. This study carried out the quality assessment of rainwater harvesting system in Universiti Malaysia Pahang, Gambang, a small district of Pahang state for both physicochemical and microbiological characteristics to address the potential use of harvested rainwater as an alternative drinking water supply in rural areas. Rainwater samples were collected from rainwater harvesting system (WASRA), Water System for Rural Area on a weekly basis during three time intervals or which known as southeast monsoon season (pre-monsoon, monsoon and post monsoon), starting from end of August until end of February to check the effect of variation of monsoon seasonal changes on rainwater harvesting system quality and comparing it to Malaysian Drinking Water Quality Standards and World Health Organization water quality standards. Physicochemical parameters were measured during study period are temperature, pH, alkalinity, turbidity, electrical conductivity (EC), salinity, total suspended solids (TSS), total dissolved solids (TDS), dissolved oxygen (DO), ammonia nitrogen (NH&amp;#x25C;-N), Chloride (Cl), zinc (Zn), hardness as magnesium (Mg) and calcium (Ca). The results showed that most of the physicochemical parameters varied during monsoon seasonal variation as pH mean values varied from 5.95- 6.57 mg/L during pre-monsoon and monsoon season. Alkalinity values were varied from10.77- 12.12 mg/L, while salinity values never affected by seasonal changes. TDS values varied from 45.26-47.01 mg/L. The lowest TSS value was in post monsoon (0.92 mg/L) while the highest value was in monsoon (1.05 mg/L). DO was (7.11mg/L) in pre-monsoon, (7.29 mg/L) in monsoon) and (7.53 mg/L) during post-monsoon. Cl varied from 0.30-0.07mg/L during monsoon seasonal changes and the lowest value was during post-monsoon (0.06 mg/L). Zn values varied from 0.05-0.06 mg/L. NH&amp;#x25C;-N value was the highest (0.13mg/L) during post monsoon while the lowest during monsoon (0.03mg/L) and 0.12mg/L during pre-monsoon. Magnesium mean values varied from 0.44- 1.03 mg/L while calcium was the highest values during the pre-monsoon (1.02 mg/L) and the lowest during the post-monsoon (0.57) mg/L. The P values were below 0.05 and that shows a variation effect of monsoon season on the physicochemical parameters. Microbiological rainwater quality was assessed during monsoon seasonal changes for both widely well-known bacteria of Escherichia coli (E. coli) and total coliform as the results showed a significant variation in microbiological water quality during seasonal changes and the range of total coliform was 35.8- 616 MPN/100 mL and (P &lt; 0.001) while E. coli range was 0-16.3 MPN/100 mL and the (P &lt; 0.001). In general, the physicochemical parameters of the rainwater samples results were within the Malaysian Drinking Water Quality Standards and World Health Organization for drinking water requirements. The microbiological parameters results were above the drinking water quality standards and the rainwater samples were contaminated with both bacteria of E. coli and total coliform. A proper treatment was applied to remove the bacteria contamination by using affordable treatment of sodium hypochlorite solution with specific contact time and different doses to maintain the optimum dose of 4.0 mg/L that complies with the limits to provide an effective removal of bacteria and to apply the concept of alternative water source for domestic use in rural areas.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Faculty of Civil Engineering &amp; Earth Resources</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Universities and colleges</marc:subfield>
+      <marc:subfield code="x">Disertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Theses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">FKASA .H37 2018 r Thesis</marc:subfield>
+      <marc:subfield code="p">126546</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 11482 | FKASA .H37 2018 r Thesis</marc:subfield>
+      <marc:subfield code="p">126547</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">476</marc:subfield>
+      <marc:subfield code="d">482</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2640*2641*3000*3360*3361*3370*3371*3380*3381*3470*5000*5020*5040*5200*6100*6500*6501*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

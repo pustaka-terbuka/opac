@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>03226nam a2200325 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003018230</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110839</marc:controlfield>
+    <marc:controlfield tag="008">110218                       000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0470800445 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003018230</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181826</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200411221540</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200409281434</marc:subfield>
+      <marc:subfield code="z">staff</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">540.212</marc:subfield>
+      <marc:subfield code="b">AYL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Aylward, G. H.</marc:subfield>
+      <marc:subfield code="9">213817</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">SI chemical data /</marc:subfield>
+      <marc:subfield code="c">Gordon Aylward &amp;amp; Tristan Findlay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">5th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Milton, Qld. :</marc:subfield>
+      <marc:subfield code="b">John Wiley &amp;amp; Sons (Australia),</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 202 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Previous ed.: 1998.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Periodic table of the elements combined with Electronic configuration of elements (abbreviated).  - Acknowledgements.  - Preface to fifth edition.  - Preface to fourth edition.  - Preface to third edition.  - References to the sources of chemical data.  - 1.  International system of units (SI).  - 2.  Fundamental constants.  - 3.  Common conversion factors.  - 4.  Properties of the elements.  - 5.  Properties of inorganic compounds.  - 6.  Properties of organic compounds.  - 7.  Some crystal forms.  - 8.  Shapes of some molecules and ions bond angles, diagrams of shapes.  - 9.  Bond lengths.  - 10.  Bond dissociation enthalpies.  - 11. Average bond enthalpies.  - 12.  Electronegatives of the elements (Pauling scale).  - 13.  Enthalpies of melting, vaporisation and atomisation.  - 14.  Successive ionisation enthalpies of the elements.  - 15.  Periodic trends in first ionisation enthalpies.  - 16.  Electron affinities.  - Lattice enthalpies of ionic crystals.  - 18.  Enthalpies of neutralisaation.  - 19.  Solubility products. - 20A.  Stability constants of complex ions.  - 20B.  Cumulative stability constants.  - 21.  Standard electrode potentials and redox equilibria.  - 22.  Dissociataion constants of acids and hydrated metal ions.  - 23.  Common acid-base indicators.  - Ionic properties of water electrical conductivity, ionic product.  - 25.  Molar conductivities of aqueous solutions.  - 26.  Ionic molar conductivities at infinite dilution.  - 27.  Solubility of gases in water.  - 28.  Boiling temperature elevation and freezing temperature depression constants.  - 29.  Critical constants and triple points of selected substances.  - 30.  Vapour pressure and desity of water and of mercury at different temperatures.  - 31.  Densities of aqueous solutions.  - 32.  Infarared absorption frequencies.  - 33.  NMR chemical shifts.  - 34.  Electronic configuration of the elements.  - 35.  Greek alphabet.  - 36.  Numerical prefixes.  Appendix to talbles 5 and 6.  - Risk phrases.  - Safety phrases.  - Index.  - Elements.  - Hints on first aids.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="521" ind1=" " ind2=" ">
+      <marc:subfield code="a">For tertiary students.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hazardous substances</marc:subfield>
+      <marc:subfield code="v">Tables.</marc:subfield>
+      <marc:subfield code="9">213818</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Clinical chemistry</marc:subfield>
+      <marc:subfield code="v">Tables.</marc:subfield>
+      <marc:subfield code="9">213819</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Chemical elements</marc:subfield>
+      <marc:subfield code="v">Tables.</marc:subfield>
+      <marc:subfield code="9">213820</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Reference values (Medicine)</marc:subfield>
+      <marc:subfield code="9">17461</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Chemistry</marc:subfield>
+      <marc:subfield code="v">Tables</marc:subfield>
+      <marc:subfield code="9">17462</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Findlay, T. J. V.</marc:subfield>
+      <marc:subfield code="q">(Tristan John Victor)</marc:subfield>
+      <marc:subfield code="e">(j.a.)</marc:subfield>
+      <marc:subfield code="9">213821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">BMS(UNA) : 260047, 260048, 260049, 260050</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30386</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

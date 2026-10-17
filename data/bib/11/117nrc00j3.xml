@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01066nam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002867360</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110817</marc:controlfield>
+    <marc:controlfield tag="008">040309                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">No ISBN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002867360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">362.1969792071</marc:subfield>
+      <marc:subfield code="b">GUI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Guide to integrating HIV/AIDS education into Moral Education, Islamic Studies and Malaysian Studies in private colleges /</marc:subfield>
+      <marc:subfield code="c">[compiled by] Malaysian AIDs Council</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Kuala Lumpur] :</marc:subfield>
+      <marc:subfield code="b">Malaysian AIDS Council,</marc:subfield>
+      <marc:subfield code="c">[2003?]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">ca. 131 p. ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Some articles in Malay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Module 1 : Moral Education.  - Module 2 : Islamic Studies. - Module 3 : Malaysian Studes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">AIDs (Disease)</marc:subfield>
+      <marc:subfield code="x">Study and teaching</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">213386</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Health education</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">213387</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">HIV (Viruses)</marc:subfield>
+      <marc:subfield code="x">Study and teaching</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">213388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Private universities and colleges</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">213389</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Malaysian AIDS Council.</marc:subfield>
+      <marc:subfield code="9">97616</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LCS : 280299, 280300</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30040</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

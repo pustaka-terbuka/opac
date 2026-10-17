@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00925nam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002900260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110842</marc:controlfield>
+    <marc:controlfield tag="008">081124                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1564I47126</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002900260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">200905251412</marc:subfield>
+      <marc:subfield code="b">Irma</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">808.6</marc:subfield>
+      <marc:subfield code="b">MAY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">May, Debra Hart,</marc:subfield>
+      <marc:subfield code="d">1961-</marc:subfield>
+      <marc:subfield code="9">16969</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Everyday letters for busy people :</marc:subfield>
+      <marc:subfield code="b">hundreds of sample letters you can copy or adapt at a minute&apos;s notice /</marc:subfield>
+      <marc:subfield code="c">by Debra Hart May and Regina McAloney</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Rev. ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Franklin Lakes, NJ :</marc:subfield>
+      <marc:subfield code="b">Career Press,</marc:subfield>
+      <marc:subfield code="c">c2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">288p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Rhetoric</marc:subfield>
+      <marc:subfield code="v">Handbooks, manuals, etc.</marc:subfield>
+      <marc:subfield code="9">13238</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Form letters</marc:subfield>
+      <marc:subfield code="v">Handbooks, manuals, etc.</marc:subfield>
+      <marc:subfield code="9">16970</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Letter writing</marc:subfield>
+      <marc:subfield code="v">Handbooks, manuals, etc.</marc:subfield>
+      <marc:subfield code="9">16971</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kelly, Regina Anne</marc:subfield>
+      <marc:subfield code="9">33737</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT: 665089</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30413</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

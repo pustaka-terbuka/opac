@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01178cam a2200301 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002868760</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154542</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    enk      b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0421783001 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002868760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906181320</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181344</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008251314</marc:subfield>
+      <marc:subfield code="d">haizir</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">e-uk-en</marc:subfield>
+      <marc:subfield code="a">e-uk-wl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">345.42056</marc:subfield>
+      <marc:subfield code="b">ASH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ashworth, Andrew</marc:subfield>
+      <marc:subfield code="9">32935</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Human rights, serious crime and criminal procedure /</marc:subfield>
+      <marc:subfield code="c">by Andrew Ashworth.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Sweet &amp;amp; Maxwell,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xx, 145 p. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hamlyn lectures ;</marc:subfield>
+      <marc:subfield code="v">53rd ser.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Published under the auspices of the Hamlyn Trust&amp;quot;. - T.p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminal justice, Administration of</marc:subfield>
+      <marc:subfield code="z">England.</marc:subfield>
+      <marc:subfield code="9">10590</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminal justice, Administration of</marc:subfield>
+      <marc:subfield code="z">Wales.</marc:subfield>
+      <marc:subfield code="9">16856</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminal law</marc:subfield>
+      <marc:subfield code="z">England.</marc:subfield>
+      <marc:subfield code="9">11410</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminal law</marc:subfield>
+      <marc:subfield code="z">Wales.</marc:subfield>
+      <marc:subfield code="9">12884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminals</marc:subfield>
+      <marc:subfield code="x">Civil rights</marc:subfield>
+      <marc:subfield code="z">England.</marc:subfield>
+      <marc:subfield code="9">213405</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminals</marc:subfield>
+      <marc:subfield code="x">Civil rights</marc:subfield>
+      <marc:subfield code="z">Wales.</marc:subfield>
+      <marc:subfield code="9">213406</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAW(UOS) : 19715, 19923, 19924, 19925</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30053</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00948cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003020043</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154559</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    caua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0534490964 ( Int. student ed. : hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780534490966 ( Int. student ed. : hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003020043</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181414</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201010111112</marc:subfield>
+      <marc:subfield code="d">wilmina</marc:subfield>
+      <marc:subfield code="c">201010111110</marc:subfield>
+      <marc:subfield code="d">wilmina</marc:subfield>
+      <marc:subfield code="c">201008131603</marc:subfield>
+      <marc:subfield code="d">malathy</marc:subfield>
+      <marc:subfield code="y">200411191648</marc:subfield>
+      <marc:subfield code="z">ramlah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">510</marc:subfield>
+      <marc:subfield code="b">EPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Epp, Susanna S.</marc:subfield>
+      <marc:subfield code="9">14243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Discrete mathematics with applications /</marc:subfield>
+      <marc:subfield code="c">Susanna S. Epp.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">3rd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Belmont, CA :</marc:subfield>
+      <marc:subfield code="b">Thomson/Brooks/Cole,</marc:subfield>
+      <marc:subfield code="c">c2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xix, 775, 116, 11 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">27 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">American Degree Programme : MATH208</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mathematics.</marc:subfield>
+      <marc:subfield code="9">202278</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADP : 96719, 96720, 96721, 96722, 96723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">SOCIT : 547448</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1=" " ind2=" ">
+      <marc:subfield code="a">ENG : 149489</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30378</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

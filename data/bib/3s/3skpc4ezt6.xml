@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02177nam a2200289   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002902060</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110843</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0735605068 (box)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1572318473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002902060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181540</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181441</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200702281739</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="c">200702281734</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">5.44769</marc:subfield>
+      <marc:subfield code="b">MIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Microsoft Windows 2000 professional step by step /</marc:subfield>
+      <marc:subfield code="c">ActiveEducation.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Windows 2000 professional step by step</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Redmond, WA :</marc:subfield>
+      <marc:subfield code="b">Microsoft Press,</marc:subfield>
+      <marc:subfield code="c">c2000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxvi, 274 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm. +</marc:subfield>
+      <marc:subfield code="e">2 electronic  optical discs (CD-ROM) (4 3/4 in.) +</marc:subfield>
+      <marc:subfield code="e">1  booklet (30 p. ; 22 cm.) in 1 box</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">QuickLook Guide.  - Finding Your Best Starting Point.  - Using the Microsoft Windows 2000 Professional Step by Step CD-ROM.  - Conventions and Features in This Book.  - Pt.  1.  Getting Started With Microsoft Windows 2000 Professional.  Lesson 1.  Touring Microsoft Windows 2000 Professional.  Lesson  2.  Getting Help When You Need It.   Lesson 3.  Managing Files and Folders.  - Pt.  2.  Getting Connected.  Lesson 4.  Using Windows on a Network.  Lesson 5.  Accessing and Browsing the Internet.  Lesson 6.  Communicating with Others.  - Pt.  3.  Getting The Most From Windows 2000 Professional.  Lesson 7.  Customizing Your Desktop.  Lesson 8.  Using Windows On The Go.  Lesson 9.  Working with Software and Hardware.  Lesson 10.  Maintaining Peak Performance.  - Appendix A: Matching the Exercises.  - Appendix B.  Installing Windows 2000.  -    Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 electronic optical disc (CD-ROM) : Microsoft press step by step interactive microsoft office 2000.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 electronic  optical disc (CD-ROM) : Microsoft Windows 2000 professional step by step</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="630" ind1="0" ind2="0">
+      <marc:subfield code="a">Microsoft Windows (Computer file)</marc:subfield>
+      <marc:subfield code="9">92554</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Operating systems (Computers)</marc:subfield>
+      <marc:subfield code="9">443</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">ActiveEducation (Firm)</marc:subfield>
+      <marc:subfield code="9">209739</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Microsoft press step by step interactive microsoft office 2000.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104378, 104379, CD100247, CD100248, CD100249, CD100250, AM100006, AM100007,</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30449</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

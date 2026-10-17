@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00693nam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003019045</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110823</marc:controlfield>
+    <marc:controlfield tag="008">110218                       000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1740594703</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003019045</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181547</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200410071901</marc:subfield>
+      <marc:subfield code="z">pushpa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">914.9504</marc:subfield>
+      <marc:subfield code="b">GRE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Greece /</marc:subfield>
+      <marc:subfield code="c">David Willett ... [et al.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Australia :</marc:subfield>
+      <marc:subfield code="b">Lonely Planet Publications,</marc:subfield>
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">712 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill., maps ;</marc:subfield>
+      <marc:subfield code="c">20 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Lonely Planet.</marc:subfield>
+      <marc:subfield code="9">15423</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Greece</marc:subfield>
+      <marc:subfield code="v">Guidebooks.</marc:subfield>
+      <marc:subfield code="9">13507</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Willett, David.</marc:subfield>
+      <marc:subfield code="9">213551</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Lonely Planet Publications (Firm)</marc:subfield>
+      <marc:subfield code="9">13983</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT: 623215</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30171</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

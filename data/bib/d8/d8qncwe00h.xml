@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01006cgm a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002884260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085824</marc:controlfield>
+    <marc:controlfield tag="008">081124p2000    my                  eng</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002884260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201406121155</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201204120949</marc:subfield>
+      <marc:subfield code="d">stazrina</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200611070909</marc:subfield>
+      <marc:subfield code="d">suankui</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-my---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">959.5</marc:subfield>
+      <marc:subfield code="b">WIN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="099" ind1=" " ind2=" ">
+      <marc:subfield code="a">MALAYSIANA</marc:subfield>
+      <marc:subfield code="e">959.5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Windows to Malaysia 2000/01</marc:subfield>
+      <marc:subfield code="h">[electronic resource] :</marc:subfield>
+      <marc:subfield code="b">the Government : your ultimate virtual guide to Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Windows to Malaysia.com Sdn. Bhd.,</marc:subfield>
+      <marc:subfield code="c">c2000.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malaysia</marc:subfield>
+      <marc:subfield code="x">Economic conditions</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malaysia</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213631</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malaysia</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213632</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malaysia</marc:subfield>
+      <marc:subfield code="x">Social conditions</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malaysia</marc:subfield>
+      <marc:subfield code="x">Tourism</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213635</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : CD001, CD021, CD022, CD023.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30246</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01617nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002888560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154554</marc:controlfield>
+    <marc:controlfield tag="008">110218s1997    nyuo          000 0aeng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1573225789 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002888560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181540</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200508111727</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200505301229</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200410251008</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">974.100496073</marc:subfield>
+      <marc:subfield code="b">MCB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McBride, James,</marc:subfield>
+      <marc:subfield code="d">1957-</marc:subfield>
+      <marc:subfield code="9">213706</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The color of water :</marc:subfield>
+      <marc:subfield code="b">a black man&apos;s tribute to his white mother /</marc:subfield>
+      <marc:subfield code="c">James McBride</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">N.Y.  :</marc:subfield>
+      <marc:subfield code="b">Riverhead Books,</marc:subfield>
+      <marc:subfield code="c">1997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvii, 291 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1=" " ind2=" ">
+      <marc:subfield code="a">1.  Dead.  - 2.  The Bicycle.  - 3.  Kosher.  - 4.  Black Power.  - 5.  The Old Testament.  - 6.  The New Testament.  - 7.  Sam.  - 8.  Brothers and Sisters.  - 9.  Shul.  - 10.  School.  - 11.  Boys.  - 12.  Daddy. -  13.  New York.  - 14.  Chicken Man.  - 15.  Graduation.  - 16.  Driving.  - 17. Lost in Harlem.  - 18.  Lost in Delaware.  - 19.  The Promise.  - 20.  Old Man Shilsky.  - 21.  A Bird Who Flies.  - 22.  A Jew Discovered.  - 23.  Dennis.  - 24.  New Brown.  - 25.  Finding Ruthie.  - Epiloque.  - Thanks and Acknowledgement.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">McBride-Jordan, Ruth,</marc:subfield>
+      <marc:subfield code="d">1921-</marc:subfield>
+      <marc:subfield code="9">213707</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">McBride, James,</marc:subfield>
+      <marc:subfield code="d">1957-</marc:subfield>
+      <marc:subfield code="9">213706</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mothers</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="x">Biography.</marc:subfield>
+      <marc:subfield code="9">213708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Racially mixed people</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="x">Biography.</marc:subfield>
+      <marc:subfield code="9">213709</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Whites</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="v">Biography.</marc:subfield>
+      <marc:subfield code="9">213710</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Racially mixed people</marc:subfield>
+      <marc:subfield code="x">Race identity</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="9">213711</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104342</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30298</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

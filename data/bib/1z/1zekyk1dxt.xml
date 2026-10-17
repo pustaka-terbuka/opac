@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01467cam a2200349 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003144849</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154549</marc:controlfield>
+    <marc:controlfield tag="008">110218s2010    maua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780073511313 (pbk : hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0073511315 (pbk : hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780070172661 (pbk. : Int. ed.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0070172668 (pbk. : Int. ed.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003144849</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201712291739</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201406191029</marc:subfield>
+      <marc:subfield code="d">patrick</marc:subfield>
+      <marc:subfield code="c">201103101446</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201103071157</marc:subfield>
+      <marc:subfield code="d">masrina</marc:subfield>
+      <marc:subfield code="y">200907151432</marc:subfield>
+      <marc:subfield code="z">shahriman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">330</marc:subfield>
+      <marc:subfield code="b">BRU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Brue, Stanley L.,</marc:subfield>
+      <marc:subfield code="d">1945-</marc:subfield>
+      <marc:subfield code="9">8846</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Essentials of economics /</marc:subfield>
+      <marc:subfield code="c">Stanley L. Brue, Campbell R. McConnell, Sean M. Flynn ; with special assistance of Randy R. Grant</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2nd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boston :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill Irwin,</marc:subfield>
+      <marc:subfield code="c">c2010.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxvi, 500 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">27 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">The McGraw-Hill economics series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="2" ind2=" ">
+      <marc:subfield code="a">Part one: Introduction. - Part two: Price, quantity, and efficiency. - Part three: Product markets. - Part four: Resource markets. - Part five: GDP, growth, and instability. - Part six: Money, banking, and monetary policy. - Part seven: International economics.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Economics : 9708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Economics.</marc:subfield>
+      <marc:subfield code="9">201917</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">McConnell, Campbell R.</marc:subfield>
+      <marc:subfield code="9">1275</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Flynn, Sean Masaki.</marc:subfield>
+      <marc:subfield code="9">33216</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TBF/2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAL : 225633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1=" " ind2=" ">
+      <marc:subfield code="a">GENSH : 141443</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="923" ind1=" " ind2=" ">
+      <marc:subfield code="a">CALSH : 157987, 157988</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30193</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

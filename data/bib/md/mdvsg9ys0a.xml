@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01000nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000063473</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204331</marc:controlfield>
+    <marc:controlfield tag="008">120803t2010    my a   f      000 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789675366383</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000063473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201904301035</marc:subfield>
+      <marc:subfield code="b">AUTHORITY</marc:subfield>
+      <marc:subfield code="c">201703091502</marc:subfield>
+      <marc:subfield code="d">nazri</marc:subfield>
+      <marc:subfield code="c">201208031051</marc:subfield>
+      <marc:subfield code="d">jamie</marc:subfield>
+      <marc:subfield code="c">201208031044</marc:subfield>
+      <marc:subfield code="d">jamie</marc:subfield>
+      <marc:subfield code="y">201208031028</marc:subfield>
+      <marc:subfield code="z">jamie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">QA276.18 .W36 2010 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wan Muhamad Amir Wan Ahmad</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Modul pengenalan kepada statistik /</marc:subfield>
+      <marc:subfield code="c">Wan Muhamad Amir Wan Ahmad, Nor Azlida Aleng@Mohamad, Mustafa Mamat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Terengganu, Terengganu :</marc:subfield>
+      <marc:subfield code="b">Penerbit universiti Malaysia Terengganu,</marc:subfield>
+      <marc:subfield code="c">c2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 192 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Statistics</marc:subfield>
+      <marc:subfield code="x">Study and teaching (Higher)</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nor Azlida Aleng@Mohamad</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mustafa Mamat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1="0" ind2="0">
+      <marc:subfield code="0">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="g">34.2</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">QA276.18 .W36 2010 f</marc:subfield>
+      <marc:subfield code="p">65511</marc:subfield>
+      <marc:subfield code="r">2020-08-12 00:00:00</marc:subfield>
+      <marc:subfield code="s">2019-12-09</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="v">34.2</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">186</marc:subfield>
+      <marc:subfield code="d">192</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5040*6500*7000*7001*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

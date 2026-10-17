@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00889nam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003020877</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154548</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    enk           001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">749437804</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003020877</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201209181532</marc:subfield>
+      <marc:subfield code="b">izani</marc:subfield>
+      <marc:subfield code="c">201102181449</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200502251506</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">200502151006</marc:subfield>
+      <marc:subfield code="d">kusuma</marc:subfield>
+      <marc:subfield code="y">200502151006</marc:subfield>
+      <marc:subfield code="z">kusuma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658.048</marc:subfield>
+      <marc:subfield code="b">HUS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hussey, D. E.</marc:subfield>
+      <marc:subfield code="q">(David Edward),</marc:subfield>
+      <marc:subfield code="d">1934-</marc:subfield>
+      <marc:subfield code="9">213527</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">How to manage a voluntary organization :</marc:subfield>
+      <marc:subfield code="b">the essential guide for the not-for-profit sector /</marc:subfield>
+      <marc:subfield code="c">David Hussey &amp;amp; Robert Perrin.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Kogan Page,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 306 p. ;</marc:subfield>
+      <marc:subfield code="c">25 cm. +</marc:subfield>
+      <marc:subfield code="e">1 computer optical disc (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nonprofit organizations</marc:subfield>
+      <marc:subfield code="9">209243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Management.</marc:subfield>
+      <marc:subfield code="9">201697</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Perrin, R.</marc:subfield>
+      <marc:subfield code="q">(Robert)</marc:subfield>
+      <marc:subfield code="9">213528</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SOC : 202111,  CD200195</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30154</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

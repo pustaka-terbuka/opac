@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01279cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002871660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110819</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    nyua          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0471230634 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002871660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201609081540</marc:subfield>
+      <marc:subfield code="b">patrick</marc:subfield>
+      <marc:subfield code="c">201408061417</marc:subfield>
+      <marc:subfield code="d">patrick</marc:subfield>
+      <marc:subfield code="c">201209031529</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="c">201102181354</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658</marc:subfield>
+      <marc:subfield code="b">SCH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Schermerhorn, John R.</marc:subfield>
+      <marc:subfield code="9">2681</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Management /</marc:subfield>
+      <marc:subfield code="c">John R. Schermerhorn, Jr.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">7th ed., [Updated ed.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">N.Y. :</marc:subfield>
+      <marc:subfield code="b">John Wiley,</marc:subfield>
+      <marc:subfield code="c">c2002.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxix, 501, [182] p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">29 cm. +</marc:subfield>
+      <marc:subfield code="e">1 electronic optical disc (CD-ROM) (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Free ENRON story CD, new ethics update, new Web assets&amp;quot; - Cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Pt.  1.  Management Today.  Ch. 1. The Dynamic New Workplace.  Ch. 2. Environment and Diversity. Ch. 3. Information and Decision Making.  - Pt.  2.  Context.   Ch.  4.  Historical</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 electronic optical disc (CD-ROM) : ENRON 1986-2001.  Student version 3.0 [by] Samuel Bodily, Robert Bruner.  ISBN 047127142X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Business Leadership: Management : BOH4M</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Management.</marc:subfield>
+      <marc:subfield code="9">201697</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">ENRON 1986-2001. Student version 3.0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CPU : 63155, CD1145</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30108</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

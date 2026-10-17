@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00945nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003141226</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085826</marc:controlfield>
+    <marc:controlfield tag="008">090420s2009    enk           000 1 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780747598138 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003141226</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201712291734</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201106161139</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">200907211532</marc:subfield>
+      <marc:subfield code="d">Irma</marc:subfield>
+      <marc:subfield code="c">200907151316</marc:subfield>
+      <marc:subfield code="d">meena</marc:subfield>
+      <marc:subfield code="y">200904201128</marc:subfield>
+      <marc:subfield code="z">jamalia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">823.914</marc:subfield>
+      <marc:subfield code="b">SHA 2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Shamsie, Kamila,</marc:subfield>
+      <marc:subfield code="d">1973-</marc:subfield>
+      <marc:subfield code="9">34512</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Burnt shadows /</marc:subfield>
+      <marc:subfield code="c">Kamila Shamsie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Bloomsbury,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">367 p. ;</marc:subfield>
+      <marc:subfield code="c">25 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Japanese fiction</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="9">213967</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Pakistanis</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">New York</marc:subfield>
+      <marc:subfield code="v">Fiction</marc:subfield>
+      <marc:subfield code="9">213968</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2=" ">
+      <marc:subfield code="a">Afghanistan</marc:subfield>
+      <marc:subfield code="v">Fiction</marc:subfield>
+      <marc:subfield code="9">26342</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nagasaki-shi (Japan)</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="y">Bombardment, 1945</marc:subfield>
+      <marc:subfield code="v">Fiction</marc:subfield>
+      <marc:subfield code="9">213969</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 109634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">GENSH : 109615</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30504</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

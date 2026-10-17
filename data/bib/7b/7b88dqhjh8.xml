@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00953nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002896560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110838</marc:controlfield>
+    <marc:controlfield tag="008">110218s1989    xxka          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0743408853 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002896560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181445</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008201503</marc:subfield>
+      <marc:subfield code="d">mas ayu</marc:subfield>
+      <marc:subfield code="c">200904300905</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="c">200508061039</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">158</marc:subfield>
+      <marc:subfield code="b">COV</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Covey, Stephen R.</marc:subfield>
+      <marc:subfield code="9">99</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The 7 habits of highly effective people :</marc:subfield>
+      <marc:subfield code="b">restoring the character ethic /</marc:subfield>
+      <marc:subfield code="c">Stephen R. Covey.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="3">
+      <marc:subfield code="a">Seven habits of highly effective people</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Pocket Books,</marc:subfield>
+      <marc:subfield code="c">c1989</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">358 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;First published in Great Britain by Simon &amp;amp; Schuster UK Ltd, 1989&amp;quot; - Verso t p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Character.</marc:subfield>
+      <marc:subfield code="9">101</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Success</marc:subfield>
+      <marc:subfield code="x">Psychological aspects</marc:subfield>
+      <marc:subfield code="9">6388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Achievement motivation</marc:subfield>
+      <marc:subfield code="9">27061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104353, 104354, 104575</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30381</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

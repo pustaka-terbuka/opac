@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01588cam a2200409 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002895360</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085825</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    nyu      b    000 1 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0142437263 (paperback)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780142437261 (paperback)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002895360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201701091018</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201605181719</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201105300824</marc:subfield>
+      <marc:subfield code="d">wilmina</marc:subfield>
+      <marc:subfield code="c">201102181258</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us-ma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">813.54</marc:subfield>
+      <marc:subfield code="b">HAW 2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hawthorne, Nathaniel,</marc:subfield>
+      <marc:subfield code="d">1804-1864.</marc:subfield>
+      <marc:subfield code="9">16958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The scarlet letter :</marc:subfield>
+      <marc:subfield code="b">a romance /</marc:subfield>
+      <marc:subfield code="c">Nathaniel Hawthorne ; with an introduction by Nina Baym and notes by Thomas E. Connolly</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Penguin Books,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxi, 228 pages ;</marc:subfield>
+      <marc:subfield code="c">20 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Penguin classics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">The text is that of the Centenary ed. of the works of Nathaniel Hawthorne published by Ohio State University Press.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (pages 25-[26])</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Adultery</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">15867</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Clergy</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">3405</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Illegitimate children</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">4314</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Married women</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">21272</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Puritans</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">213807</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Revenge</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">3796</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Women immigrants</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">10792</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Boston (Mass.)</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="y">Colonial period, ca. 1600-1775</marc:subfield>
+      <marc:subfield code="v">Fiction.</marc:subfield>
+      <marc:subfield code="9">210659</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">Penguin classics</marc:subfield>
+      <marc:subfield code="9">706</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADTP : 64999, 65000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30372</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

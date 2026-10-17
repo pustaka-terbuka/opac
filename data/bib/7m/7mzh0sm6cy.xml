@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01116cam a2200301 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003221821</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154541</marc:controlfield>
+    <marc:controlfield tag="008">110804s2012    nyua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780078034626 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780071315524 (pbk. : int. ed.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003221821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201112131649</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201109230950</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201109221612</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="c">201109151042</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="y">201108041631</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">n-us---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">332.6</marc:subfield>
+      <marc:subfield code="b">HIR 2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hirt, Geoffrey A.</marc:subfield>
+      <marc:subfield code="9">353</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Fundamentals of investment management /</marc:subfield>
+      <marc:subfield code="c">Geoffrey A. Hirt, Stanley B. Block.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">10th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York, N.Y. :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill/Irwin,</marc:subfield>
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxi, 656 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">The McGraw-Hill/Irwin series in finance, insurance and real estate</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Investments.</marc:subfield>
+      <marc:subfield code="9">201916</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Investments</marc:subfield>
+      <marc:subfield code="z">United States.</marc:subfield>
+      <marc:subfield code="9">10111</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Investment analysis.</marc:subfield>
+      <marc:subfield code="9">202036</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Block, Stanley B.</marc:subfield>
+      <marc:subfield code="9">352</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">McGraw-Hill/Irwin series in finance, insurance, and real estate</marc:subfield>
+      <marc:subfield code="9">35563</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">BDP : 170060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">MIF : 174244</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30042</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01243nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002895260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110836</marc:controlfield>
+    <marc:controlfield tag="008">110218n2000    my a          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9831040627 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002895260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201706081446</marc:subfield>
+      <marc:subfield code="b">haizir</marc:subfield>
+      <marc:subfield code="c">201102181649</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200605031539</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="c">200502251609</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">616.994</marc:subfield>
+      <marc:subfield code="b">PRE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Prevent cancer.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Pulau Pinang :</marc:subfield>
+      <marc:subfield code="b">Consumers&apos; Association of Penang,</marc:subfield>
+      <marc:subfield code="c">[2000?]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">39 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">11 x 14 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">CAP guide</marc:subfield>
+      <marc:subfield code="9">94602</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Prevent cancer : Eat more than 7 servings a day of grains, legumes, roots &amp;amp; tubers ; Eat 5 or more servings a day of a variety of vegetables and fruits ; LIMIT intake of refined sugar and avoid all processed foods ; Stay away from alcohol and tobacco ; Reduce intake of red and charred meats, fatty foods, salted foods and salt ; Exercise vigorously for a total of at least 1 hour a week.&amp;quot; - Back cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Diseases</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cancer</marc:subfield>
+      <marc:subfield code="x">Prevention.</marc:subfield>
+      <marc:subfield code="9">18424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cancer</marc:subfield>
+      <marc:subfield code="x">Diet therapy</marc:subfield>
+      <marc:subfield code="9">21039</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cancer</marc:subfield>
+      <marc:subfield code="x">Nutritional aspects</marc:subfield>
+      <marc:subfield code="9">19857</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Consumers Association of Penang</marc:subfield>
+      <marc:subfield code="9">49135</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104284</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30366</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

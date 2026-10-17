@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01437nam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002871960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110820</marc:controlfield>
+    <marc:controlfield tag="008">040317                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">NO ISBN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002871960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Language A1 :</marc:subfield>
+      <marc:subfield code="b">April 1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Geneva, Switzerland :</marc:subfield>
+      <marc:subfield code="b">International Baccalaureate Organization,</marc:subfield>
+      <marc:subfield code="c">1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">80 p. ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 English/French : language  A1 (77p. ; 30 cm.) +</marc:subfield>
+      <marc:subfield code="e">1 English specimen Paper 2 (3 p. ; 30 cm.) +</marc:subfield>
+      <marc:subfield code="e">General notes (13 p. ; 30 cm.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction.  - Group 1.  - Nature of the subject.  - Aims.  - Objectives.  - Syllabus outline.  - Syllabus details.  - Assessment outline.  - Assessment details.  - Assessement criteria: general.  -   Assessement criteria HL.  - Assessment criteria SL.  - Addresses.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 English specimen paper : English A1 : specimen paper 2 for HL and SL : for examinations 2001 and onwards.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 General notes English/French : English A1.  General notes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 language A1: Language A1: prescribed world literature list : April 1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English</marc:subfield>
+      <marc:subfield code="x">French.</marc:subfield>
+      <marc:subfield code="9">213479</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">English A1 : specimen paper 2 for HL and SL : for examinations 2001 and onwards.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">English A1. General notes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Language A1: prescribed world literature list : April 1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104175, 104176, 104177, 104178</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30111</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

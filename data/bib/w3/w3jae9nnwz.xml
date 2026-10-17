@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01889cam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002870660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103931</marc:controlfield>
+    <marc:controlfield tag="008">110218s2005    nyua          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1401851770</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002870660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906181205</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181526</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200506091045</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">910.23</marc:subfield>
+      <marc:subfield code="b">TOD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Todd, Ginger.</marc:subfield>
+      <marc:subfield code="9">12083</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="2">
+      <marc:subfield code="a">A guide to becoming a travel professional /</marc:subfield>
+      <marc:subfield code="c">Ginger Todd and Susan Rice.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Travel professional</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Clifton Park, NY :</marc:subfield>
+      <marc:subfield code="b">Thomson/Delmar Learning,</marc:subfield>
+      <marc:subfield code="c">c2005.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 330 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Section 1 Charting your course in a computerized world : 1. Your place in travel.- 2. The Internet -blessing or curse?.- Section 11 United States air travel :  3. Air travel basics.- 4. Planning United States flight itineraries.- 5 United States airfares and other charges.- 6. Basic ticketing and prepaids .- 7. Refunds, exchanges, agency fees and reporting.- Section 111 Selling other travel products and services : 8. Accommodationa and rental cars.- 9. Traveling by rail.- 10. Consolidators, charters, group sales and insurance.- 11. Tours of the world.- Section IV : Selling the Cruise experience. 12 The basics of cruising.- 13. Cruise pricing and selling.- 14. Setting sail.- Section V : International air travel 15.Practical advice for international travelers.- 16. International air travel basics.- 17. International airfares and taxes.- 18. International schedules and ticketing.- Section VI: Selling and servicing the travel client : 19.  Basic selling skills for the travel professional.- 20 Customer service for the travel professional.- Section VII : Basic travel geography.- 22 Travel  destinations.-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Travel agents</marc:subfield>
+      <marc:subfield code="x">Vocational guidance.</marc:subfield>
+      <marc:subfield code="9">11597</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rice, Susan,</marc:subfield>
+      <marc:subfield code="d">1949-</marc:subfield>
+      <marc:subfield code="9">31870</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 623063, 623467</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30093</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

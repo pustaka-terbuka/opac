@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01279cam a2200289 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003145395</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110819</marc:controlfield>
+    <marc:controlfield tag="008">110218s2006    it a     b    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8876247874 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9788876247873  (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003145395</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181625</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200910011054</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">200910011054</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">200910011045</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200908081446</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">759.054082</marc:subfield>
+      <marc:subfield code="b">WOM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Women in impressionism :</marc:subfield>
+      <marc:subfield code="b">from mythical feminine to modern woman /</marc:subfield>
+      <marc:subfield code="c">edited by Sidsel Maria Søndergaard,  ; with contributions by Susan Strauber ... [et al.].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Milano :</marc:subfield>
+      <marc:subfield code="b">Skira,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">320 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Published on the occasion of an exhibition held at the Ny Carlsberg glyptotek, Copenhagen, Oct. 6, 2006-Jan. 21, 2007.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">At head of title: NCG.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. 315-319).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Women in art</marc:subfield>
+      <marc:subfield code="v">Exhibitions.</marc:subfield>
+      <marc:subfield code="9">34999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Impressionism (Art)</marc:subfield>
+      <marc:subfield code="v">Exhibitions.</marc:subfield>
+      <marc:subfield code="9">213435</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Art, Modern</marc:subfield>
+      <marc:subfield code="y">19th century</marc:subfield>
+      <marc:subfield code="x">Themes, motives</marc:subfield>
+      <marc:subfield code="v">Exhibitions.</marc:subfield>
+      <marc:subfield code="9">213436</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Søndergaard, Sidsel Maria.</marc:subfield>
+      <marc:subfield code="9">35759</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Strauber, Susan Elizabeth,</marc:subfield>
+      <marc:subfield code="d">1949-</marc:subfield>
+      <marc:subfield code="9">35000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Ny Carlsberg glyptotek.</marc:subfield>
+      <marc:subfield code="9">35001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30082</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

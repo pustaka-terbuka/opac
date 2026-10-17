@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00758cam a2200217 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002878160</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085824</marc:controlfield>
+    <marc:controlfield tag="008">110218s2001    waua          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">735613001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002878160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201208271710</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181441</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">5.72</marc:subfield>
+      <marc:subfield code="b">MIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Microsoft frontpage version 2002 step by step /</marc:subfield>
+      <marc:subfield code="c">Online Training Solutions, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Redmond, Wash. :</marc:subfield>
+      <marc:subfield code="b">Microsoft Press,</marc:subfield>
+      <marc:subfield code="c">c2001.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxv, 337 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">24 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="630" ind1="0" ind2="0">
+      <marc:subfield code="a">Microsoft FrontPage.</marc:subfield>
+      <marc:subfield code="9">37769</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Web sites</marc:subfield>
+      <marc:subfield code="x">Authoring programs.</marc:subfield>
+      <marc:subfield code="9">24833</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Online Training Solutions (Firm)</marc:subfield>
+      <marc:subfield code="9">213558</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 665068</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30180</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

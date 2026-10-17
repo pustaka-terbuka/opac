@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01243nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003139978</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085824</marc:controlfield>
+    <marc:controlfield tag="008">110218r20081981ii a          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8121905990 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9788121905992 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003139978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201706071434</marc:subfield>
+      <marc:subfield code="b">haizir</marc:subfield>
+      <marc:subfield code="c">201706071433</marc:subfield>
+      <marc:subfield code="d">haizir</marc:subfield>
+      <marc:subfield code="c">201102181623</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200902101712</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="y">200901301402</marc:subfield>
+      <marc:subfield code="z">radtha</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">531</marc:subfield>
+      <marc:subfield code="b">MAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mathur, D. S.</marc:subfield>
+      <marc:subfield code="9">32570</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Mechanics /</marc:subfield>
+      <marc:subfield code="c">D.S. Mathur</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New Delhi :</marc:subfield>
+      <marc:subfield code="b">S. Chand &amp;amp; Co.,</marc:subfield>
+      <marc:subfield code="c">c1981</marc:subfield>
+      <marc:subfield code="g">(2008 printing)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 818 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1. Vectors. - 2. Reference frames - Newton&apos;s laws of motion - Galilean invariance. - 3. Relativity. - 4. Non-relativistic particle dynamics. - 5. Conservation laws - Law of Conservation of Energy. - 6. Conservation Laws. - 7. Harmonic oscillator. - 8. Harmonic Oscillator (continued) - 9. Wave motion. - 10. Dynamics of rigid bodies. - 11. Gravitation - fields and potentials. - 12. Elasticity. - 13. Bending of beams - columns. - 14. Hydrodynamics - viscosity. - 15. Production and measurement of law pressures.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Classical mechanics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mechanics</marc:subfield>
+      <marc:subfield code="9">205557</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 108660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30231</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

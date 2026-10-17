@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01594nam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002869060</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110818</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002                  000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">040694671X (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002869060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201407011041</marc:subfield>
+      <marc:subfield code="b">patrick</marc:subfield>
+      <marc:subfield code="c">201102181335</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200901300940</marc:subfield>
+      <marc:subfield code="d">sumathi</marc:subfield>
+      <marc:subfield code="c">200710180955</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">342.4202</marc:subfield>
+      <marc:subfield code="b">TUR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Turpin, Colin.</marc:subfield>
+      <marc:subfield code="9">26335</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">British government and the constitution :</marc:subfield>
+      <marc:subfield code="b">text, cases and materials /</marc:subfield>
+      <marc:subfield code="c">Colin Turpin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">5th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Butterworths LexisNexis,</marc:subfield>
+      <marc:subfield code="c">c2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xlix, 688 p. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Law in context</marc:subfield>
+      <marc:subfield code="9">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">First published 1985</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface to the fourth edition.  - Preface to the third edition.  - Acknowledgments.  - Abbreviations.  - Table of statutes.  - List of cases.  - Pt.  I.  The British constitution.  Ch.  I.  The constitutional order.  Ch.  2.  Law, convention and liberty.  - Pt.  II.  The government in context.  Ch.  3.  The crown and the government.  Ch.  4.  The structure of the United Kingdom.  - Ch.  5.  The European dimension.  Ch.  6.  The powers of government.  - Pt.  III.  The responsibility of government.  Ch.  7.  Parliament and government. Ch.  8.  Parties, groups and the people.  Ch.  9.  Remedies against public authorities.  - Pt.  IV.  Constitutional innovation and reform.  Ch.  10.  Constitutional renewal.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Law : 9084</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Constitutional law</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">7287</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAL : 88545, 88546, 88547, 88549</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30054</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

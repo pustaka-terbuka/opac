@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00862cam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002880960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154550</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    at            00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">170107868</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002880960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201208290801</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181300</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200412071550</marc:subfield>
+      <marc:subfield code="d">chon ling</marc:subfield>
+      <marc:subfield code="c">200411251511</marc:subfield>
+      <marc:subfield code="d">ramlah</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658.8342</marc:subfield>
+      <marc:subfield code="b">CUS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Customer behaviour :</marc:subfield>
+      <marc:subfield code="b">consumer behaviour and beyond /</marc:subfield>
+      <marc:subfield code="c">Robert Widing ... [et al.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Pacific Rim ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Melbourne :</marc:subfield>
+      <marc:subfield code="b">Thomson Learning,</marc:subfield>
+      <marc:subfield code="c">c2003.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxiii, 560 p. ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Consumer behavior</marc:subfield>
+      <marc:subfield code="9">202524</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Consumer satisfaction.</marc:subfield>
+      <marc:subfield code="9">8443</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Consumers&apos; preferences.</marc:subfield>
+      <marc:subfield code="9">30749</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Marketing.</marc:subfield>
+      <marc:subfield code="9">89058</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Widing, Robert E.</marc:subfield>
+      <marc:subfield code="9">213589</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 665080</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">GENLS : 180483</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30210</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

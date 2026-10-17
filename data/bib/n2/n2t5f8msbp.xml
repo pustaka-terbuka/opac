@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01452cam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002901660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154601</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    enkab    b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">273655639</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002901660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906131135</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181317</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">338.4791</marc:subfield>
+      <marc:subfield code="b">HOL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Holloway, J. Christopher.</marc:subfield>
+      <marc:subfield code="9">35617</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The business of tourism /</marc:subfield>
+      <marc:subfield code="c">J. Christopher Holloway.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">6th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Harlow, England ;</marc:subfield>
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Prentice Hall,</marc:subfield>
+      <marc:subfield code="c">c2002.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 404 p. :</marc:subfield>
+      <marc:subfield code="b">ill., maps ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1. Introduction to tourism. 2. The history of tourism : from its origins to the age of steam. 3. Tourism in the twentieth century. 4. The economics of tourism. 5. Tourist motivation and behaviour. 6 The structure and organization of the travel and tourism industry. 7. Passenger transport: the aviation business. 8. Water-borne passenger transport. 9. Other models of tourist travel. 10. The hospitality sector : accomodation and catering services. 11. Visitor attractions and visitor management. 12. Tour operating. 13. Travel retailing. 14. Ancillary tourism services. 15. The structure and role of public sector tourism. 16. Tourism design and management. 17. The social and environmental impact of tourism.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Tourism.</marc:subfield>
+      <marc:subfield code="9">201154</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 623072, 623073, 623079</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30438</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

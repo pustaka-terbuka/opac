@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01164cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003218755</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154544</marc:controlfield>
+    <marc:controlfield tag="008">110620s2011    enka          001 0deng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781405157971 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003218755</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201110140841</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201107181656</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201107111106</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="c">201107111105</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="y">201106201353</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">e-uk---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">624.0684</marc:subfield>
+      <marc:subfield code="b">CHA 2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chan, Paul,</marc:subfield>
+      <marc:subfield code="d">1976-</marc:subfield>
+      <marc:subfield code="9">213437</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Constructing futures :</marc:subfield>
+      <marc:subfield code="b">industry leaders and futures thinking in construction /</marc:subfield>
+      <marc:subfield code="c">Paul Chan, Rachel Cooper.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Chichester :</marc:subfield>
+      <marc:subfield code="b">Wiley-Blackwell,</marc:subfield>
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 224 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">26 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Construction industry</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">213438</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sustainable construction</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">213439</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Construction industry</marc:subfield>
+      <marc:subfield code="x">Social aspects</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">213440</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Construction industry</marc:subfield>
+      <marc:subfield code="x">Environmental aspects</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">213441</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Leadership</marc:subfield>
+      <marc:subfield code="z">Great Britain.</marc:subfield>
+      <marc:subfield code="9">213442</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cooper, Rachel,</marc:subfield>
+      <marc:subfield code="d">1953-</marc:subfield>
+      <marc:subfield code="9">213443</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SABD : 165461, 171501</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30083</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

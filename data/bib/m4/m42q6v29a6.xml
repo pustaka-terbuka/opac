@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01026nam a2200289   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002863460</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085822</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0743232992 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002863460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181445</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008251311</marc:subfield>
+      <marc:subfield code="d">haizir</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">808.042076</marc:subfield>
+      <marc:subfield code="b">SAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">SAT II.</marc:subfield>
+      <marc:subfield code="p">Writing :</marc:subfield>
+      <marc:subfield code="b">2002-2003 /</marc:subfield>
+      <marc:subfield code="c">by the Staff of Kaplan, Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Kaplan SAT II writing :</marc:subfield>
+      <marc:subfield code="b">2002-2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">SAT 2.</marc:subfield>
+      <marc:subfield code="p">Writing</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Writing</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2002-2003 ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">N.Y. :</marc:subfield>
+      <marc:subfield code="b">Simon &amp;amp; Schuster,</marc:subfield>
+      <marc:subfield code="c">c2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 346 p. ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">At head of title : Kaplan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Composition and exercises</marc:subfield>
+      <marc:subfield code="x">Examinations</marc:subfield>
+      <marc:subfield code="v">Study guides.</marc:subfield>
+      <marc:subfield code="9">16825</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Report writing</marc:subfield>
+      <marc:subfield code="v">Study guides.</marc:subfield>
+      <marc:subfield code="9">213341</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">SAT (Educational test)</marc:subfield>
+      <marc:subfield code="v">Study guides.</marc:subfield>
+      <marc:subfield code="9">23232</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Kaplan Educational Centers (Firm : New York, N.Y.)</marc:subfield>
+      <marc:subfield code="9">213342</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104217</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30004</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

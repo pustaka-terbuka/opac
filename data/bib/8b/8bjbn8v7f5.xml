@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01371nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000070203</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204332</marc:controlfield>
+    <marc:controlfield tag="008">130603t2000    enka   f      001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781853394607 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000070203</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201703101107</marc:subfield>
+      <marc:subfield code="b">nazri</marc:subfield>
+      <marc:subfield code="c">201402181418</marc:subfield>
+      <marc:subfield code="d">saini</marc:subfield>
+      <marc:subfield code="y">201306031706</marc:subfield>
+      <marc:subfield code="z">sri</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TJ875 .T43 2000 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Thake, Jeremy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The micro-hydro Pelton turbine manual :</marc:subfield>
+      <marc:subfield code="b">design, manufacture and installation for small-scale hydropower /</marc:subfield>
+      <marc:subfield code="c">Jeremy Thake</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">ITDG Pub.,</marc:subfield>
+      <marc:subfield code="c">2000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 180 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1. The Pelton Turbine -- 2. Basic Theory -- 3. Turbine Selection -- 4. Design -- 5. Manufacture -- 6. Installation, Commissioning and Testing -- 7. Maintenance and Problem Solving -- 8. Conclusion -- 9. Appendix: Standard Units, Formulae and Notation -- 10. Appendix: Derivation of Formulae -- 11. Appendix: Full System Calculation Spreadsheet -- 12. Appendix: O-ring seals -- 13. Appendix: Keys and Keyways -- 14. Appendix: Limits and Fits -- 15. Appendix: Specific Speeds -- 16. References -- 17. Glossary -- 18. Index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Hydraulic turbines</marc:subfield>
+      <marc:subfield code="x">Design and construction</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1="0" ind2="0">
+      <marc:subfield code="0">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="g">127.05</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">TJ875 .T43 2000 f</marc:subfield>
+      <marc:subfield code="p">81272</marc:subfield>
+      <marc:subfield code="r">2023-02-23 00:00:00</marc:subfield>
+      <marc:subfield code="s">2023-02-20</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="v">127.05</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">223</marc:subfield>
+      <marc:subfield code="d">229</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5040*5050*6500*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

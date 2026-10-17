@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01027nam a2200265Ia 4500</marc:leader>
+    <marc:controlfield tag="001">b10002200</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20241218125914</marc:controlfield>
+    <marc:controlfield tag="008">990211s1981    my b     b   f100 0 eng/d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-23160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b10002200</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMQ</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMQ</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">P41 .N277</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">National language as medium of instruction :</marc:subfield>
+      <marc:subfield code="b">papers presented at the Fourth Conference of the Asian Association on National Languages (ASANAL) /</marc:subfield>
+      <marc:subfield code="c">edited by Asmah Haji Omar and Noor Ein Mohd. Noor.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Dewan Bahasa dan Pustaka, Kementerian Pelajaran, Malaysia,</marc:subfield>
+      <marc:subfield code="c">1981</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">550 p. :</marc:subfield>
+      <marc:subfield code="b">map,</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Language and education</marc:subfield>
+      <marc:subfield code="z">Asia</marc:subfield>
+      <marc:subfield code="v">Congresses.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Language planning</marc:subfield>
+      <marc:subfield code="z">Asia</marc:subfield>
+      <marc:subfield code="v">Congresses.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Asia -- Languages -- Political aspects -- Congresses.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Asmah Haji Omar, 1940-</marc:subfield>
+      <marc:subfield code="9">21475</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Noor Ein Mohd. Noor.</marc:subfield>
+      <marc:subfield code="9">21476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">openshelf</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">P41 .N277</marc:subfield>
+      <marc:subfield code="p">76064</marc:subfield>
+      <marc:subfield code="r">2023-10-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">openshelf</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">P41 .N277</marc:subfield>
+      <marc:subfield code="p">76495</marc:subfield>
+      <marc:subfield code="r">2023-10-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">151</marc:subfield>
+      <marc:subfield code="d">151</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

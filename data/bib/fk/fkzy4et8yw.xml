@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01495cam a2200349Ii 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003256840</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200508124507</marc:controlfield>
+    <marc:controlfield tag="006">m     o  d</marc:controlfield>
+    <marc:controlfield tag="007">cr cnu---unuuu</marc:controlfield>
+    <marc:controlfield tag="008">160527s2014    enka    o     001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781447153160 (electronic bk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1447153162 (electronic bk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781447153153</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)866634843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)ocn866634843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003256840</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201809071346</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201605271035</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201605271031</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">201407181833</marc:subfield>
+      <marc:subfield code="z">shuhada</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">GW5XE</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="e">pn</marc:subfield>
+      <marc:subfield code="c">GW5XE</marc:subfield>
+      <marc:subfield code="d">N$T</marc:subfield>
+      <marc:subfield code="d">YDXCP</marc:subfield>
+      <marc:subfield code="d">OHS</marc:subfield>
+      <marc:subfield code="d">COO</marc:subfield>
+      <marc:subfield code="d">VAM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">616.1/28</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Cardiac arrhythmias :</marc:subfield>
+      <marc:subfield code="b">from basic-mechanism to state-of-the-art management /</marc:subfield>
+      <marc:subfield code="c">A.S. Kibos [and others] (eds.).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Springer,</marc:subfield>
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource (xi, 701 pages) :</marc:subfield>
+      <marc:subfield code="b">illustrations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="b">c</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">online resource</marc:subfield>
+      <marc:subfield code="b">cr</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on print version record.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Arrhythmia.</marc:subfield>
+      <marc:subfield code="9">43540</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kibos, Ambrose S.,</marc:subfield>
+      <marc:subfield code="e">editor of compilation.</marc:subfield>
+      <marc:subfield code="9">213853</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1="0" ind2="8">
+      <marc:subfield code="i">Print version:</marc:subfield>
+      <marc:subfield code="t">Cardiac arrhythmias</marc:subfield>
+      <marc:subfield code="a">9781447153153</marc:subfield>
+      <marc:subfield code="w">(OCoLC)862732866</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;scope=site&amp;amp;db=nlebk&amp;amp;db=nlabk&amp;amp;AN=676022</marc:subfield>
+      <marc:subfield code="z">An electronic book accessible through the World Wide Web; click to view</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30416</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

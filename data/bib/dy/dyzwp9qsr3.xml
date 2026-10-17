@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">391</marc:controlfield>
+    <marc:controlfield tag="003">UNIMAS</marc:controlfield>
+    <marc:controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)391</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UNIMAS</marc:subfield>
+      <marc:subfield code="c">UNIMAS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">DS827.S3 I26 )</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ikegami, Eiko</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">The taming of the samurai : honorific individualism and the making of modern Japan / Eiko Ikegami.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">Cambridge, Mass. :</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">DS827.S3 I26 )</marc:subfield>
+      <marc:subfield code="p">65809</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

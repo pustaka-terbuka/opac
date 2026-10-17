@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01331ngm a2200217   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002885060</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110827</marc:controlfield>
+    <marc:controlfield tag="008">040331q2007    my nnn        00  0|bm  d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002885060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">200811101148</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">200811101004</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">746.6</marc:subfield>
+      <marc:subfield code="b">NOO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Noor Arfa</marc:subfield>
+      <marc:subfield code="h">[electronic resource] :</marc:subfield>
+      <marc:subfield code="b">kehalusan &amp;amp; keunggulan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="1">
+      <marc:subfield code="a">Noor Arfa : kahalusan dan keunggulan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Terengganu, Terengganu :</marc:subfield>
+      <marc:subfield code="b">Noor Arfa Batek Sdn. Bhd.,</marc:subfield>
+      <marc:subfield code="c">2007?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Noor Arfa is a pioneer of the much acclaimed batik industry in Malaysia. The Noor Arfa story has a humble beginning in 1980 in a small atelier in Kuala Terengganu when the husband and wife team of Wan Mohd. Ariffin and Noor Hijerah started designing and hand-drawing their own batik cloth. The Venture known as Noor Arfa an acronym derived from the names of this young and enterprising couple, was soon deemed to grow by leaps and bounds to the multi-million corporation it is today. This CD also contain information about their products from batik such as batik making, caftan dress, unisex shirt, scarves, batik tie, malay dress and children.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2=" ">
+      <marc:subfield code="a">Noor Arfa Batek Sdn. Bhd.</marc:subfield>
+      <marc:subfield code="9">213648</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Batik.</marc:subfield>
+      <marc:subfield code="9">213649</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : CD051</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30258</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

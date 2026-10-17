@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01334cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002869160</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154543</marc:controlfield>
+    <marc:controlfield tag="008">190618s2003    enka          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">951793640</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002869160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906181316</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181524</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">641.22</marc:subfield>
+      <marc:subfield code="b">FIE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fielden, Christopher.</marc:subfield>
+      <marc:subfield code="9">16857</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Exploring wines &amp;amp; spirits/</marc:subfield>
+      <marc:subfield code="b">Christopher Fielden in association with the Wine &amp;amp; Spirit Education Trust</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Exploring wines and spirits</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Wine &amp;amp; Spirit Education Trust,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xviii, 390 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Accompanied by : Advanced certificate study guide ( 43 p. ; 29 cm.) 2000 ; Advanced Certificate Course Student Tasting notes  (98 p. ; 21cm.)  2001;  Advanced Certificate Course Sketch Maps (44 p ; 29 cm.) Specification for the Wset Level 3 Advance Certificate in wines and spirits ( 36 p ; 29 cm.) Supplement to exploring wines &amp;amp; spirits ( 4 p. ; 21cm)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wine and wine making.</marc:subfield>
+      <marc:subfield code="9">204552</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wine tasting.</marc:subfield>
+      <marc:subfield code="9">15571</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Liquors.</marc:subfield>
+      <marc:subfield code="9">15388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Alcoholic beverages.</marc:subfield>
+      <marc:subfield code="9">205440</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Wine and Spirit Education Trust.</marc:subfield>
+      <marc:subfield code="9">213416</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 640188, ; 640189 SG; 640190/SG; 640191/SG;  640192/SG; 640193 /supplement</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30060</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

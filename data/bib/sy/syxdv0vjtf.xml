@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00937nam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls001408960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085826</marc:controlfield>
+    <marc:controlfield tag="008">110218s1998    enka          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521658020 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls001408960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181410</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200909241020</marc:subfield>
+      <marc:subfield code="d">sossamma</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200504071202</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407271856</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">808.042</marc:subfield>
+      <marc:subfield code="b">SIN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Singleton, Jill.</marc:subfield>
+      <marc:subfield code="9">7959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Writers at work :</marc:subfield>
+      <marc:subfield code="b">a guide to basic writing /</marc:subfield>
+      <marc:subfield code="c">Jill Singleton</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge, U.K. :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">c1998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiii, 160 p. : ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Grammar</marc:subfield>
+      <marc:subfield code="v">Problems, exercises, etc.</marc:subfield>
+      <marc:subfield code="9">14723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Rhetoric</marc:subfield>
+      <marc:subfield code="v">Problems, exercises, etc.</marc:subfield>
+      <marc:subfield code="9">12855</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Report writing</marc:subfield>
+      <marc:subfield code="v">Problems, exercises, etc.</marc:subfield>
+      <marc:subfield code="9">34617</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAC : LC0574, LC1142. This item is reserved for lecturers of the Language Centre.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30467</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

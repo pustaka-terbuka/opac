@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01286nam a2200313 i 4500</marc:leader>
+    <marc:controlfield tag="001">b10003290</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20200129150110</marc:controlfield>
+    <marc:controlfield tag="008">990223s1995    my ab    b    100 0 eng/d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-34060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b10003290</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMQ</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMQ</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1=" " ind2=" ">
+      <marc:subfield code="a">HD2080.6.Z9</marc:subfield>
+      <marc:subfield code="b">S471 1994</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="111" ind1="2" ind2=" ">
+      <marc:subfield code="a">Seminar on  Agriculture Commercialization in Sarawak  (1994 : Sibu, Sarawak)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">AGRICULTURE COMMERCIALIZATION IN SARAWAK :</marc:subfield>
+      <marc:subfield code="b">&quot;In Search Of A New Paradigm&quot; :</marc:subfield>
+      <marc:subfield code="b">proceedings of the Seminar on  Agriculture Commercialization in Sarawak , Sibu, July 5-7, 1994 /</marc:subfield>
+      <marc:subfield code="c">edited by Busrah Haji Bujang &amp; Sim Ah Hua.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuching :</marc:subfield>
+      <marc:subfield code="b">Angkatan Zaman Mansang Sarawak   [Kota Kinabalu] :</marc:subfield>
+      <marc:subfield code="b">Konrad Adenauer Foundation,</marc:subfield>
+      <marc:subfield code="c">&amp;#xA9;1995.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">184 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations, maps,</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">k@Borneo.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Taha Ariffin Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Agriculture</marc:subfield>
+      <marc:subfield code="x">Economic aspects</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="z">Sarawak</marc:subfield>
+      <marc:subfield code="v">Congresses.</marc:subfield>
+      <marc:subfield code="9">16671</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2=" ">
+      <marc:subfield code="a">Borneo.</marc:subfield>
+      <marc:subfield code="9">2158</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Busrah Haji Bujang.</marc:subfield>
+      <marc:subfield code="9">21062</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sim, Ah Hua.</marc:subfield>
+      <marc:subfield code="9">21064</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">HD2080.6.Z9 S471 1994</marc:subfield>
+      <marc:subfield code="p">76447</marc:subfield>
+      <marc:subfield code="r">2026-02-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">HD2080.6.Z9 S471 1994</marc:subfield>
+      <marc:subfield code="p">1000121594</marc:subfield>
+      <marc:subfield code="r">2026-02-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cms_ta</marc:subfield>
+      <marc:subfield code="d">2020-02-05</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">HD2080.6.Z9  S471 1994</marc:subfield>
+      <marc:subfield code="p">1000271419</marc:subfield>
+      <marc:subfield code="r">2020-02-05 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-02-05</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">243</marc:subfield>
+      <marc:subfield code="d">243</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

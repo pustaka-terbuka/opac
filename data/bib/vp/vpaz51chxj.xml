@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01616cas a22003735a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003127881</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154557</marc:controlfield>
+    <marc:controlfield tag="006">m        d  ||||||</marc:controlfield>
+    <marc:controlfield tag="007">cr anunnnuuuaa</marc:controlfield>
+    <marc:controlfield tag="008">840207c19849999njumr1p       0   a0eng d</marc:controlfield>
+    <marc:datafield tag="022" ind1="0" ind2=" ">
+      <marc:subfield code="a">0742-6046</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EbpS)ebs806577</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003127881</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="y">200812011700</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">HF5415.34</marc:subfield>
+      <marc:subfield code="b">.P78</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Psychology &amp;amp; marketing</marc:subfield>
+      <marc:subfield code="h">[electronic resource].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Psychology and marketing</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[New York, N.Y.] :</marc:subfield>
+      <marc:subfield code="b">Van Nostrand Reinhold,</marc:subfield>
+      <marc:subfield code="c">[c1984-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="310" ind1=" " ind2=" ">
+      <marc:subfield code="a">Monthly,</marc:subfield>
+      <marc:subfield code="b">2000-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="362" ind1="0" ind2=" ">
+      <marc:subfield code="a">Vol. 1, no. 1 (spring 1984)-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Title from cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Published: [New York, N.Y.] : Wiley, &amp;lt;fall/winter 1984-&amp;gt;; published: Hoboken, N.J. : Wiley Subscription Services, Inc., &amp;lt;2005-&amp;gt;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Latest issue consulted: Vol. 22, no. 12 (Dec. 2005).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Academic Journal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="529" ind1=" " ind2=" ">
+      <marc:subfield code="a">TSLHHL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="530" ind1=" " ind2=" ">
+      <marc:subfield code="a">Online version of print publication.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Marketing</marc:subfield>
+      <marc:subfield code="x">Psychological aspects</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+      <marc:subfield code="9">213765</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Motivation research (Marketing)</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+      <marc:subfield code="9">213766</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="7">
+      <marc:subfield code="a">Economische psychologie.</marc:subfield>
+      <marc:subfield code="2">gtt</marc:subfield>
+      <marc:subfield code="9">213767</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="7">
+      <marc:subfield code="a">Marketing.</marc:subfield>
+      <marc:subfield code="2">gtt</marc:subfield>
+      <marc:subfield code="9">89058</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="7">
+      <marc:subfield code="a">Psychologische aspecten.</marc:subfield>
+      <marc:subfield code="2">gtt</marc:subfield>
+      <marc:subfield code="9">89196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">Communication &amp;amp; Mass Media Complete</marc:subfield>
+      <marc:subfield code="d">Ipswich, MA : EBSCO Publishing, 1999-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="3">Full text available: Mar 1984-. (Due to publisher restrictions, the most recent 12 months are not available.).</marc:subfield>
+      <marc:subfield code="z">Available on EBSCOhost.</marc:subfield>
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://search.ebscohost.com/direct.asp?db=ufh&amp;amp;jid=%22PAM%22&amp;amp;scope=site</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30346</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

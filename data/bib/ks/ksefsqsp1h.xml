@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02420nam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000098162</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204335</marc:controlfield>
+    <marc:controlfield tag="008">161124t2016    my     f      001 0 eng|d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0000475(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000098162</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905151519</marc:subfield>
+      <marc:subfield code="b">nazirah</marc:subfield>
+      <marc:subfield code="c">201611241556</marc:subfield>
+      <marc:subfield code="d">safura</marc:subfield>
+      <marc:subfield code="y">201611241554</marc:subfield>
+      <marc:subfield code="z">safura</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">FKASA .H69 2016 r Bc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ho Xi Cui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Analysis of DNAPL migration in aggregated kaolin and sand using light transmission visualization   (LTV) method /</marc:subfield>
+      <marc:subfield code="c">Ho Xi Cui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi, 65 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Faculty of Civil Engineering and Earth Resources</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Project Paper (Bachelors of Civil Engineering) -- Universiti Malaysia Pahang &amp;#x2013; 2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography : p. 57-60</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="2" ind2=" ">
+      <marc:subfield code="a">Physical model experiments based on Light Transmission Visualization (LTV) method were conducted to study and observe the migration of dense non-aqueous phase liquids (DNAPL) in both single and double-porosity soil mediums. DNAPL that used in the research is tetrachloroethylene (PCE). Aggregated kaolin was prepared and acts as double-porosity soil medium whereas Ottawa sand represent single-porosity soil medium. A three-dimensional rectangular acrylic model which filled with soil samples was then mounted on a light box and placed inside a dark room. A digital camera starts capture images of DNAPL migration once known amounts of DNAPL is injected into flow chamber. In the end of the experiments, digital images were collected and analyzed by using Image-Pro Premier 9.1 which is an image analysis software. The analysis focused on the cumulative area, depth, saturation as well as rate of DNAPL migration. It was found that the DNAPL migrate much faster in double-porosity soil compared to single-porosity soil. The total cumulative DNAPL migration area in double-porosity soil also larger than single porosity soil. This shows that the existence of inter-aggregate pores in double-porosity soil medium has significant impact on the migration of immiscible fluids within double-porosity soils</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Faculty of Civil Engineering and Earth Resources</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Universities and Colleges</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Theses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">6</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">FKASA .H69 2016 r Bc.</marc:subfield>
+      <marc:subfield code="p">115071</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">6</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 10309 | FKASA .H69 2016 r Bc.</marc:subfield>
+      <marc:subfield code="p">115072</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">ACCOM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">330</marc:subfield>
+      <marc:subfield code="d">336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2600*3000*5000*5020*5040*5200*6100*6500*6501*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

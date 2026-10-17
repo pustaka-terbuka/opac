@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00842cam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002877360</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154548</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    enk           00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0745321178 (hbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002877360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201701061648</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181445</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">303.625</marc:subfield>
+      <marc:subfield code="b">NAP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Napoleoni, Loretta.</marc:subfield>
+      <marc:subfield code="9">16900</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Modern jihad :</marc:subfield>
+      <marc:subfield code="b">tracing the dollars behind the terror networks /</marc:subfield>
+      <marc:subfield code="c">Loretta Napoleoni</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1=" " ind2=" ">
+      <marc:subfield code="a">Tracing the dollars behind the terror networks</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London ;</marc:subfield>
+      <marc:subfield code="a">Sterling, Va. :</marc:subfield>
+      <marc:subfield code="b">Pluto Press,</marc:subfield>
+      <marc:subfield code="c">c2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxiii, 295 p. ;</marc:subfield>
+      <marc:subfield code="c">24 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Jihad.</marc:subfield>
+      <marc:subfield code="9">91018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Terrorism</marc:subfield>
+      <marc:subfield code="x">Economic aspects.</marc:subfield>
+      <marc:subfield code="9">213553</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Terrorism</marc:subfield>
+      <marc:subfield code="x">History.</marc:subfield>
+      <marc:subfield code="9">213554</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TBS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30174</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

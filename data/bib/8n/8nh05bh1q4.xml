@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00718cmm a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002882260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103936</marc:controlfield>
+    <marc:controlfield tag="006">m        d</marc:controlfield>
+    <marc:controlfield tag="007">co cg ---uuuuu</marc:controlfield>
+    <marc:controlfield tag="008">040330n19uu    my         d        may</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002882260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906141032</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201204100925</marc:subfield>
+      <marc:subfield code="d">stazrina</marc:subfield>
+      <marc:subfield code="c">200611060938</marc:subfield>
+      <marc:subfield code="d">suankui</marc:subfield>
+      <marc:subfield code="c">200602091443</marc:subfield>
+      <marc:subfield code="d">suankui</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-my---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">959.5</marc:subfield>
+      <marc:subfield code="b">CUT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="099" ind1=" " ind2=" ">
+      <marc:subfield code="a">MALAYSIANA</marc:subfield>
+      <marc:subfield code="e">959.5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Cuti-cuti Malaysia</marc:subfield>
+      <marc:subfield code="h">[electronic resource]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Kuala Lumpur] :</marc:subfield>
+      <marc:subfield code="b">Tourism Malaysia,</marc:subfield>
+      <marc:subfield code="c">19-?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">Malay.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Tourism</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">60306</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : CD011, CD012, CD070, CD071</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30226</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

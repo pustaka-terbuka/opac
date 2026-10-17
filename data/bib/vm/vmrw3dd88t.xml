@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00971nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002894060</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085825</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    si a          000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0794600212 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002894060</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201205021633</marc:subfield>
+      <marc:subfield code="b">wilmina</marc:subfield>
+      <marc:subfield code="c">201204270916</marc:subfield>
+      <marc:subfield code="d">wilmina</marc:subfield>
+      <marc:subfield code="c">201102181506</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201101171544</marc:subfield>
+      <marc:subfield code="d">komathi</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-my---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">747.2913</marc:subfield>
+      <marc:subfield code="b">BEA 2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="099" ind1=" " ind2=" ">
+      <marc:subfield code="a">MALAYSIANA</marc:subfield>
+      <marc:subfield code="e">747.2913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Beal, Gillian.</marc:subfield>
+      <marc:subfield code="9">86373</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Tropical style :</marc:subfield>
+      <marc:subfield code="b">contemporary dream houses in Malaysia /</marc:subfield>
+      <marc:subfield code="c">by Gillian Beal ; photography by Jacob Termansen and Pia Marie Molbech.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Periplus Editions,</marc:subfield>
+      <marc:subfield code="c">c2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">224 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">32 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Architecture, Domestic</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">13721</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Architecture, Tropical</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">16955</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Molbech, Pia Marie.</marc:subfield>
+      <marc:subfield code="9">16956</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Termansen, Jacob.</marc:subfield>
+      <marc:subfield code="9">16957</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104303</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30356</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

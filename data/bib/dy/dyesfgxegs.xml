@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01471nam a2200373 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002881860</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085824</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    nyuab    b    000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0786887842 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780786887842 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002881860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201412241011</marc:subfield>
+      <marc:subfield code="b">patrick</marc:subfield>
+      <marc:subfield code="c">201108121326</marc:subfield>
+      <marc:subfield code="d">wilmina</marc:subfield>
+      <marc:subfield code="c">201102181503</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008281109</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">823.3</marc:subfield>
+      <marc:subfield code="b">PIL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pilkington, Doris,</marc:subfield>
+      <marc:subfield code="d">1937-</marc:subfield>
+      <marc:subfield code="9">213606</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Rabbit-proof fence /</marc:subfield>
+      <marc:subfield code="c">Doris Pilkington (Nugi Garimara)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Hyperion,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 136 p. :</marc:subfield>
+      <marc:subfield code="b">ill., map ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Miramax books.&amp;quot; - T.p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;The true story of one of the greatest escapes of all time&amp;quot; - Cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Author&apos;s Aboriginal name is Nugi Garimara</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Originally published by University of Queensland Press</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">English A1 : BL-ENG-SL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Australian aborigines</marc:subfield>
+      <marc:subfield code="x">Cultural assimilation.</marc:subfield>
+      <marc:subfield code="9">202464</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Australian aborigines</marc:subfield>
+      <marc:subfield code="x">Social conditions</marc:subfield>
+      <marc:subfield code="y">20th century.</marc:subfield>
+      <marc:subfield code="9">213607</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Australian aborigines</marc:subfield>
+      <marc:subfield code="z">Australia</marc:subfield>
+      <marc:subfield code="z">Western Australia</marc:subfield>
+      <marc:subfield code="v">Biography.</marc:subfield>
+      <marc:subfield code="9">213608</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Escapes</marc:subfield>
+      <marc:subfield code="z">Australia</marc:subfield>
+      <marc:subfield code="z">Western Australia.</marc:subfield>
+      <marc:subfield code="9">213609</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Jigalong Region (W.A.)</marc:subfield>
+      <marc:subfield code="9">213610</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Moore River (W.A.)</marc:subfield>
+      <marc:subfield code="9">213611</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104388</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADP : 99295, 99296</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1=" " ind2=" ">
+      <marc:subfield code="a">IBD : 165690</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30223</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

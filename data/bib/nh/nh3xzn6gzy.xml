@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00764cam a2200217 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002900660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103943</marc:controlfield>
+    <marc:controlfield tag="008">040409s2002    paua          00  0 eng</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002900660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201208290836</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">747.8571</marc:subfield>
+      <marc:subfield code="b">SKI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Skinner, Tina</marc:subfield>
+      <marc:subfield code="9">16973</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Designs for restaurants &amp;amp; bars :</marc:subfield>
+      <marc:subfield code="b">inspiration from hundreds of international hotels /</marc:subfield>
+      <marc:subfield code="c">Tina Skinner</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Designs for restaurants and bars</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Atglen, PA :</marc:subfield>
+      <marc:subfield code="b">Schiffer Pub.,</marc:subfield>
+      <marc:subfield code="c">c2002.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">176 p. :</marc:subfield>
+      <marc:subfield code="b">chiefly col. ill. ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">A Schiffer design book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Bars (Drinking establishments)</marc:subfield>
+      <marc:subfield code="x">Decoration.</marc:subfield>
+      <marc:subfield code="9">31449</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Restaurants</marc:subfield>
+      <marc:subfield code="x">Decoration.</marc:subfield>
+      <marc:subfield code="9">15105</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 640211</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30417</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

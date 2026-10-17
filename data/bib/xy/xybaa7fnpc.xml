@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01577nam a2200277   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002871760</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110819</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0131828290 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002871760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181248</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">621.3815</marc:subfield>
+      <marc:subfield code="b">BIR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Birnbaum, Mark.</marc:subfield>
+      <marc:subfield code="9">213474</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Essential electronic design automation (EDA) /</marc:subfield>
+      <marc:subfield code="c">Mark D. Birnbaum</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">EDA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Electronic design automation (EDA)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Upper Saddle River, N.J. :</marc:subfield>
+      <marc:subfield code="b">Prentice Hall PTR,</marc:subfield>
+      <marc:subfield code="c">c2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xviii, 234 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Prentice Hall modern semiconductor design series</marc:subfield>
+      <marc:subfield code="9">213475</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - Ch.  1.  Introduction to EDA.  - Ch.  2.  The business of EDA.  - Ch.  3.  The user perspective.  Ch.  4.  Overview of EDA tools and design concepts.  - Ch.  5.  Electronic system-level design tools.  - Ch.  6.  Front-end design tools.  - Ch.  7.  Back-end design tools (physical design).  - Ch.  8.  Trends.  - Appendix A.  Elementary electricity.  - Appendix B.  Semiconductor manufacturing.  - Appendix C.  Signals to software.  - Apendix D.  Metrics.  - Appendix E.  References.  - Appendix F.  ICs, IP, and Soc.  - Appendix G.  Glossary-Terms and acronyms.  - Index.  - About the author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Electronic apparatus and appliances</marc:subfield>
+      <marc:subfield code="x">Computer-aided design.</marc:subfield>
+      <marc:subfield code="9">213476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Electronic circuit design</marc:subfield>
+      <marc:subfield code="x">Data processing.</marc:subfield>
+      <marc:subfield code="9">16875</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Electronic industries</marc:subfield>
+      <marc:subfield code="x">Automation.</marc:subfield>
+      <marc:subfield code="9">213477</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ENG(UOS) : 31726, 31727</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30109</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

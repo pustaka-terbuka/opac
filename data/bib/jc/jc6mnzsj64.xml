@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">486</marc:controlfield>
+    <marc:controlfield tag="003">UNIMAS</marc:controlfield>
+    <marc:controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)486</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UNIMAS</marc:subfield>
+      <marc:subfield code="c">UNIMAS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">Available</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mohan, P. V. Ananda, 1949-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Switched capacitor filters : theory, analysis, and design / P.V. Ananda Mohan, V. Ramachandran, M.N.S. Swamy.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">London New York :</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY</marc:subfield>
+      <marc:subfield code="b">PeTARY</marc:subfield>
+      <marc:subfield code="o">Available</marc:subfield>
+      <marc:subfield code="p">66398</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY</marc:subfield>
+      <marc:subfield code="b">PeTARY</marc:subfield>
+      <marc:subfield code="o">Available</marc:subfield>
+      <marc:subfield code="p">66399</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

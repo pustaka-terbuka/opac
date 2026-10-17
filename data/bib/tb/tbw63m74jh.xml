@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02445nam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000052148</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204336</marc:controlfield>
+    <marc:controlfield tag="008">110321t2010    my a   f m    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0006470(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000052148</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905141200</marc:subfield>
+      <marc:subfield code="b">amirul</marc:subfield>
+      <marc:subfield code="c">201110041155</marc:subfield>
+      <marc:subfield code="d">Fida</marc:subfield>
+      <marc:subfield code="c">201107131632</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">201103211109</marc:subfield>
+      <marc:subfield code="z">ida</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TJ1059 .Z85 2010 rs Bc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mohd Zulhilmi Md Yusof</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Failure of drive shaft using finite element analysis /</marc:subfield>
+      <marc:subfield code="c">Mohd Zulhilmi Md Yusof</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Failure of drive shaft using finite element analysis</marc:subfield>
+      <marc:subfield code="h">[computer file]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi, 45 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 computer disc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Project paper (Bachelor of Mechanical Engineering with Automotive Engineering) -- Universiti Malaysia Pahang - 2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography : p. 39-40</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">This project presented about a failure of drive shaft in conventional passenger vehicles. Perodua Kancil front wheel drive shaft was chosen as the specimen of this analysis. This project deals with analysis on stress using finite element method. The solid model of the drive shaft need to be constructs using SOLIDWORK software. The type of material used in the drive shaft need to be known first before stress analysis can be performed using Patran-Nastran software. The known material will provide the information such as density, modulus of elasticity and tensile strength required for the software to perform the stress and failure analysis. Spectroscopic analysis is carried out using FOUNDRY-MASTER UV instrument. The load applied at the ends of the shaft that are lateral bending load of 1/4 of weight of the full car. Boundary conditions are applied at the bearing and geared location. The highest stress at and displacement was predicted occurred at the fillet cross section location. Stresses will concentrate in the smaller diameter portion due to change in shaft diameter as they pass from large to the small diameter. In any case, one must determine the cause of failure and predict the fatigue life to prevent future occurrence and to improve the performance of the device, component or structure.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Universal joints</marc:subfield>
+      <marc:subfield code="x">Analysis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Automobiles</marc:subfield>
+      <marc:subfield code="x">Power trains</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Power transmission</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TJ1059 .Z85 2010 rs Bc.</marc:subfield>
+      <marc:subfield code="p">54143</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 5087 | TJ1059 .Z85 2010 rs Bc.</marc:subfield>
+      <marc:subfield code="p">54144</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">362</marc:subfield>
+      <marc:subfield code="d">368</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2460*2600*3000*5020*5040*5200*6500*6501*6502*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02039nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002894660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110836</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    my a          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9839088653 ( pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002894660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201304231031</marc:subfield>
+      <marc:subfield code="b">izani</marc:subfield>
+      <marc:subfield code="c">201205231718</marc:subfield>
+      <marc:subfield code="d">stazrina</marc:subfield>
+      <marc:subfield code="c">201102181655</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200507071051</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-my---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">336.2409595</marc:subfield>
+      <marc:subfield code="b">THO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="099" ind1=" " ind2=" ">
+      <marc:subfield code="a">MALAYSIANA</marc:subfield>
+      <marc:subfield code="e">336.2409595</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Thornton, Richard</marc:subfield>
+      <marc:subfield code="c">(Accountant)</marc:subfield>
+      <marc:subfield code="9">72717</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">100 ways to save tax in Malaysia /</marc:subfield>
+      <marc:subfield code="c">by Richard Thornton.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Hundred ways to save tax in Malaysia.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Petaling Jaya, Selangor :</marc:subfield>
+      <marc:subfield code="b">Sweet &amp;amp; Maxwell,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xviii, 208 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - About the author.  - Index.  - Ch.  1.  Ideas for everybody.  - Ch.  2.  Ideal for married taxpayers.  - Ch.  3.  Ideas for people in employment.  - Ch.  4.  Ideas for people with investment income.  - Ch.  5.  Ideas for people with overseas income.  - Ch.  6.  Ideas for people in business.  - Ch.  7.  Ideas for smaller companies.  - Ch.  8.  Ideas for real property transactions.  - Appendices.  - Appendix 1.  Income tax rates for resident individuals.  - Appendix II.  Personal reliefs and rebates for income tax.  - Appendix III.  Real property gains tax rates.  - Appendix IV.  Real property gains tax on the disposal of shares in real property companies.  - Appendix V.  Tax aspects of islamic instruments and transactions.  - Appendix VI.  Residence and non-residence of individuals.  - Appendix VII.  Inland revenue board guidelines on serious diseases.  - Appendix VIII.  Inland revenue board guidelines on interest restriction and interest allowable.  - Appendix IX.  Inland revenue board guidelines on benefits-in-kind.  - Appendix X.  Inland revenue board public rulings.  - Appendix XI.  List of inland revenue board offices.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Income tax</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">33941</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Taxation</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+      <marc:subfield code="9">8009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104299</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30364</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

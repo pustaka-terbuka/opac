@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00977cam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003217978</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085825</marc:controlfield>
+    <marc:controlfield tag="008">110912s2010    nyuaf    b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780195367577 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003217978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201109201505</marc:subfield>
+      <marc:subfield code="b">wilmina</marc:subfield>
+      <marc:subfield code="c">201109121051</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="y">201106071405</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">709.04</marc:subfield>
+      <marc:subfield code="b">ROB 2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Robertson, Jean,</marc:subfield>
+      <marc:subfield code="d">1950-</marc:subfield>
+      <marc:subfield code="9">55750</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Themes of contemporary art :</marc:subfield>
+      <marc:subfield code="b">visual art after 1980 /</marc:subfield>
+      <marc:subfield code="c">Jean Robertson, Craig McDaniel.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2nd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Oxford University Press,</marc:subfield>
+      <marc:subfield code="c">c2010.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 344 p., [16] leaves of plates (col.) :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.), port. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. 321-329) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Art, Modern</marc:subfield>
+      <marc:subfield code="y">20th century</marc:subfield>
+      <marc:subfield code="x">Themes, motives.</marc:subfield>
+      <marc:subfield code="9">17937</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Art, Modern</marc:subfield>
+      <marc:subfield code="y">21st century</marc:subfield>
+      <marc:subfield code="x">Themes, motives.</marc:subfield>
+      <marc:subfield code="9">213863</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">McDaniel, Craig.</marc:subfield>
+      <marc:subfield code="9">213864</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SABD : 163964</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30429</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01101cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003221822</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154541</marc:controlfield>
+    <marc:controlfield tag="008">110804s2012    nyua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780073530697 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0073530697 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003221822</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201109230958</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201109221636</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="c">201109221634</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="c">201109151038</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="y">201108041632</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">332.024</marc:subfield>
+      <marc:subfield code="b">KAP 2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kapoor, Jack R.,</marc:subfield>
+      <marc:subfield code="d">1937-</marc:subfield>
+      <marc:subfield code="9">34575</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Personal finance /</marc:subfield>
+      <marc:subfield code="c">Jack R. Kapoor, Les R. Dlabay, Robert J. Hughes.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">10th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York, N.Y. :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill/Irwin,</marc:subfield>
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxvi, 666, [134] p. :</marc:subfield>
+      <marc:subfield code="b">ill. (chiefly col.) ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">The McGraw-Hill/Irwin series in finance, insurance, and real estate</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Finance, Personal.</marc:subfield>
+      <marc:subfield code="9">107162</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Dlabay, Les R.</marc:subfield>
+      <marc:subfield code="9">14462</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hughes, Robert James,</marc:subfield>
+      <marc:subfield code="d">1946-</marc:subfield>
+      <marc:subfield code="9">34576</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">McGraw-Hill/Irwin series in finance, insurance, and real estate</marc:subfield>
+      <marc:subfield code="9">35563</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">BDP : 170061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30043</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

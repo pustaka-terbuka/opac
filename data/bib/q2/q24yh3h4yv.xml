@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01453cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002866160</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085823</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    maua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">619110929</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002866160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906191138</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181428</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">5.72</marc:subfield>
+      <marc:subfield code="b">BIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bishop, Sherry.</marc:subfield>
+      <marc:subfield code="9">14183</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Macromedia Dreamweaver MX :</marc:subfield>
+      <marc:subfield code="b">illustrated : introductory /</marc:subfield>
+      <marc:subfield code="c">Sherry Bishop.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boston, Mass. :</marc:subfield>
+      <marc:subfield code="b">Thomson/Course Technology,</marc:subfield>
+      <marc:subfield code="c">c2003.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiii, 254 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Illustrated series.</marc:subfield>
+      <marc:subfield code="p">Introductory</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Macromedia education&amp;quot; front cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Author&apos;s vision.  - Preface. - Instructor&apos;s resources.  - Read this before you begin.  - Dreamweaver MX.  - Unit A: Getting started with macromedia dreamweaver MX.  - Unit B: Creating a web site.  - Unit C: Developing a web page.  - Unit D: Formatting text.  - Unit E: Using and manageing graphics. - Unit F: Creating links and navigation bars.  - Unit G: Working with tables and layers.  - Unit H: Working with frames.  - Unit I: Working with HTML forms.  - Appendix: Maintaining and publishing your web site.  - Data files list.  - Glossary.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="630" ind1="0" ind2="0">
+      <marc:subfield code="a">Dreamweaver (Computer file)</marc:subfield>
+      <marc:subfield code="9">10492</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Computer animation.</marc:subfield>
+      <marc:subfield code="9">209179</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CIT(DIP) : 546033, CD546003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30030</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

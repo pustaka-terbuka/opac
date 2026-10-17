@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00976nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003020013</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110837</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    mau           001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1591393221 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003020013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181544</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200507291702</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200504131551</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200412071544</marc:subfield>
+      <marc:subfield code="d">chon ling</marc:subfield>
+      <marc:subfield code="y">200411171323</marc:subfield>
+      <marc:subfield code="z">patrick</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658</marc:subfield>
+      <marc:subfield code="b">DRU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Drucker, Peter F.</marc:subfield>
+      <marc:subfield code="q">(Peter Ferdinand),</marc:subfield>
+      <marc:subfield code="d">1909-2005</marc:subfield>
+      <marc:subfield code="9">21451</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Peter Drucker on the profession of management /</marc:subfield>
+      <marc:subfield code="c">Peter F. Drucker.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">On the profession of management.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boston, Mass. :</marc:subfield>
+      <marc:subfield code="b">Harvard Business School Pub.,</marc:subfield>
+      <marc:subfield code="c">c2003.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvii, 201 p. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="4" ind2=" ">
+      <marc:subfield code="a">The Harvard business review book.</marc:subfield>
+      <marc:subfield code="9">213800</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. 189-191) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Industrial management.</marc:subfield>
+      <marc:subfield code="9">202143</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Management.</marc:subfield>
+      <marc:subfield code="9">201697</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GRL : 180650</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104761</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30368</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

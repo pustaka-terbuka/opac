@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">254</marc:controlfield>
+    <marc:controlfield tag="003">UNIMAS</marc:controlfield>
+    <marc:controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)254</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UNIMAS</marc:subfield>
+      <marc:subfield code="c">UNIMAS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">QL691.B6 S668 1981 )</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Smythies, Bertram E. (Bertram Evelyn)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">The birds of Borneo / by Bertram E. Smythies : with 47 plates in colour and 4 in monochrome by A.M. Hughes.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">Kota Kinabalu, Sabah :</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="o">QL691.B6 S668 1981 )</marc:subfield>
+      <marc:subfield code="p">15932</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="o">QL691.B6 S668 1981 )</marc:subfield>
+      <marc:subfield code="p">16562</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="o">QL691.B6 S668 1981 )</marc:subfield>
+      <marc:subfield code="p">40056</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="o">QL691.B6 S668 1981 )</marc:subfield>
+      <marc:subfield code="p">76434</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="o">QL691.B6 S668 1981 )</marc:subfield>
+      <marc:subfield code="p">16565</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

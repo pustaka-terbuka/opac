@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">401</marc:controlfield>
+    <marc:controlfield tag="003">UNIMAS</marc:controlfield>
+    <marc:controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UNIMAS</marc:subfield>
+      <marc:subfield code="c">UNIMAS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">BF311 .F771 1989 )</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Posner, Michael I</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Foundations of cognitive science / edited by Michael I. Posner.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">Cambridge, Mass. :</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">1000260500</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">1000260501</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">1000260502</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">1000221087</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">1000221088</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Stack Room (Lower Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Stack Room (Lower Ground Floor)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">1000221089</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">30570</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY Medical PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY Medical PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">30571</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Stack Room (Lower Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Stack Room (Lower Ground Floor)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">33664</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Main (Level 1)</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">65923</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY Medical MEDLIB Main</marc:subfield>
+      <marc:subfield code="b">PeTARY Medical MEDLIB Main</marc:subfield>
+      <marc:subfield code="o">BF311 .F771 1989 )</marc:subfield>
+      <marc:subfield code="p">95419</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

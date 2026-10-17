@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01673nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003018366</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154553</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    at            001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0074713817 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003018366</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181237</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200707101410</marc:subfield>
+      <marc:subfield code="d">rafi</marc:subfield>
+      <marc:subfield code="c">200509161112</marc:subfield>
+      <marc:subfield code="d">siew ling</marc:subfield>
+      <marc:subfield code="c">200509161055</marc:subfield>
+      <marc:subfield code="d">siew ling</marc:subfield>
+      <marc:subfield code="y">200409281501</marc:subfield>
+      <marc:subfield code="z">staff</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658.402</marc:subfield>
+      <marc:subfield code="b">POW</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="4">
+      <marc:subfield code="a">The power of culture :</marc:subfield>
+      <marc:subfield code="b">driving today&apos;s organisation /</marc:subfield>
+      <marc:subfield code="c">series editors, Carolyn Barker and Robyn Coy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sydney :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill Australia,</marc:subfield>
+      <marc:subfield code="c">c2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">244 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Management today series</marc:subfield>
+      <marc:subfield code="9">213680</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - 1.  The power of culture : turning the soft stuff into business advantage / Carolyn Taylor.  - 2.  Cultural change agent : leading transformational change / Terry Lee.  - 3.  Unwritten ground rules : the way we really do things around here / Steve Simpson.  - 4.  Building healthy organisations : managing the emotional aspects of workplace culture / Neil Ashkanasy and Marie Dasborough.  - 5.  Cultural motivation : unlocking the secrets of the volunteer organisation / Peter Saul.  - 6.  The last laugh : using humour to drive culture / Vivienne Anthon.  - 7.  Organisation behaving badly : the pathology of groups / Leon Gettler.  - 8.  When the conductor leaves : handing on the cultural baton / Anne Riches.  Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Corporate culture</marc:subfield>
+      <marc:subfield code="9">205139</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Organizational behavior</marc:subfield>
+      <marc:subfield code="9">92336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Management</marc:subfield>
+      <marc:subfield code="9">201697</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Barker, Carolyn</marc:subfield>
+      <marc:subfield code="e">(series ed.)</marc:subfield>
+      <marc:subfield code="9">213681</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Coy, Robyn</marc:subfield>
+      <marc:subfield code="e">(j. series ed.)</marc:subfield>
+      <marc:subfield code="9">213682</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104755</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT: 666232</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30282</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

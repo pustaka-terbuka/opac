@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02159cmm a2200457 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002881960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085824</marc:controlfield>
+    <marc:controlfield tag="006">m||||  r b   j   n</marc:controlfield>
+    <marc:controlfield tag="007">co cga---|uuuu</marc:controlfield>
+    <marc:controlfield tag="008">110218t19951995nyunn|n  r b   j    eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0517701731 (set)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780517701737 (set)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002881960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201809071438</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201603251024</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201603251020</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201603250937</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">428.2</marc:subfield>
+      <marc:subfield code="b">TRI 1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Tripleplayplus! English.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">Syracuse, New York :</marc:subfield>
+      <marc:subfield code="b">Syracuse Language Systems,</marc:subfield>
+      <marc:subfield code="c">[1995]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="4" ind2=" ">
+      <marc:subfield code="c">©1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM :</marc:subfield>
+      <marc:subfield code="b">sound, colour ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.. +</marc:subfield>
+      <marc:subfield code="e">1 user&apos;s manual (92 pages : illustrations ; 22 cm)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">spoken word</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer disc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Living language multimedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;A Random House/Syracuse Language Systems Program.&amp;quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;E 1.2.&amp;quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Accompanied by Tripleplayplus! user&apos;s manual.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Title from disc label.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Offers instruction in speaking, understanding, reading, and writing English at the beginner to intermediate level. Users may practice conversational English using speech recognition feature and compare pronunciation to native speaker&apos;s with record/playback function. Includes games, comic strips, grammar reference, and English glossary.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="521" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ages 8 through adult.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="538" ind1=" " ind2=" ">
+      <marc:subfield code="a">System requirements: 386SX IBM-compatible PC or better; 4MB RAM; DOS 3.1 or later; Windows 3.1; MSCDEX 2.2 or higher; SVGA display (640 x 480 resolution, 256 colors); MPC-compliant CD-ROM drive; MPC-compliant audio board; speakers or headphones; mouse.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Computer-assisted instruction for foreign speakers</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213612</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Random House (Firm)</marc:subfield>
+      <marc:subfield code="9">15153</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Syracuse Language Systems, Inc.</marc:subfield>
+      <marc:subfield code="9">15152</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Tripleplayplus! user&apos;s manual.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : CD034, 221800</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30224</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

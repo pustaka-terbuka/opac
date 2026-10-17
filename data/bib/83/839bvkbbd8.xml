@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01790nam a2200313 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002893160</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154558</marc:controlfield>
+    <marc:controlfield tag="008">110218r20021984enk           000 0aeng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">086068511X (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002893160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181518</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200506211026</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200506211023</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">818.5409</marc:subfield>
+      <marc:subfield code="b">ANG</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Angelou, Maya.</marc:subfield>
+      <marc:subfield code="9">209400</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">I know why the caged bird sings /</marc:subfield>
+      <marc:subfield code="c">Maya Angelou.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Virago Press,</marc:subfield>
+      <marc:subfield code="c">1984 (2002 printing)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">281 p. ;</marc:subfield>
+      <marc:subfield code="c">20 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot; Maya Angelou&apos;s six volumes of autobiography are a testament to the talents and resilience of this extraordinary writer. Loving the world, she also knows its cruelty. As a Black woman she has known discrimination and extreme poverty, but also hope and joy, achievement and celebration. In this first volume of her autobiography, Maya Angelou beautifully evokes her childhood with her grandmother in the American south of the 1930s.She learns the power of the white folks at the other end of town and suffers the terrible trauma of rape by her mother&apos;s lover.&amp;quot; - Back cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Angelou, Maya</marc:subfield>
+      <marc:subfield code="x">Childhood and youth.</marc:subfield>
+      <marc:subfield code="9">213771</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Angelou, Maya</marc:subfield>
+      <marc:subfield code="x">Homes and haunts</marc:subfield>
+      <marc:subfield code="z">Arkansas.</marc:subfield>
+      <marc:subfield code="9">213772</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">African American authors</marc:subfield>
+      <marc:subfield code="v">Biography.</marc:subfield>
+      <marc:subfield code="9">209402</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">African American families</marc:subfield>
+      <marc:subfield code="z">Arkansas.</marc:subfield>
+      <marc:subfield code="9">213773</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Authors, American</marc:subfield>
+      <marc:subfield code="x">Homes and haunts</marc:subfield>
+      <marc:subfield code="z">Arkansas.</marc:subfield>
+      <marc:subfield code="9">213774</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Authors, American</marc:subfield>
+      <marc:subfield code="y">20th century</marc:subfield>
+      <marc:subfield code="v">Biography.</marc:subfield>
+      <marc:subfield code="9">10662</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Entertainers</marc:subfield>
+      <marc:subfield code="z">United States</marc:subfield>
+      <marc:subfield code="v">Biography.</marc:subfield>
+      <marc:subfield code="9">209401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Arkansas</marc:subfield>
+      <marc:subfield code="x">Social life and customs.</marc:subfield>
+      <marc:subfield code="9">213775</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Arkansas</marc:subfield>
+      <marc:subfield code="x">Intellectual life</marc:subfield>
+      <marc:subfield code="y">20th century.</marc:subfield>
+      <marc:subfield code="9">213776</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADP : 95927</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN: 105293</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30348</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

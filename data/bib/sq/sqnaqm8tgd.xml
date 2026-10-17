@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00894nam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003124522</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110844</marc:controlfield>
+    <marc:controlfield tag="008">110218s1985    enkdabo       000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0854260307 (pbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003124522</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181516</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200810200931</marc:subfield>
+      <marc:subfield code="d">Irma</marc:subfield>
+      <marc:subfield code="y">200809101505</marc:subfield>
+      <marc:subfield code="z">meena</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">378.42821</marc:subfield>
+      <marc:subfield code="b">BOY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boylan, Maureen</marc:subfield>
+      <marc:subfield code="9">213932</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The University of Sheffield :</marc:subfield>
+      <marc:subfield code="b">a pictorial history /</marc:subfield>
+      <marc:subfield code="c">[by Maureen Boylan].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Sheffield] :</marc:subfield>
+      <marc:subfield code="b">[The University],</marc:subfield>
+      <marc:subfield code="c">c1985.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">64 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.), facsims.,maps (some col.), plans, ports. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">University of Sheffield</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="9">213933</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">South Yorkshire (England)</marc:subfield>
+      <marc:subfield code="9">213934</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">South Yorkshire (Metropolitan County)</marc:subfield>
+      <marc:subfield code="z">Sheffield</marc:subfield>
+      <marc:subfield code="x">Universities</marc:subfield>
+      <marc:subfield code="x">University of Sheffield</marc:subfield>
+      <marc:subfield code="y">to 1980</marc:subfield>
+      <marc:subfield code="9">213935</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 108113</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30482</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

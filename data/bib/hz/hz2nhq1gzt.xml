@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00962nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003144582</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154551</marc:controlfield>
+    <marc:controlfield tag="008">090702s2009    enk           001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781405186025 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003144582</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">200912221413</marc:subfield>
+      <marc:subfield code="b">mas</marc:subfield>
+      <marc:subfield code="c">200908191533</marc:subfield>
+      <marc:subfield code="d">shahriman</marc:subfield>
+      <marc:subfield code="y">200907021840</marc:subfield>
+      <marc:subfield code="z">mas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">363.73849</marc:subfield>
+      <marc:subfield code="b">RAV</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ravenscroft, Peter</marc:subfield>
+      <marc:subfield code="9">213621</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2=" ">
+      <marc:subfield code="a">Arsenic pollution :</marc:subfield>
+      <marc:subfield code="b">a global synthesis /</marc:subfield>
+      <marc:subfield code="c">Peter Ravenscroft</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Chichester, U.K. ; Malden, MA :</marc:subfield>
+      <marc:subfield code="b">Wiley-Blackwell,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxvii, 588 p. :</marc:subfield>
+      <marc:subfield code="b">ill., maps ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">RGS-IBG book series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. [528]-580) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Arsenic compounds</marc:subfield>
+      <marc:subfield code="x">Environmental aspects.</marc:subfield>
+      <marc:subfield code="9">213622</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Arsenic wastes</marc:subfield>
+      <marc:subfield code="x">Environmental aspects.</marc:subfield>
+      <marc:subfield code="9">213623</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Brammer, H.</marc:subfield>
+      <marc:subfield code="9">213624</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Richards, K. S.</marc:subfield>
+      <marc:subfield code="9">213625</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">RGS-IBG book series</marc:subfield>
+      <marc:subfield code="9">213626</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADP/1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30234</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

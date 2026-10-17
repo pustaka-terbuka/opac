@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00850cam a22002294a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003155133</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154554</marc:controlfield>
+    <marc:controlfield tag="008">100219s2010    si            000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003155133</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201003190949</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201003190944</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201002190947</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">201002190944</marc:subfield>
+      <marc:subfield code="z">shuhada</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-si---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">616.85270092</marc:subfield>
+      <marc:subfield code="b">YOW</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Yow, Jasmine.</marc:subfield>
+      <marc:subfield code="9">37047</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Behind that shiny resume :</marc:subfield>
+      <marc:subfield code="b">jottings of a troubled college student /</marc:subfield>
+      <marc:subfield code="c">Jasmine Yow.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Armour Pub.,</marc:subfield>
+      <marc:subfield code="c">c2010.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxi, 102 p. ;</marc:subfield>
+      <marc:subfield code="c">20 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Yow, Jasmine</marc:subfield>
+      <marc:subfield code="x">Mental health.</marc:subfield>
+      <marc:subfield code="9">213698</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Yow, Jasmine</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213699</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Depression in adolescence</marc:subfield>
+      <marc:subfield code="z">Singapore.</marc:subfield>
+      <marc:subfield code="9">213700</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Junior college students</marc:subfield>
+      <marc:subfield code="z">Singapore</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213701</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 142135, 142136, 142137</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30294</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01648cam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002865460</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154541</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002    maua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1584502118 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002865460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906191206</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181543</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">778.530285</marc:subfield>
+      <marc:subfield code="b">FAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Farrell, John,</marc:subfield>
+      <marc:subfield code="d">1961-</marc:subfield>
+      <marc:subfield code="9">213371</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Digital movies with QuickTime Pro /</marc:subfield>
+      <marc:subfield code="c">John Farrell.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hingham, Mass. :</marc:subfield>
+      <marc:subfield code="b">Charles River Media,</marc:subfield>
+      <marc:subfield code="c">c2002.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiii, 362 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm. +</marc:subfield>
+      <marc:subfield code="e">+</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Acknowledgments.  - Ch.  1.  Introduction: Digital movies with quicktime pro.  - Ch.  2.  Overview of quicktime player pro.  - Ch.  3.  DV.  - Ch.  4.  Making your movie: the script.  - Ch.  5.  Making your movie: incorporated.  - Ch.  6. Making your movie: shooting schedule.  - Ch.  7.  Making your movie: Actors using professionals.  - Ch.  8.  Shooting video to look like movies.  - Ch.  9.  Edit time: your post-production setup.  - Ch.  10.  Edit time: using quicktime pro.  - Ch.  11.  Edit time: using Imovie.  - Ch.  12.  Edit time: using final cut pro.  - Ch.  13.  Edit time: Using premiere 6.  - Ch.  14.  Edit time: using cleaner.  - Ch.  15.  Quicktime pro delivery.  - Ch.  16.  Quicktime pro to go.  - Appendix A.  About the DVD-ROM.  - Appendix B.  Digital video web sites and resources.  - Glossary.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="630" ind1="0" ind2="0">
+      <marc:subfield code="a">QuickTime.</marc:subfield>
+      <marc:subfield code="9">213372</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Digital cinematography.</marc:subfield>
+      <marc:subfield code="9">16840</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Motion pictures</marc:subfield>
+      <marc:subfield code="x">Editing</marc:subfield>
+      <marc:subfield code="x">Data processing.</marc:subfield>
+      <marc:subfield code="9">16841</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CIT(DIP) : 546029, CD546002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30027</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

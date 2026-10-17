@@ -1,0 +1,2776 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!-- TEMPLATE FILE: opac-main.tt -->
+
+
+
+
+
+
+
+
+
+<html lang="en" class="no-js">
+<head>
+
+<title
+    >Taylor's Library catalog</title
+>
+<link rel="canonical" href="https://librarycatalogue.taylors.edu.my/" />
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Koha" />
+<!-- leave this for stats -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="csrf-token" content="f2164bb29ff0463432e1006f3774380ce00001bc,c0e882058bdf68c631c689c6340dbcf5f7aa1b8f,1792250880" />
+
+
+<link rel="shortcut icon" href="https://librarycatalogue.taylors.edu.my/taylorslogo.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="https://librarycatalogue.taylors.edu.my/taylorslogo.png" type="image/x-icon" />
+
+    
+        
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/opac-tmpl/bootstrap/css/opac_25.1102000.css">
+
+
+
+
+    <link media="print" href="/opac-tmpl/bootstrap/css/print_25.1102000.css" type="text/css" rel="stylesheet">
+
+
+    <!-- prettier-ignore-start -->
+    <style>/*opac header*/
+
+.opacheader {
+background-color:none;
+border-style: solid;
+border-width: 0px; 
+border-color:none; 
+border-radius: 0px;
+margin: 0px 0px 0px 1px;
+padding: 2px 0px 2px 0px;
+}
+
+/*style search box*/
+.mastheadsearch {
+background-color:#CE2323;
+/*border-style: solid;*/
+border-radius:3px;
+padding-left: 60px;
+}
+
+.mastheadsearch label {
+color:#CE2323;
+}
+
+.mastheadsearch label {color:#ffffff;}
+
+
+.navbar-inverse .navbar-inner {
+    background: #CE2323 none;
+    border-color: #CE2323;
+    box-shadow: none;
+}
+
+.navbar .divider-vertical {
+    border-left-color: #CE2323;
+    border-right-color: #CE2323;
+}
+
+/* navbar seperator */
+.navbar .divider-vertical {
+    border-left-color: #ce2323;
+    border-right-color: #ce2323;
+}
+
+.cartlabel, .listslabel {
+  color: #FFFFFF;
+}
+
+#members a {
+    color: #ffffff;
+}
+
+#members p {
+    color: #ffffff;
+}
+
+
+/*--------------Header Link Style---------------------*/
+nav ul#head-nav {
+  background:#CE2323;;
+  float:right;
+  margin-bottom:1px;
+  min-height:15px;
+  padding:0;
+  width:100%;
+  border-radius:1px;
+}
+nav ul#head-nav ul {
+  background:none;
+  bottom:0;
+  height:0;
+  left:0;
+  padding-top:0;
+  position:absolute;
+  visibility:hidden;
+}
+nav ul#head-nav li {
+  float:left;
+  height:25px;
+  list-style:none;
+  margin:0;
+  padding:9px 12px 0;
+  position:relative;
+  vertical-align:middle;
+  z-index:11;
+}
+nav ul#head-nav li a {
+  color:#0033cc!important;
+  font-family:FreeSans, FreeSans, Arial, Helvetica, sans-serif;
+  font-size:14px;
+  letter-spacing:0.5px;
+  padding:5px 0;
+  text-transform:uppercase;
+}
+nav ul#head-nav li a:hover, ul#head-nav a:visited:hover {
+  color:#ffcc00;
+  position:relative;
+  text-decoration:none;
+  z-index:11;
+}
+ul#head-nav li a:visited {
+  color:#FFFFFF;
+}
+nav ul#head-nav li a:active, ul#head-nav li a:visited:active {
+  background:#a6c9cb;
+  color:#ffcc00;
+}
+nav ul#head-nav li.has_current > a {
+}
+nav ul#head-nav li:hover {
+  background:#A6C9CB;
+}
+nav ul#head-nav li:hover ul {
+  color:#000000;
+  margin-left:0px;
+  margin-top:10px;
+  visibility:visible;
+  z-index:10;
+}
+nav ul#head-nav ul li {
+  background:#FFFFFF;
+  color:#000000;
+  height:auto;
+  margin-bottom:8px;
+  margin-top:-8px;
+  min-width:175px;
+  padding:9px 9px 9px 10px;
+  width:auto;
+  z-index:10;
+}
+nav ul#head-nav ul li:hover {
+  background:#ffcc00;
+  visibility:visible;
+}
+nav ul#head-nav ul li a:hover {
+  color:#000000;
+  visibility:visible;
+}
+nav ul#head-nav ul li:first-child {
+  margin-top:0 !important;
+}
+nav ul#head-nav ul ul li {
+  left:33px;
+  top:-3px;
+  visibility:hidden;
+}
+nav ul#head-nav ul li:hover ul li {
+  visibility:visible;
+}
+
+nav ul#head-nav ul li:hover ul ul li {
+  visibility:hidden;
+}
+nav ul#head-nav ul ul li:hover ul li {
+  visibility:visible;
+}
+nav ul#head-nav ul ul {
+  left:156px;
+  padding-top:0;
+  top:-1px;
+  width:149px;
+}
+nav ul#head-nav ul li:hover ul ul li {
+  visibility:hidden;
+}
+nav ul#head-nav ul ul li:hover ul li {
+  visibility:visible;
+}
+
+nav ul#head-nav ul ul {
+  left:156px;
+  padding-top:0;
+  top:-1px;
+  width:149px;
+}
+nav ul#head-nav ul ul li:hover ul ul li {
+  visibility:hidden;
+}
+nav ul#head-nav ul ul ul li:hover ul li {
+  visibility:visible;
+}
+
+nav ul#head-nav ul ul {
+  left:156px;
+  padding-top:0;
+  top:-1px;
+  width:149px;
+}
+nav ul#head-nav ul ul ul li:hover ul ul li {
+  visibility:hidden;
+}
+nav ul#head-nav ul ul ul ul li:hover ul li {
+  visibility:visible;
+}
+ 
+
+
+nav ul#head-nav ul ul {
+  left:161px;
+  padding-top:0;
+  top:-1px;
+  width:149px;
+}
+
+/*Additonal for header-nav------------------*/
+nav ul#head-nav ul li a {
+  color:#000000;
+}
+nav ul#head-nav ul li:hover a {
+  color:#000000;
+}
+
+nav ul#head-nav li:hover {
+  color:#000000!important;
+}
+nav ul#head-nav li:hover > a {
+  color:#000000;
+}
+nav ul#head-nav li:hover ul li > a {
+  color:#000000!important;
+}
+nav ul#head-nav li:hover ul li:hover > a {
+  color:#000000!important;
+}
+nav ul#head-nav li:hover > a {
+  color:#000000!important;
+}
+
+#contentContainer {
+  width:100%;
+}
+
+/* Scroll Right---------------------------------------*/
+div.scrollright {
+/*max-width:500px;
+height: 350px;*/
+overflow: scroll;
+overflow-y: hidden;
+overflow-x: hidden;
+}
+
+/* --------- Sidebar nav ------------*/
+.box {
+	border: 1px solid #CE2323;
+	margin: 0px;
+	overflow:hidden;
+}
+
+.rounded {
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+.box h3 {
+	background: -webkit-linear-gradient(#CE2323,#CE2323); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#CE2323,#CE2323); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#CE2323,#CE2323); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#CE2323,#CE2323);
+	color:#ffffff;
+	margin:0;
+	padding:10px;
+}
+
+
+
+/* Scroll Left-----------------------------------------*/
+div.scrollleft {
+    min-width: 300px;
+    max-width: 500px;
+    height: 520px;
+    overflow: scroll;
+overflow-y: scroll;
+overflow-x: hidden;
+}
+
+
+/*Left Image Text ---------------*/
+
+.classright {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    margin-bottom: .0em;    
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: none;
+  border-left-style: solid;
+  border-radius: 5px;
+}
+
+/*
+.container-fluid {
+    padding-right: 20px;
+    padding-left: 20px;
+    *zoom: 1;
+}
+*/
+
+@media (min-width: 1200px)
+.row-fluid {
+    width: 100%;
+    *zoom: 1;
+}
+
+.container-fluid:after {
+    clear: both;
+}
+
+.container-fluid:before, .container-fluid:after {
+    display: table;
+    content: "";
+    line-height: 0;
+
+}
+
+p {
+    margin: 0 10px;
+    padding-top: 5px;
+
+}
+
+.carousel-caption {   
+    text-align: center;
+}
+
+.fa.fa-icon-white {
+    color: #ffffff;
+}
+
+nav ul#head-nav li a {
+    color: #ffffff!important;
+    
+}
+
+nav ul#head-nav {
+   
+    border-radius: 2px;
+}
+
+body {
+    background: #e9e9e9 none;
+    
+}
+
+primary:hover, .btn-primary:visited {
+    background-color: #20ae4c;
+    background-image: linear-gradient(180deg,#20ae4c,#77b50f);
+    background-position: 0;
+}
+
+
+#members a {
+    color: #727272;
+}
+
+li a.menu-inactive {
+	color: #727272;
+}
+
+span.langlabel {
+    color: #ffffff;
+}
+
+span.loggedinusername{
+	color: #000000;
+}
+
+a.login-link#members a {
+	color: #ffffff;
+}
+
+body {
+    margin: 0;
+    font-size: 14px;
+}
+
+div#footer-texts.pull-left {
+    
+    font-size: 12px;
+}
+
+div#opacnavbottom {
+    
+    font-size: 19px;
+}
+
+ul.breadcrumb {     /* this will hide div with class div_class_name */
+  display:none;
+}
+
+#wrap {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#members a.logout {
+    color: #ffffff;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-instagram {
+  background: #E1306C;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  
+}
+
+#user_summary h3 {
+    background-color: #e2e8e8;
+    color: #727272;
+}
+
+#members a {
+    color: #ffffff;
+}
+/*login username display*/
+span.loggedinusername {
+    color: #000000;
+}
+
+
+.fa.fa-rss.rsssearchicon {
+    font-size: 90%;
+    display: none;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .btn-primary:visited {
+    background-color: #b7b6b5;
+    background-image: linear-gradient(180deg,#b7b6b5,#7b7b7b);
+    background-position: 0;
+}
+
+#logo {
+   background: rgba(0, 0, 0, 0)
+url("https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-retrieve-file.pl?id=dfd03cd96565253066aa596634f63751") no-repeat scroll 0 center;
+   max-width:100%;
+   height:auto;
+  
+}
+
+@media only screen and (max-width: 700px) {
+   #logo{
+     background: transparent url("https://librarycatalogue.taylors.edu.my/logoputih.png");
+   }
+}
+
+.no-image { display: none; }
+
+
+
+
+
+/* Aiman side */
+
+/* FULL WIDTH OPAC BANNER FIX */
+.opacheader {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    background: transparent !important;
+}
+
+.custom-opac-banner {
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.custom-opac-banner a {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-opac-banner img {
+    display: block;
+    width: 100%;
+    height: 330px;
+    margin: 0;
+    padding: 0;
+}
+
+/* remove side spacing around top content */
+/*.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+*/
+
+div#wrapper{padding:0px;}
+#wrapper{
+padding-left:-10px !important;
+padding-right:-10px!important;
+}
+
+
+.col {
+  padding: 0px;
+}
+
+/*
+#breadcrumbs {
+  display:none;
+}*/
+
+
+/* optional: make banner flush with top section */
+.main {
+    border: none !important;
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/*login rename*/
+#members .userlabel {
+    font-size: 0 !important;
+}
+
+#members .userlabel::after {
+    content: "My Library Account Login";
+    font-size: 14px;
+}
+
+
+/* Make top navbar red */
+.navbar {
+    background-color: #CE2323 !important;
+}
+
+/* Make navbar text white */
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .listslabel,
+.navbar .userlabel {
+    color: #ffffff !important;
+}
+
+/* Make icons white */
+.navbar i {
+    color: #ffffff !important;
+}
+
+
+#opac-main-search {
+  background-color: #CE2323;
+}
+
+/*bug fixes */
+
+#moresearches {
+  margin: 5px 0px 5px 0px !important;
+  padding: 0px 30px !important;
+}
+
+
+
+/*box*/
+.box.rounded {
+    width: 100% !important;
+    max-width: 100% !important;
+    border: 1px solid #CE2323;
+    border-radius: 14px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.box.rounded h3 {
+    margin: 0 !important;
+    padding: 12px 30px !important;
+    font-size: 15px;
+    background: #d91c1c;
+    color: #fff;
+}
+
+.box.rounded > div {
+    padding: 12px 30px 16px 18px !important;
+    box-sizing: border-box;
+}
+
+.box.rounded p {
+    margin: 0 0 12px 0 !important;
+    padding: 0 !important;
+}
+
+
+/* ===== FOOTER STYLE LIKE FIRST IMAGE ===== */
+.custom-footer {
+    background: #3a3a3a;
+    color: #ffffff;
+    padding: 35px 0px 0px 0px;
+    font-family: Arial, sans-serif;
+}
+
+.custom-footer .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+  	padding-left:40px;
+}
+
+.custom-footer .footer-column {
+    flex: 1;
+    min-width: 220px;
+    position: relative;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+/* vertical separator line */
+.custom-footer .footer-column:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 120px;
+    background: rgba(255,255,255,0.35);
+}
+
+/* section title */
+.custom-footer h4 {
+    margin: 0 0 14px;
+    color: #ff2a2a;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* links list */
+.custom-footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.custom-footer ul li {
+    margin-bottom: 10px;
+}
+
+.custom-footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.custom-footer ul li a:hover {
+    color: #ff2a2a;
+}
+
+/* social icons */
+.custom-footer .social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+.custom-footer .social-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    background: transparent;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.custom-footer .social-icons a:hover {
+    color: #ff2a2a;
+}
+
+/* member logo */
+.custom-footer .member-title {
+    color: #ff2a2a;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 18px 0 10px;
+}
+
+.custom-footer .member-logo img {
+    max-width: 70px;
+    height: auto;
+    display: block;
+}
+
+/* copyright bar */
+.custom-footer .footer-bottom {
+    margin-top: 10px;
+    background: #ff0000;
+    color: #ffffff;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+    .custom-footer {
+        padding: 30px 20px 0;
+    }
+
+    .custom-footer .footer-container {
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .custom-footer .footer-column {
+        padding: 0;
+    }
+
+    .custom-footer .footer-column:not(:last-child)::after {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*aiman footer extra */
+
+/* Make column 3 behave independently */
+.custom-footer .footer-column-social {
+    display: flex;
+    flex-direction: column;
+}
+
+/* NEW layout row inside column 3 */
+.social-member-wrap {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+/* keep icons horizontal */
+.social-icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+/* member block alignment */
+.member-block {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* optional: reduce spacing so it fits nicely */
+.member-title {
+    margin-top: 0;
+}
+
+
+
+
+/* Customisation for microsoft azure button in OPAC - START */
+/* ── Base button ── */
+#provider_taylorsEntraID {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 300px;
+  height: 45px;
+  padding: 12px 12px;
+
+  background-color: #CE2323;
+  color: #ffffff;
+  border: 1px solid rgb(220, 53, 69);
+  border-radius: 4px;
+
+  font-family: "Source Sans Pro", -apple-system, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: none;
+  text-transform: none;
+  letter-spacing: normal;
+
+  box-shadow:
+    rgba(255, 255, 255, 0.15) 0px 1px 0px 0px inset,
+    rgba(0, 0, 0, 0.075)     0px 1px 1px 0px;
+
+  cursor: pointer;
+}
+
+/* ── Icon sizing ── */
+#provider_taylorsEntraID img {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;   /* mr-2 in Bootstrap */
+}
+
+/* ── Hover ── */
+#provider_taylorsEntraID:hover {
+  background-color: rgb(200, 35, 51);   /* #c82333 */
+  border-color:     rgb(189, 33, 48);   /* #bd2130 */
+  color: rgb(255, 255, 255);
+}
+
+/* ── Focus ── */
+#provider_taylorsEntraID:focus {
+  box-shadow:
+    rgba(255, 255, 255, 0.15) 0px 1px 0px 0px inset,
+    rgba(0, 0, 0, 0.075)     0px 1px 1px 0px,
+    rgba(225, 83, 97, 0.5)   0px 0px 0px 0.2rem;
+  outline: none;
+}
+
+/* ── Active / Pressed ── */
+#provider_taylorsEntraID:active {
+  background-color: rgb(189, 33, 48);   /* #bd2130 */
+  border-color:     rgb(178, 31, 45);   /* #b21f2d */
+  color: rgb(255, 255, 255);
+}
+
+/* ── Disabled ── */
+#provider_taylorsEntraID:disabled {
+  background-color: rgb(220, 53, 69);
+  border-color:     rgb(220, 53, 69);
+  color: rgb(255, 255, 255);
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+/* Customisation for microsoft azure button in OPAC - END */
+
+
+
+/*------------------------------------------------------------------------------------------------
+FOR STAFF CLIENT
+
+/* Customisation for microsoft azure button - START */
+/* ── Base button ── */
+#provider_taylorsEntraID {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 280px;
+  height: 45px;
+  padding: 12px 12px;
+
+  background-color: #CE2323;
+  color: #ffffff;
+  border: 1px solid rgb(220, 53, 69);
+  border-radius: 4px;
+
+  font-family: "Source Sans Pro", -apple-system, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: none;
+  text-transform: none;
+  letter-spacing: normal;
+
+  box-shadow:
+    rgba(255, 255, 255, 0.15) 0px 1px 0px 0px inset,
+    rgba(0, 0, 0, 0.075)     0px 1px 1px 0px;
+
+  cursor: pointer;
+}
+
+/* ── Icon sizing ── */
+#provider_taylorsEntraID img {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;   /* mr-2 in Bootstrap */
+}
+
+/* ── Hover ── */
+#provider_taylorsEntraID:hover {
+  background-color: rgb(200, 35, 51);   /* #c82333 */
+  border-color:     rgb(189, 33, 48);   /* #bd2130 */
+  color: rgb(255, 255, 255);
+}
+
+/* ── Focus ── */
+#provider_taylorsEntraID:focus {
+  box-shadow:
+    rgba(255, 255, 255, 0.15) 0px 1px 0px 0px inset,
+    rgba(0, 0, 0, 0.075)     0px 1px 1px 0px,
+    rgba(225, 83, 97, 0.5)   0px 0px 0px 0.2rem;
+  outline: none;
+}
+
+/* ── Active / Pressed ── */
+#provider_taylorsEntraID:active {
+  background-color: rgb(189, 33, 48);   /* #bd2130 */
+  border-color:     rgb(178, 31, 45);   /* #b21f2d */
+  color: rgb(255, 255, 255);
+}
+
+/* ── Disabled ── */
+#provider_taylorsEntraID:disabled {
+  background-color: rgb(220, 53, 69);
+  border-color:     rgb(220, 53, 69);
+  color: rgb(255, 255, 255);
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+/* Customisation for microsoft azure button - END */
+
+/* Hide only the library card section */
+#nologininstructions h2:nth-child(3),
+#nologininstructions p:nth-child(4) {
+  display: none !important;
+}
+
+/* Fix logo - 100x40 */
+#logo {
+  width: 100px !important;
+  min-width: 100px !important;
+  flex-shrink: 0 !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: left center !important;
+  image-rendering: -webkit-optimize-contrast !important;
+  image-rendering: crisp-edges !important;
+  overflow: visible !important;
+}
+
+#logo a.navbar-brand {
+  color: transparent !important;
+  font-size: 0 !important;
+  width: 100px !important;
+  height: 40px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  display: block !important;
+}
+
+/* Make banner image fully responsive */
+.custom-opac-banner {
+  width: 100% !important;
+  overflow: hidden !important;
+}
+
+.custom-opac-banner img {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+  display: block !important;
+}
+
+li:has(a[href="/cgi-bin/koha/opac-illrequests.pl"]) {
+  display: none;
+}
+
+fieldset.rows {
+    padding: 15px !important;
+}
+
+.suggestions ul:has(a[href*="opac-illrequests.pl"]) {
+  display: none;
+}</style>
+    <!-- prettier-ignore-end -->
+
+
+
+
+    <link rel="search" type="application/opensearchdescription+xml" href="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-search.pl?format=opensearchdescription" title="Search Taylor's Library" />
+    <link rel="unapi-server" type="application/xml" title="unAPI" href="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/unapi" />
+
+
+<script>
+    var Koha = {};
+    function _(s) { return s } // dummy function for gettext
+    const is_logged_in = false
+</script>
+
+<script src="/opac-tmpl/bootstrap/js/Gettext_25.1102000.js"></script>
+<script src="/opac-tmpl/bootstrap/js/i18n_25.1102000.js"></script>
+
+<link rel="stylesheet" href="/opac-tmpl/lib/fontawesome/css/fontawesome.min_25.1102000.css" type="text/css">
+<link type="text/css" href="/opac-tmpl/lib/fontawesome/css/brands.min_25.1102000.css" rel="stylesheet">
+<link type="text/css" href="/opac-tmpl/lib/fontawesome/css/solid.min_25.1102000.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+    
+
+
+
+
+
+    
+
+<body ID="opac-main" class="branch-default" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button id="scrolltocontent">Skip to main content</button>
+<!-- prettier-ignore-start -->
+<!-- closed in opac-bottom.inc -->
+<div id="wrapper">
+<!-- prettier-ignore-end -->
+<header id="header-region" class="noprint">
+    <nav class="navbar navbar-expand">
+        <div id="logo">
+            <a class="navbar-brand" href="/cgi-bin/koha/opac-main.pl">
+                
+                    Taylor's Library
+                
+            </a>
+        </div>
+        
+            
+            <ul id="cart-list-nav" class="navbar-nav">
+                
+                <li role="presentation" class="divider-vertical"></li>
+                
+                    
+                        <li class="nav-item dropdown">
+                            <a
+                                href="/cgi-bin/koha/opac-shelves.pl"
+                                title="Show lists"
+                                class="nav-link dropdown-toggle"
+                                id="listsmenu"
+                                data-bs-toggle="dropdown"
+                                role="button"
+                                aria-label="Show dropdown with detailed list information"
+                                aria-haspopup="true"
+                                aria-expanded="false"
+                                ><i class="fa fa-list fa-fw fa-icon-black" aria-hidden="true"></i> <span class="listslabel">Lists</span>
+                            </a>
+                            <div aria-labelledby="listsmenu" role="menu" class="dropdown-menu">
+                                
+                                    <a class="dropdown-item" href="/cgi-bin/koha/opac-shelves.pl?op=list&amp;public=1" tabindex="0" role="menuitem"><strong>Public lists</strong></a>
+                                    
+                                    
+                                        <a class="dropdown-item" href="/cgi-bin/koha/opac-shelves.pl?op=view&amp;shelfnumber=1017&amp;sortfield=title" tabindex="0" role="menuitem"
+                                            >New e-book list</a
+                                        >
+                                        
+                                        
+                                    
+                                        <a class="dropdown-item" href="/cgi-bin/koha/opac-shelves.pl?op=view&amp;shelfnumber=5&amp;sortfield=dateadded" tabindex="0" role="menuitem"
+                                            >New Book List</a
+                                        >
+                                        
+                                        
+                                    
+                                    
+                                
+                                
+                                    <div class="dropdown-divider"></div>
+                                
+                                
+                                    <a class="dropdown-item" href="/cgi-bin/koha/opac-shelves.pl?op=list&amp;public=0" tabindex="0" role="menuitem"><strong>Your lists</strong></a>
+                                    
+                                        <a class="dropdown-item" href="/cgi-bin/koha/opac-shelves.pl?op=add_form" tabindex="0" role="menuitem">Log in to create your own lists</a>
+                                    
+                                
+                            </div>
+                            <!-- / .dropdown-menu -->
+                        </li>
+                        <!-- / .nav-item.dropdown -->
+                    
+                
+                
+            </ul>
+            <!-- / .navbar-nav -->
+        
+        
+            
+            
+            <ul id="members" class="navbar-nav">
+                <li class="nav-item dropdown dropdown-menu-end">
+                    
+                        
+                            
+                                <a href="/cgi-bin/koha/opac-user.pl" class="nav-link login-link loginModal-trigger" aria-label="Log in to your account"
+                                    ><i class="fa fa-user fa-fw fa-icon-black fa-fw" aria-hidden="true"></i> <span class="userlabel">Log in to your account</span></a
+                                >
+                            
+                        
+                    
+
+                    
+                </li>
+                <!-- Cookie consent button for non logged-in users -->
+                
+                    <li role="presentation" style="display:none" id="cookieConsentDivider" class="divider-vertical" aria-hidden="true"></li>
+                    <li style="display:none" id="cookieConsentLi" class="nav-item" aria-hidden="true">
+                        <a id="cookieConsentButton" href="#" name="Your cookies" class="nav-link" title="View and amend cookies you have consented to" role="button">
+                            <i class="fa fa-cookie-bite fa-fw fa-icon-black" aria-hidden="true"></i>
+                            <span class="cookieconsentlabel">Your cookies</span>
+                        </a>
+                    </li>
+                
+                
+                    
+                
+            </ul>
+        
+    </nav>
+    <!-- /navbar -->
+
+    
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col"> 
+    
+        <div id="opacheader">
+            
+                <div class="default_item">
+                    
+                    <div class="default_body"><div class="custom-opac-banner"><a href="https://librarycatalogue.taylors.edu.my"> <img src="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-retrieve-file.pl?id=d1346a0446f020bcb7c0e627eb1907f7" alt="Taylor's Library Banner" /> </a></div>
+<!-- Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-88TKWJLMQ7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-88TKWJLMQ7');
+</script>
+<!-- Koha OPAC customisation -->
+<script>
+  function waitForJQuery(callback) {
+    if (typeof jQuery !== 'undefined') {
+      callback(jQuery);
+    } else {
+      setTimeout(function() { waitForJQuery(callback); }, 50);
+    }
+  }
+
+  waitForJQuery(function($) {
+    $(document).ready(function() {
+      $("#members .userlabel").text("My Library Account");
+      $("#members a.login-link")
+        .attr("title", "My Library Account")
+        .attr("aria-label", "My Library Account");
+    });
+  });
+</script></div>
+                </div>
+            
+        </div>
+    
+ </div>
+            </div>
+        </div>
+    
+</header>
+<!-- / header-region -->
+
+
+    <div class="container-fluid">
+        
+            <div class="row">
+                <div class="col">
+                    <div id="opac-main-search" class="mastheadsearch">
+                        
+                            <form name="searchform" method="get" action="/cgi-bin/koha/opac-search.pl" id="searchform">
+                                <div class="row gx-2">
+                                    <div class="col-sm-auto order-2 order-sm-2">
+                                        <label for="masthead_search" class="visually-hidden">Search the catalog by:</label>
+                                        <select name="idx" id="masthead_search" class="form-select">
+                                            
+                                                <option value="" data-placeholder="Search the catalog">Library catalog</option>
+                                            
+                                            
+                                                <option value="ti" data-placeholder="Search the catalog by title">Title</option>
+                                            
+                                            
+                                                <option value="au" data-placeholder="Search the catalog by author">Author</option>
+                                            
+                                            
+                                                <option value="su" data-placeholder="Search the catalog by subject">Subject</option>
+                                            
+                                            
+                                                <option value="nb" data-placeholder="Search the catalog by ISBN">ISBN</option>
+                                            
+                                            
+                                                <option value="ns" data-placeholder="Search the catalog by ISSN">ISSN</option>
+                                            
+                                            
+                                                <option value="se" data-placeholder="Search the catalog by series">Series</option>
+                                            
+                                            
+                                                
+                                                    <option value="callnum" data-placeholder="Search the catalog by call number">Call number</option>
+                                                
+                                            
+                                        </select>
+                                    </div>
+                                    <!-- /.col-sm-auto -->
+
+                                    <div class="col order-4 order-sm-3">
+                                        
+                                            <label for="translControl1" class="visually-hidden">Search the catalog</label>
+                                            <input type="text" class="transl1 form-control" id="translControl1" name="q" value="" placeholder="Search the catalog" /><span id="translControl"></span>
+                                        
+                                    </div>
+                                    <!-- /.col -->
+
+                                    
+                                        
+                                            
+                                        
+                                    
+
+                                    <div class="order-5 col-sm-auto">
+                                        <button type="submit" id="searchsubmit" class="btn btn-primary" title="Search" aria-label="Search">
+                                            <i class="fa fa-search" aria-hidden="true"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <!-- /.form-row -->
+                                <input type="hidden" name="weight_search" value="1" />
+                            </form>
+                         </div
+                    ><!-- /#opac-main-search -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        
+
+        <div class="row">
+            <ul class="nav" id="moresearches">
+                <li class="nav-item">
+                    <a href="/cgi-bin/koha/opac-search.pl">Advanced search</a>
+                </li>
+                
+                    <li class="nav-item">
+                        <a href="/cgi-bin/koha/opac-course-reserves.pl">Course reserves</a>
+                    </li>
+                
+                
+                
+                    <li class="nav-item">
+                        <a href="/cgi-bin/koha/opac-authorities-home.pl">Authority search</a>
+                    </li>
+                
+                    <li class="nav-item">
+                        <a href="https://taylors.my.libguides.com/c.php?g=982175&p=7156015&preview=c67b11000c5397ec548395ca20056386" target="_blank">SDG Keywords</a>
+                    </li>
+                
+                
+                
+                
+                
+                
+                
+                
+    
+
+            </ul>
+            <!-- /.nav#moresearches -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+
+
+
+    <!-- Login form hidden by default, used for modal window -->
+    <div id="loginModal" class="modal" tabindex="-1" role="dialog" aria-labelledby="modalLoginLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title" id="modalLoginLabel">Log in to your account</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form action="/cgi-bin/koha/opac-user.pl" method="post" name="auth" id="modalAuth">
+                    <input type="hidden" name="csrf_token" value="f2164bb29ff0463432e1006f3774380ce00001bc,c0e882058bdf68c631c689c6340dbcf5f7aa1b8f,1792250880" />
+
+                    <input type="hidden" name="has-search-query" id="has-search-query" value="" />
+                    <div class="modal-body">
+                        
+                        
+                        
+                            
+                            
+                                
+                                    <p class="clearfix">
+                                        <a href="/api/v1/public/oauth/login/taylorsEntraID/opac" class="btn btn-light col-md-12" id="provider_taylorsEntraID">
+                                            
+                                                <img src="https://irepo.taylors.edu.my/assets/images/microsoft-symbol.svg" />
+                                            
+                                            <!--Log in with--> Taylor's Microsoft Account
+                                        </a>
+                                    </p>
+                                
+                                <hr />
+<!--                                <p>If you do not have an external account, but do have a local account, you can still log in: </p>
+                            
+                            <input type="hidden" name="koha_login_context" value="opac" />
+                            <fieldset class="brief">
+                                <div class="local-login">
+                                    
+    <label for="muserid">Card number or username:</label>
+<input type="text" id="muserid" name="login_userid" autocomplete="off" /> <label for="mpassword">Password:</label
+                                    ><input type="password" id="mpassword" name="login_password" autocomplete="off" />
+                                    <fieldset class="action">
+                                        <input type="hidden" name="op" value="cud-login" />
+                                        <input type="submit" class="btn btn-primary" value="Log in" />
+                                    </fieldset>
+                                </div>
+-->
+                                
+                                
+                                
+                            </fieldset>
+                        
+                    </div>
+                </form>
+                <!-- /#auth -->
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /#modalAuth  -->
+
+
+
+
+
+<main class="main">
+    
+    <nav id="breadcrumbs" aria-label="Breadcrumb" class="breadcrumbs">
+        <ol class="breadcrumb">
+            
+            
+                
+    
+        <li class="breadcrumb-item active">
+            <a aria-current="page" aria-disabled="true" tabindex="-1"> 
+                    <span>Home</span>
+                 </a>
+        </li>
+    
+
+            
+        </ol>
+    </nav>
+
+
+    
+    
+    <div id="notloggedin" class="container-fluid">
+        <div class="row">
+            
+                <div class="col-12 col-lg-2 order-3 order-lg-1">
+                    <div id="navigation"> 
+
+
+
+
+
+
+    
+    
+        <div id="OpacNavBottom">
+            
+                <div class="default_item">
+                    
+                    <div class="default_body"><div class="box rounded">
+<h3 style="font-size: 14px;">INFO HUB</h3>
+<div class="scrollright">
+<b><p style="font-size: 12px;">TAYLOR&rsquo;S LIBRARY OPERATION HOURS</p></b>
+<br><p style="font-size: 12px; text-align: justify;">Please refer to the latest announcement via <a href="https://taylorslibrary-taylors-edu-my.ezproxy.taylors.edu.my" target="_blank" rel="noopener">Library Website</a> and Library social media (<a href="https://www.facebook.com/TaylorsLibrary" target="_blank" rel="noopener">Facebook</a> & <a href="https://instagram.com/taylorslibrary?igshid=1aypxn8w1yquq" target="_blank" rel="noopener">Instagram</a>).</p>
+</div>
+</div></div>
+                </div>
+            
+        </div>
+    
+
+
+ </div>
+                </div>
+            
+
+            
+            
+                
+                
+            
+            <div class="col-12 col-lg-7 order-md-1 maincontent">
+                <h1 class="sr-only">Koha home</h1>
+
+                
+
+                
+                    
+                
+                
+                    <!-- koha news -->
+                    
+                
+
+                
+                    
+
+                    
+                        
+    
+        <div id="OpacMainUserBlock">
+            
+                <div class="default_item">
+                    
+                    <div class="default_body"><div class="main-banner"><img src="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-retrieve-file.pl?id=52b3fa5022c03c3e6235cdf0f68b2da1" alt="Library Banner" width="1200" height="600" /></div>
+<style>
+.main-banner {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.main-banner img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+}
+</style></div>
+                </div>
+            
+        </div>
+    
+
+                    
+                
+            </div>
+            <!-- / .col 6/8 -->
+
+            
+                <div class="col-12 col-lg-3 order-md-2">
+                    
+                        
+                            
+                                <div id="login">
+                                    <form action="/cgi-bin/koha/opac-user.pl" method="post" name="auth" id="auth" autocomplete="off">
+                                        <input type="hidden" name="csrf_token" value="f2164bb29ff0463432e1006f3774380ce00001bc,c0e882058bdf68c631c689c6340dbcf5f7aa1b8f,1792250880" />
+
+                                        <input type="hidden" name="koha_login_context" value="opac" />
+                                        <h2 class="sr-only">Login form</h2>
+                                        <fieldset class="brief">
+                                            <legend>Log in to your account:</legend>
+                                            
+                                            
+                                            
+                                                
+                                                    <p class="clearfix">
+                                                        <a href="/api/v1/public/oauth/login/taylorsEntraID/opac" class="btn btn-light col-md-12" id="provider_taylorsEntraID">
+                                                            
+                                                                <img src="https://irepo.taylors.edu.my/assets/images/microsoft-symbol.svg" style="max-height: 20px; max-width: 20px;" />
+                                                            
+                                                           <!--Log in with--> Taylor's Microsoft Account
+                                                        </a>
+                                                    </p>
+                                                
+                                                <hr />
+                              <!--                  <p>If you do not have an external account, but do have a local account, you can still log in: </p> -->
+                                            
+                              <!--               <div class="local-login">
+                                                
+    <label for="userid">Card number or username:</label>
+
+                                                <input class="form-control" type="text" id="userid" name="login_userid" autocomplete="off" />
+                                                <label for="password">Password:</label>
+                                                <input class="form-control" type="password" id="password" name="login_password" autocomplete="off" />
+                                                <fieldset class="action">
+                                                    <input type="hidden" name="op" value="cud-login" />
+                                                    <input type="submit" value="Log in" class="btn btn-primary" />
+                                                </fieldset>
+                                            </div> -->
+                                            
+                                            
+                                            
+                                        </fieldset>
+                                    </form>
+                                </div>
+                                <!-- /#login -->
+                            
+                        
+                    
+                    
+    
+        <div id="OpacNavRight">
+            
+                <div class="default_item">
+                    
+                    <div class="default_body"><div class="box rounded">
+<h3 style="font-size: 14px;">Feel free to reach out !</h3>
+
+<div class="scrollright">
+
+<b><p style="font-size: 12px;">General Enquiries</p></b>
+
+<p style="font-size: 12px; text-align: justify;">
+Please reach us through 
+<a href="https://t.me/joinchat/AksCah0-Ve5MVOMG7y3jgg" target="_blank" rel="noopener">Telegram</a> 
+or email 
+<a href="mailto:libraryenquiry@taylors.edu.com.my">
+libraryenquiry@taylors.edu.com.my
+</a>
+</p>
+
+<br>  
+
+<b><p style="font-size: 12px;">Reference Enquires</p></b>
+
+<p style="font-size: 12px; text-align: justify;">
+Please contact your 
+<a href="https://taylorslibrary.taylors.edu.my/contact-us#liaison_librarians_contact" target="_blank" rel="noopener">
+Liaison Librarian
+</a>
+</p>
+
+</div>
+</div></div>
+                </div>
+            
+        </div>
+    
+
+                </div>
+                <!-- / .col -->
+            
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</main>
+<!-- /.main -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col"> 
+    
+        <div id="opaccredits">
+            
+                <div class="default_item">
+                    
+                    <div class="default_body"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<footer class="custom-footer">
+
+  <div class="footer-container">
+
+    <!-- Column 1 -->
+    <div class="footer-column">
+      <h4>About</h4>
+      <ul>
+        <li><a href="https://taylorslibrary.taylors.edu.my/node/501">Opening Hours</a></li>
+        <li><a href="https://taylorslibrary.taylors.edu.my/contact-us">Contact Us</a></li>
+        <li><a href="https://taylorslibrary.taylors.edu.my/contact-us#liaison_librarians_contact">Liaison Librarian Contact</a></li>
+      </ul>
+    </div>
+
+    <!-- Column 2 -->
+    <div class="footer-column">
+      <h4>Rules & Terms</h4>
+      <ul>
+        <li><a href="https://taylorslibrary.taylors.edu.my/about/rules_01">Rules & Regulations</a></li>
+        <li><a href="https://taylorslibrary.taylors.edu.my/privacy_policy">Privacy Policy</a></li>
+        <li><a href="https://taylorslibrary.taylors.edu.my/terms_conditions">Terms & Conditions</a></li>
+      </ul>
+    </div>
+
+    <!-- Column 3 -->
+    <div class="footer-column footer-column-social">
+
+      <div class="social-member-wrap">
+
+        <!-- LEFT SIDE -->
+        <div class="social-side">
+          <h4>Follow Us!</h4>
+
+          <div class="social-icons">
+            <a href="https://www.facebook.com/TaylorsLibrary/" target="_blank" rel="noopener">
+              <img src="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-retrieve-file.pl?id=53f5f347f778bb137ac99ff5aa7340cd" width="45" height="35" />
+            </a>
+
+            <a href="https://instagram.com/taylorslibrary?igshid=1aypxn8w1yquq" target="_blank" rel="noopener">
+              <img src="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-retrieve-file.pl?id=13711f8970127465fac6fb3396b95fdc" width="35" height="35" />
+            </a>
+
+            <a href="https://taylorslibrary.taylors.edu.my/" target="_blank" rel="noopener">
+              <img src="https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-retrieve-file.pl?id=8faea31b49f2517b0872d7d55efdcdb8" width="35" height="35" />
+            </a>
+          </div>
+        </div>
+
+        <!-- RIGHT SIDE -->
+        <div class="member-block">
+		<div class="member-title">A Member Of</div>
+          <div class="member-logo">
+            <img src="https://taylorslibrary.taylors.edu.my/sites/default/files/inline-images/2026%20IFLA.png" />
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- Footer Bottom (MUST stay outside container columns) -->
+  <div class="footer-bottom">
+    <p>Copyright &copy; 2026 Taylor's University Sdn Bhd Co. Reg. No. 198601000495 (149634-D) DU023(B), Taylor's Malaysia Sdn Bhd / Co. Reg. No. 200501009589 (689646-T). All rights reserved.</p>
+  </div>
+
+</footer></div>
+                </div>
+            
+        </div>
+    
+ </div>
+            </div>
+        </div>
+    
+    <!-- prettier-ignore-start -->
+    </div> <!-- / #wrapper in masthead.inc -->
+    <!-- prettier-ignore-end -->
+
+    
+
+
+
+
+<!-- CookieConsentedJS code that may run -->
+
+
+<!-- JavaScript includes -->
+<script src="/opac-tmpl/lib/jquery/jquery-3.6.0.min_25.1102000.js"></script>
+<script src="/opac-tmpl/lib/jquery/jquery-migrate-3.3.2.min_25.1102000.js"></script>
+<script src="/opac-tmpl/lib/bootstrap/js/bootstrap.bundle.min_25.1102000.js"></script>
+<script src="/opac-tmpl/lib/fontfaceobserver/fontfaceobserver.min_25.1102000.js"></script>
+<script src="/opac-tmpl/lib/enquire/enquire.min_25.1102000.js"></script>
+<script>
+    let logged_in_user_id = "";
+</script>
+<script src="/opac-tmpl/bootstrap/js/global_25.1102000.js"></script>
+<script src="/opac-tmpl/bootstrap/js/form-submit_25.1102000.js" type="module"></script>
+
+<script>
+    
+
+    
+    $(".print-large").on("click",function(){
+        window.print();
+        return false;
+    });
+    $(".addtoshelf").on("click",function(e){
+        e.preventDefault();
+        Dopop( this.href );
+    });
+    $("body").on("click", ".addtocart", function(e){
+        e.preventDefault();
+        var biblionumber = $(this).data("biblionumber");
+        addRecord( biblionumber );
+    });
+    $("body").on("click", ".cartRemove", function(e){
+        e.preventDefault();
+        var biblionumber = $(this).data("biblionumber");
+        delSingleRecord( biblionumber );
+    });
+</script>
+
+    <script src="/opac-tmpl/bootstrap/js/basket_25.1102000.js"></script>
+
+
+
+
+    <script src="/opac-tmpl/bootstrap/js/google-jackets_25.1102000.js"></script>
+
+
+
+
+
+
+
+
+
+<script src="/opac-tmpl/lib/js-cookie/js.cookie-3.0.1.min_25.1102000.js"></script>
+<script src="/opac-tmpl/bootstrap/js/show-password-toggle_25.1102000.js"></script>
+<script>
+    $(document).ready(function () {
+        if ($("#searchsubmit").length) {
+            $(document).on("click", "#searchsubmit", function (e) {
+                Cookies.remove("form_serialized", { path: "/" });
+                Cookies.remove("form_serialized_limits", { path: "/" });
+                Cookies.remove("search_path_code", { path: "/" });
+            });
+        }
+    });
+</script>
+
+
+
+
+<script src="/opac-tmpl/lib/dayjs/dayjs.min_25.1102000.js"></script>
+<script src="/opac-tmpl/lib/dayjs/plugin/timezone_25.1102000.js"></script>
+<script src="/opac-tmpl/lib/dayjs/plugin/utc_25.1102000.js"></script>
+<script>
+    dayjs.extend(window.dayjs_plugin_utc);
+    dayjs.extend(window.dayjs_plugin_timezone);
+</script>
+<!-- js-date-format.inc -->
+<script>
+    (function() {
+        var def_date_format = 'metric';
+        var def_time_format = '12hr';
+        var def_tz = 'Asia/Singapore';
+
+        var get_date_pattern = function(format) {
+            var date_pattern = 'YYYY-MM-DD';
+            if(format == 'us') date_pattern = 'MM/DD/YYYY';
+            if(format == 'metric') date_pattern = 'DD/MM/YYYY';
+            if(format == 'dmydot') date_pattern = 'DD.MM.YYYY';
+            return date_pattern;
+        };
+
+        var get_time_pattern = function(format) {
+            var time_pattern = 'HH:mm';
+            if(format == '12hr') time_pattern = 'hh:mm a';
+            return time_pattern;
+        };
+
+        /*
+         * A JS equivalent of the KohaDates TT Plugin. Passed an rfc3339 formatted date string,
+         * or JS Date, the function will return a date string formatted as per the koha instance config.
+         * Optionally accepts a dateformat parameter to allow override of the configured output format
+         * as well as a 'withtime' boolean denoting whether to include time or not in the output string.
+         */
+        window.$date = function(value, options) {
+            if(!value) return '';
+            var tz = (options&&options.tz)||def_tz;
+            var m = dayjs(value);
+            if ( ! value.match(/^\d{4}-\d{2}-\d{2}$/ ) ) {
+                m = m.tz(tz);
+            }
+
+            var dateformat = (options&&options.dateformat)||def_date_format;
+            var withtime = (options&&options.withtime)||false;
+
+            if(dateformat=='rfc3339' && withtime) return m.format();
+
+            var timeformat = (options&&options.timeformat)||def_time_format;
+            var date_pattern = get_date_pattern(dateformat);
+            var time_pattern = !withtime?'':' '+get_time_pattern(timeformat);
+
+            return m.format(date_pattern+time_pattern);
+        }
+
+        window.$datetime = function(value, options) {
+            options = options||{};
+            options.withtime = true;
+            return $date(value, options);
+        };
+
+        window.$time = function(value, options) {
+            if(!value) return '';
+            var tz = (options&&options.tz)||def_tz;
+            var m = dayjs(value);
+            if(tz) m = m.tz(tz);
+
+            var dateformat = (options&&options.dateformat);
+            var timeformat = (dateformat=='rfc3339'&&'24hr')||(options&&options.timeformat)||def_time_format;
+
+            return m.format(get_time_pattern(timeformat)+(dateformat=='rfc3339'?':ss'+(!m.isUTC()?'Z':''):''))+(dateformat=='rfc3339' && m.isUTC()?'Z':'');
+        }
+
+    })();
+</script>
+<!-- / js-date-format.inc -->
+
+
+<script>
+    (function () {
+        /**
+         * Format the biblio response from a Koha RESTful API request.
+         * @param  {Object}  biblio  The biblio json object as returned from the Koha RESTful API
+         * @param  {Object}  config  A configuration object
+         *                           Valid keys are: `link`
+         * @return {string}          The formatted HTML string
+         */
+        window.$biblio_to_html = function (biblio, config) {
+            if (biblio === undefined) {
+                return ""; // empty string for no biblio
+            }
+
+            var title = '<span class="biblio-title">';
+            if (biblio.title != null && biblio.title != "") {
+                title += escape_str(biblio.title);
+            } else {
+                title += _("No title");
+            }
+            title += "</span>";
+
+            // add subtitle
+            if (biblio.subtitle != null && biblio.subtitle != "") {
+                title += ' <span class="biblio-subtitle">' + escape_str(biblio.subtitle) + "</span>";
+            }
+
+            // set title as link
+            if (config && config.link) {
+                if (config.link === "marcdetail") {
+                    title = '<a href="/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                } else if (config.link === "labeled_marc") {
+                    title = '<a href="/cgi-bin/koha/opac-labeledMARCdetail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                } else if (config.link === "isbd") {
+                    title = '<a href="/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                } else {
+                    title = '<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                }
+            }
+
+            // add medium
+            if (biblio.medium != null && biblio.medium != "") {
+                title += ' <span class="biblio-medium">' + escape_str(biblio.medium) + "</span>";
+            }
+
+            // add part numbers/names
+            let part_numbers = typeof biblio.part_number === "string" ? biblio.part_number.split("|") : [];
+            let part_names = typeof biblio.part_name === "string" ? biblio.part_name.split("|") : [];
+            let i = 0;
+            while (part_numbers[i] || part_names[i]) {
+                if (part_numbers[i]) {
+                    title += ' <span class="part-number">' + escape_str(part_numbers[i]) + "</span>";
+                }
+                if (part_names[i]) {
+                    title += ' <span class="part-name">' + escape_str(part_names[i]) + "</span>";
+                }
+                i++;
+            }
+
+            return title;
+        };
+    })();
+</script>
+
+
+
+
+    <script>
+        /* Customisation for azure logout button in opac - START */
+$(document).ready(function () {
+
+    var KOHA_LOGOUT = "https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-main.pl?logout.x=1";
+    var KOHA_HOME   = "https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-main.pl";
+    var CLIENT_ID   = "1324e264-7f9f-4347-9814-cb5af3c07f3c";
+
+    function getTenantFromDomain(domain) {
+        return fetch("https://login.microsoftonline.com/" + domain + "/v2.0/.well-known/openid-configuration")
+            .then(function(r) { return r.json(); })
+            .then(function(d) { return { endSessionUrl: d.end_session_endpoint }; })
+            .catch(function()  { return { endSessionUrl: null }; });
+    }
+
+    function getEmailFromAPI(borrowerNum) {
+        return fetch('/api/v1/patrons/' + borrowerNum, { credentials: 'include' })
+            .then(function(r) { return r.json(); })
+            .then(function(d) { return d.email || null; })
+            .catch(function()  { return null; });
+    }
+
+    function doLogout(tenant, email) {
+        var base = (tenant && tenant.endSessionUrl) ? tenant.endSessionUrl
+            : "https://login.microsoftonline.com/organizations/oauth2/v2.0/logout";
+
+        var azureUrl = base + "?client_id=" + encodeURIComponent(CLIENT_ID) + "&post_logout_redirect_uri=" + encodeURIComponent(KOHA_HOME);
+
+        if (email) azureUrl += "&logout_hint=" + encodeURIComponent(email);
+
+        fetch(KOHA_LOGOUT, { method: "GET", credentials: "include", cache: "no-store" })
+            .finally(function() { window.location.href = azureUrl; });
+    }
+
+    // IMPORTANT: must include "a.logout" — that is the actual element class Koha uses
+    $(document).on("click", "a.logout, a[href*='logout.x=1']", function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        var el = document.querySelector('.loggedinusername[data-borrowernumber]');
+        var borrowerNum = el ? el.getAttribute('data-borrowernumber') : null;
+
+        if (borrowerNum) {
+            getEmailFromAPI(borrowerNum).then(function(email) {
+                if (email && email.includes('@')) {
+                    var domain = email.split('@')[1].toLowerCase();
+                    getTenantFromDomain(domain).then(function(t) { doLogout(t, email); });
+                } else {
+                    doLogout(null, null);
+                }
+            });
+        } else {
+            doLogout(null, null);
+        }
+    });
+
+});
+/* Customisation for azure logout button in opac - END */
+
+// Block restricted or debarred patron login – Koha 25.11
+(function () {
+
+var logoutUrl = "https://librarycatalogue.taylors.edu.my/cgi-bin/koha/opac-main.pl?logout.x=1";
+  var msg = "Your account is blocked. Kindly contact us at libraryenquiry@taylors.edu.my for any query.";
+
+  $(document).ready(function () {
+
+  
+    // Detect Koha 25.11 restriction markers
+    var isDebarred = $("li.userdebarred.blocker").length > 0;
+    var isManuallyRestricted = $("li.manual_restriction").length > 0;
+
+    if (isDebarred || isManuallyRestricted) {
+      alert(msg);
+      window.location.replace(logoutUrl);
+    }
+
+  });
+
+})();
+
+/*Add hyperlink for remark */
+$(document).ready(function(){
+    $("td.collection:contains('https://taylorslibrary.taylors.edu.my/services/external_storage1')").html("<li><a href='https://taylorslibrary.taylors.edu.my/services/external_storage1' target='_blank'>Access here to fill up online form</a></li>");
+  });
+
+/* Add Booking link for redirection plugin script */
+/*$("#moresearches li:contains('Advanced search')").after("<li><a href='/booking' target='_blank'>Booking</a></li>");*/
+
+/* Hide pay button if fine accruing shown */
+if ($("#finestable tr.outstanding:contains('Fine (Accruing) (Accruing)')").length || $("#finestable tr.outstanding:contains('Fine (Accruing)')").length) {
+    $("#dataform").hide();
+}
+
+else {
+    $("#dataform").show();
+}
+
+
+
+/*add to hide fines accruing row*/
+
+
+/*{
+  var defaultSearch="eds";
+  $(document).ready(function(){
+    $.ajax({url:"/plugin/Koha/Plugin/EDS/js/EDSScript.js",dataType:"script",cache:true}); 
+  });
+}*/
+
+/*
+$('#inpStaff').bind('input', function(event){
+  var currentVal = $(this).val();
+  $(this).val(currentVal.indexOf('taylorsdom\\') !== 0 ? ('taylorsdom\\' ) : currentVal)
+});
+
+$('#inpStudent').bind('input', function(event){
+  var currentVal = $(this).val();
+  $(this).val(currentVal.indexOf('student\\') !== 0 ? ('student\\' ) : currentVal)
+});
+*/
+
+// Util function
+function addFormatter (input, formatFn) {
+  let oldValue = input.value;
+  
+  const handleInput = event => {
+    const result = formatFn(input.value, oldValue, event);
+    if (typeof result === 'string') {
+      input.value = result;
+    }
+    
+    oldValue = input.value;
+  }
+
+  handleInput();
+  input.addEventListener("input", handleInput);
+}
+
+// Example implementation
+// HOF returning regex prefix formatter
+function regexPrefix (regex, prefix) {
+  return (newValue, oldValue) => regex.test(newValue) ? newValue : (newValue ? oldValue : prefix);
+}
+
+/* Safe Input Formatter - Only runs if elements exist */
+const inputstd = document.getElementById('inpStudent');
+if (inputstd) { addFormatter(inputstd, regexPrefix(/^student\\/, 'student\\')); }
+
+const inputstf = document.getElementById('inpStaff');
+if (inputstf) { addFormatter(inputstf, regexPrefix(/^taylorsdom\\/, 'taylorsdom\\')); }
+
+
+/*$(document).ready(function(){
+  $("#MARCview").parent().hide();
+});*/
+
+$(document).ready(function(){
+/*  $("#MARCview").parent().hide();*/
+
+  // Corrected the line below:
+  var chronTerm = document.getElementById("CHRON_TERM");
+  if (chronTerm) chronTerm.style.display = "none";
+});
+
+/* Your E-book & E-journal Script - With Green Labeling */
+(function($) {
+    var checkCount = 0;
+    var maxChecks = 10; 
+
+    function fixEbookLabels() {
+        // Target labels within unavailable e-books or e-journals
+        var $targets = $(".unavailable:has(.unavailable_e-book, .unavailable_e-journal) .AvailabilityLabel strong");
+        
+        $targets.each(function() {
+            var $el = $(this);
+            // Check if it still says "not available" (to avoid double-processing)
+            if ($el.text().toLowerCase().indexOf("not available") !== -1) {
+                $el.text("Online access: ");
+                // Apply green color directly to the element
+                $el.css("color", "green"); 
+            }
+        });
+    }
+
+    $(document).ready(function() {
+        fixEbookLabels();
+        var labelInterval = setInterval(function() {
+            fixEbookLabels();
+            checkCount++;
+            if (checkCount >= maxChecks) { clearInterval(labelInterval); }
+        }, 500);
+
+        $(document).ajaxComplete(function() {
+            fixEbookLabels();
+        });
+    });
+})(jQuery);
+
+$(document).ready(function() {
+  if ($('#holdings').length && $('#holdings tbody tr').length === 0) {
+    $('#holdings').before(
+      '<div style="background:#fff;border:0.5px solid #c0272d;border-left:4px solid #c0272d;border-radius:6px;padding:1rem 1.25rem;margin:1rem 0;display:flex;align-items:flex-start;gap:12px">' +
+        '<span style="color:#c0272d;font-size:22px;line-height:1">&#9888;</span>' +
+        '<div>' +
+          '<p style="margin:0 0 6px;font-weight:500;color:#111;font-size:15px">Item Currently Unavailable</p>' +
+          '<p style="margin:0 0 10px;color:#444;font-size:14px;line-height:1.6">All copies of this item are currently unavailable (missing, lost, or withdrawn). Please contact Taylor\'s Library for further assistance.</p>' +
+          '<p style="margin:0;font-size:13px;color:#444">' +
+            '&#9993; <a href="mailto:libraryenquiry@taylors.edu.my" style="color:#c0272d">libraryenquiry@taylors.edu.my</a>' +
+            '&nbsp;&nbsp;|&nbsp;&nbsp;' +
+            '&#128172; <a href="https://t.me/joinchat/AksCah0-Ve5MVOMG7y3jgg" style="color:#c0272d">Telegram Support</a>' +
+          '</p>' +
+        '</div>' +
+      '</div>'
+    );
+  }
+});
+
+
+
+
+
+//aiman charge word change
+$(document).ready(function () {
+
+    // Left menu
+    $('#menu a[href*="opac-account.pl"]').text('Fines');
+
+    // Page title
+    $('h1').each(function () {
+        if ($(this).text().trim() === 'Your charges') {
+            $(this).text('Your fines');
+        }
+    });
+
+    // Browser title
+    document.title = document.title.replace('Your charges', 'Your fines');
+
+});
+
+$('.suggestion:has(a[href*="opac-illrequests.pl"])').html(
+  ''
+);
+    </script>
+
+
+
+
+
+
+
+<!--  Bot verification -->
+
+<script>
+  // Declare getCookie only once, at the top!
+  function getCookie(name) {
+    const value = "; " + document.cookie;
+    const parts = value.split("; " + name + "=");
+    if (parts.length === 2) return parts.pop().split(";").shift();
+  }
+</script>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const verified = sessionStorage.getItem("search_verified") || getCookie("search_verified");
+    console.log("OPAC loaded. Verified status:", verified);
+
+    if (!verified) {
+      const form = document.querySelector("form[action='/cgi-bin/koha/opac-search.pl']");
+      if (form) {
+        console.log("Intercepting form on homepage...");
+
+        form.addEventListener("submit", function (e) {
+          e.preventDefault();
+          console.log("Intercepting homepage search submission...");
+
+          const formData = new FormData(form);
+          const data = {};
+          for (const [key, value] of formData.entries()) {
+            data[key] = value;
+          }
+
+          sessionStorage.setItem("pending_search", JSON.stringify(data));
+          window.location.href = "/verify/index.html";
+        });
+      } else {
+        console.warn("Search form not found.");
+      }
+    }
+  });
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    console.log("Running direct-access check script...");
+
+    const verified = sessionStorage.getItem("search_verified") || getCookie("search_verified");
+    const pathname = window.location.pathname;
+    const search = window.location.search;
+
+    console.log("Verified sessionStorage:", verified);
+    console.log("Current pathname:", pathname);
+    console.log("Current query string:", search);
+
+    const isSearchPage = pathname.includes("/cgi-bin/koha/opac-search.pl");
+    const hasQuery = search.length > 0;
+
+    console.log("isSearchPage:", isSearchPage);
+    console.log("hasQuery:", hasQuery);
+
+    if (isSearchPage && hasQuery && !verified) {
+      const fullUrl = pathname + search;
+      console.log("Not verified. Redirecting to /verify/index.html...");
+      sessionStorage.setItem("pending_direct_url", fullUrl);
+      window.location.href = "/verify/index.html";
+    } else {
+      console.log("âœ… Already verified or no query. No redirect needed.");
+    }
+  });
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const verified = sessionStorage.getItem("search_verified") || getCookie("search_verified");
+    const pathname = window.location.pathname;
+    const search = window.location.search;
+
+    console.log("Verified:", verified);
+    console.log("Path:", pathname);
+    console.log("Query:", search);
+
+    // List of protected OPAC pages
+    const protectedPages = [
+      "/cgi-bin/koha/opac-search.pl",
+      "/cgi-bin/koha/opac-detail.pl",
+      "/cgi-bin/koha/opac-MARCdetail.pl",
+      "/cgi-bin/koha/opac-ISBDdetail.pl",
+      "/cgi-bin/koha/opac-export.pl",
+      "/cgi-bin/koha/opac-showmarc.pl"
+    ];
+
+    const isProtectedPage = protectedPages.includes(pathname);
+    const hasQuery = search.length > 0;
+
+    if (isProtectedPage && hasQuery && !verified) {
+      const fullUrl = pathname + search;
+      console.log("Not verified. Redirecting to /verify/index.html...");
+      sessionStorage.setItem("pending_direct_url", fullUrl);
+      window.location.href = "/verify/index.html";
+    } else {
+      console.log("Already verified or page not protected. No redirect.");
+    }
+  });
+</script>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Already verified? Do nothing.
+  if (sessionStorage.getItem("search_verified") === "yes") return;
+
+  // Catch any search form that points to opac-search.pl
+  var forms = Array.prototype.slice.call(
+    document.querySelectorAll("form[action*='/cgi-bin/koha/opac-search.pl']")
+  );
+
+  // Fallback: known Koha ID if present
+  var idForm = document.getElementById("searchform");
+  if (idForm && forms.indexOf(idForm) === -1) forms.push(idForm);
+
+  forms.forEach(function(form){
+    form.addEventListener("submit", function (e) {
+      try {
+        // Capture fields (works for GET or POST)
+        var formData = new FormData(form);
+        var data = {};
+        formData.forEach(function(value, key){ data[key] = value; });
+        sessionStorage.setItem("pending_search", JSON.stringify(data));
+      } catch (err) {
+        console.warn("Could not capture form data:", err);
+      }
+      // Always route through verify
+      e.preventDefault();
+      window.location.href = "/verify/index.html";
+    }, { capture: true });
+  });
+});
+</script>
+
+
+</body>
+<!-- prettier-ignore-start -->
+</html>
+<!-- prettier-ignore-end -->
+
+

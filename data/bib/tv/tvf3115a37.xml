@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01297nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000069323</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204332</marc:controlfield>
+    <marc:controlfield tag="008">130401t2007    my a   f      000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789832948223</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000069323</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201904301045</marc:subfield>
+      <marc:subfield code="b">AUTHORITY</marc:subfield>
+      <marc:subfield code="c">201904301044</marc:subfield>
+      <marc:subfield code="d">AUTHORITY</marc:subfield>
+      <marc:subfield code="c">201703091639</marc:subfield>
+      <marc:subfield code="d">nazri</marc:subfield>
+      <marc:subfield code="y">201304011529</marc:subfield>
+      <marc:subfield code="z">jamie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TA5 .I58 2007 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="111" ind1="2" ind2=" ">
+      <marc:subfield code="a">International Conference on Engineering &amp; ICT</marc:subfield>
+      <marc:subfield code="d">(2007 :</marc:subfield>
+      <marc:subfield code="c">Melaka)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Engineering &amp; ICT meeting the challenges of advanced manufacturing :</marc:subfield>
+      <marc:subfield code="b">proceedings International Conference on Engineering &amp; ICT (ECEI 2007), 27-28 November 2007, Hotel Equatorial Melaka, Malaysia /</marc:subfield>
+      <marc:subfield code="c">[organized by, Universiti Teknikal Malaysia Melaka ; supported by, Melaka State Government, Ministry of Higher Education] ; compiled Marizan Sulaiman ... [et al.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ayer Keroh, Melaka :</marc:subfield>
+      <marc:subfield code="b">Penerbit UTM,</marc:subfield>
+      <marc:subfield code="c">c2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">2 v. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Production engineering</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Technology</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Information technology</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Marizan Sulaiman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Universiti Teknikal Malaysia Melaka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Kerajaan Negeri Melaka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TA5 .I58 2007 f</marc:subfield>
+      <marc:subfield code="p">71201</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+      <marc:subfield code="z">v.1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TA5 .I58 2007 f</marc:subfield>
+      <marc:subfield code="p">71200</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+      <marc:subfield code="z">v.2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">225</marc:subfield>
+      <marc:subfield code="d">231</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1110*2450*2600*3000*6500*6501*6502*7000*7100*7101*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

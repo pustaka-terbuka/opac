@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00561ngm a2200181   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002885260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260612144751</marc:controlfield>
+    <marc:controlfield tag="008">040331                       00    ind</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002885260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">200611061154</marc:subfield>
+      <marc:subfield code="b">suankui</marc:subfield>
+      <marc:subfield code="c">200602091809</marc:subfield>
+      <marc:subfield code="d">suankui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">915.98</marc:subfield>
+      <marc:subfield code="b">PEM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Pemda serang</marc:subfield>
+      <marc:subfield code="h">[electronic resource]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Jakarta, Indonesia :</marc:subfield>
+      <marc:subfield code="b">Trisakti Tour,</marc:subfield>
+      <marc:subfield code="c">[n.d.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 computer laser optical disk ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Indonesia</marc:subfield>
+      <marc:subfield code="x">Description and travel</marc:subfield>
+      <marc:subfield code="v">Software.</marc:subfield>
+      <marc:subfield code="9">213651</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : CD016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30261</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

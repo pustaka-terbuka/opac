@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01282nam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003020476</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306155453</marc:controlfield>
+    <marc:controlfield tag="008">110218s20021991xxka          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521367883 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003020476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181407</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008201611</marc:subfield>
+      <marc:subfield code="d">muhammad</marc:subfield>
+      <marc:subfield code="f">adzli</marc:subfield>
+      <marc:subfield code="c">200605021440</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="c">200605021433</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="y">200412271330</marc:subfield>
+      <marc:subfield code="z">meena</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">428.34</marc:subfield>
+      <marc:subfield code="b">COL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Collie, Joanne.</marc:subfield>
+      <marc:subfield code="9">4685</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Speaking 1 /</marc:subfield>
+      <marc:subfield code="c">Joanne Collie, Stephen Slater</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge, U.K. :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">1991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">vi, 74 p. :</marc:subfield>
+      <marc:subfield code="b">ill., forms,1 map,1 port. ;</marc:subfield>
+      <marc:subfield code="c">25 cm. +</marc:subfield>
+      <marc:subfield code="e">1 teacher&apos;s book (32 p. ; 25 cm.) +</marc:subfield>
+      <marc:subfield code="e">1 sound cassette</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cambridge skills for fluency / series editor : Adrian Doff</marc:subfield>
+      <marc:subfield code="9">218731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">Speaking 1 : teacher&apos;s book [by] Joanne Collie, Stephen Slater, Liz Driscoll. ISBN 0521478723</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 sound cassette : Units 1-8 (16 min.) Units 9-19 (11 mins). ISBN 0521367883</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Study and teaching</marc:subfield>
+      <marc:subfield code="x">Foreign speakers</marc:subfield>
+      <marc:subfield code="9">461</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Spoken English</marc:subfield>
+      <marc:subfield code="9">2429</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Slater, Stephen,</marc:subfield>
+      <marc:subfield code="d">1947-</marc:subfield>
+      <marc:subfield code="e">(j.a.)</marc:subfield>
+      <marc:subfield code="9">88185</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doff, Adrian</marc:subfield>
+      <marc:subfield code="e">(series ed.)</marc:subfield>
+      <marc:subfield code="9">4913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Speaking 1 : teacher&apos;s book.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAC : LC1209, LC1210, LCSC109</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30299</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01834cam a2200289 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002864360</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085822</marc:controlfield>
+    <marc:controlfield tag="008">110218s1999    enka     b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">754800261</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002864360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906191348</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181455</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201101111904</marc:subfield>
+      <marc:subfield code="d">sumathi</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">641.673</marc:subfield>
+      <marc:subfield code="b">HAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Harbutt, Juliet.</marc:subfield>
+      <marc:subfield code="9">16832</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="2">
+      <marc:subfield code="a">A cook&apos;s guide to Cheese /</marc:subfield>
+      <marc:subfield code="c">Juliet Harbutt ; with recipes by Roz Denny.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Lorenz Books,</marc:subfield>
+      <marc:subfield code="c">c1999.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">256 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Illustrated encyclopedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Originally published as : The world encyclopedia of cheese.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction. - Making cheese : The types of cheese and how they are made. Wine and cheese: the perfect marriage. Creating the perfect cheeseboard. - Cheeses of the world : French cheeses. Italian Cheeses. English cheeses. Irish cheeses. Scottish cheeses. Welsh cheeses. Spanish cheeses. Portuguese cheeses. Swiss cheeses. The cheeses of Holland. German cheeses. Belgian cheeses. Danish cheeses. Norwegian cheeses. Finnish cheeses. Swedish cheeses. Greek cheeses. Turkish cheeses. The cheeses of Cyprus. Eastern European cheeses. The cheeses of India and the Middle East. The cheeses of the USA. Mexican cheeses. Australian cheeses. The cheeses of New Zealand. - The recipes: Soups, savouries and snacks. Salads and vegetable dishes. Main meal cheese dishes. Vegetarian dishes. Pastries, pizzas and pasta. Desserts and bakes. Shopping for cheese / Bibliography. Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cheese.</marc:subfield>
+      <marc:subfield code="9">15341</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cheese</marc:subfield>
+      <marc:subfield code="x">Varieties.</marc:subfield>
+      <marc:subfield code="9">16833</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cooking (Cheese)</marc:subfield>
+      <marc:subfield code="9">46841</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Denny, Roz,</marc:subfield>
+      <marc:subfield code="d">1939-</marc:subfield>
+      <marc:subfield code="9">213355</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 640158</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30013</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01094nam a2200313 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003275809</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154551</marc:controlfield>
+    <marc:controlfield tag="008">180806t1995    enka          001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781870673419</marc:subfield>
+      <marc:subfield code="q">paperback</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1870673417</marc:subfield>
+      <marc:subfield code="q">paperback</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003275809</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201901100953</marc:subfield>
+      <marc:subfield code="b">ummi</marc:subfield>
+      <marc:subfield code="y">201808061233</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="4" ind2=" ">
+      <marc:subfield code="a">712.0913</marc:subfield>
+      <marc:subfield code="b">HIL1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hill, W. F.</marc:subfield>
+      <marc:subfield code="q">(William Frank),</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+      <marc:subfield code="9">213604</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2=" ">
+      <marc:subfield code="a">Landscape handbook for the tropics /</marc:subfield>
+      <marc:subfield code="c">W. F. Hill.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">Woodbridge, Suffolk, UK ;</marc:subfield>
+      <marc:subfield code="a">Wappingers&apos; Falls, NY, USA :</marc:subfield>
+      <marc:subfield code="b">Garden Art Press,</marc:subfield>
+      <marc:subfield code="c">[1995]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="4" ind2=" ">
+      <marc:subfield code="c">©1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">407 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations (some color), plans ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">still image</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Landscape design</marc:subfield>
+      <marc:subfield code="z">Tropics</marc:subfield>
+      <marc:subfield code="v">Handbooks, manuals, etc.</marc:subfield>
+      <marc:subfield code="9">213605</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Landscape architecture</marc:subfield>
+      <marc:subfield code="v">Designs and plans.</marc:subfield>
+      <marc:subfield code="9">30005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Landscape architecture</marc:subfield>
+      <marc:subfield code="9">202195</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SABD : 232951</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30220</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

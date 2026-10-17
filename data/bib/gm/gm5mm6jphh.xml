@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>04506ntm a2200373 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000105476</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204340</marc:controlfield>
+    <marc:controlfield tag="008">190212t20182018my a   f am   000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0001141(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000105476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905141118</marc:subfield>
+      <marc:subfield code="b">nazirah</marc:subfield>
+      <marc:subfield code="y">201902121241</marc:subfield>
+      <marc:subfield code="z">saini</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">FSKKP .I86 2018 r Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mohammed Ismael, Saba,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="3">
+      <marc:subfield code="a">An enhanced color image encryption algorithm using LT-PRNG /</marc:subfield>
+      <marc:subfield code="c">Saba Mohammed Ismael</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="4">
+      <marc:subfield code="c">&amp;#xA9; 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 91 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations (some color) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer disc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="347" ind1=" " ind2=" ">
+      <marc:subfield code="a">text file</marc:subfield>
+      <marc:subfield code="b">PDF</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Faculty of Computer Systems &amp; Software Engineering</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thesis (Master of Computer Science) -- Universiti Malaysia Pahang &amp;#x2013; 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">With the advent of computer and Internet, information is commonly transmitted via the Internet. However, vital information can be hacked or interrupted during an active transmission over the Internet; therefore, the need for information security is paramount. Image encryption is one of the most important methods for protecting image information. With the aid of image encryption algorithms, the plaintext of the image is encrypted into the ciphertext before sending. Only the authorized receiver can decrypt the ciphertext with the secret key(s) to obtain the plaintext. Several chaos-based image encryption algorithms use low-dimension chaos as the encryption tools. Although these algorithms are simple and effective to some extent, most of them are inefficient due to the following reasons: firstly, there is a low security due to the dynamic degradation of chaotic systems in their realization with a digital computer; secondly, some low-dimension chaos-based encryptions have slow performance speeds because of analytical floating-point computations which makes encryption infeasible in real time. Moreover, if chaotic systems with simple constructions are directly used to encrypt an image, the useful information can be extracted from the chaotic orbits. To overcome these drawbacks, hybrid chaotic maps have been proposed. Hybrid chaos has several excellent characteristics and can overcome some drawbacks of low-dimension chaos. In this study, a hybrid chaotic map based on logistic map and tent map is proposed for generating a random sequence for enhancing the encryption performance of image encryption algorithms. The image encryption algorithm depends on the Fridrich encryption model; thus, an enhancement of this structure is proposed. The confusion stage sorts the pixel based on the generated sequence by the proposed PRNG for each color, while the diffusion stage changes in the values of the pixel by using XOR operator between all colors to attain a high rate of correlation, the proposed PRNG is called &amp;#x2018;Logistic Tent Map Pseudorandom Number Generator &amp;#x2018;LT-PRNG&amp;#x2019;. The proposed scheme has been tested statistically using NIST test suit and has been analyzed to prove that it has a big keyspace, and sensitive to initial values. In conclusion, the proposed scheme is efficient in terms of sensitivity to the key, sensitivity to the ciphertext, good confusion, diffusion. There is no possibility of an attacker breaking the cipher, as the scheme showed perfect confusion and diffusion properties, and can withstand known/chosen plaintext attacks. Thus, the scheme is robust and performed efficiently, and may be used in real-time applications. For future studies, the proposed encryption algorithm can be enhanced by combined compression encryption techniques, which would increase the encryption efficiency. Additionally, in future, the work can be extended, by applying the theoretical aspects of cipher design, to Integrated Circuit (IC) chip based implementation, and make an effort to better the performance of chaotic image encryption.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Faculty of Computer System and Software Engineering</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Universities and colleges</marc:subfield>
+      <marc:subfield code="x">Disertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Theses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">FSKKP .I86 2018 r Thesis</marc:subfield>
+      <marc:subfield code="p">126556</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 11531 | FSKKP .I86 2018 r Thesis</marc:subfield>
+      <marc:subfield code="p">126557</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">477</marc:subfield>
+      <marc:subfield code="d">483</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2640*2641*3000*3360*3361*3370*3371*3380*3381*3470*5000*5020*5040*5200*6100*6500*6501*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

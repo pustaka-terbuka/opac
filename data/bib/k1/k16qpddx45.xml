@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01096cam a2200301 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002888160</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154554</marc:controlfield>
+    <marc:controlfield tag="008">110218s1981    fr a          00  0 fre d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">2205022172</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002888160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201406031205</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181614</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">448.24</marc:subfield>
+      <marc:subfield code="b">GOS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Goscinny,</marc:subfield>
+      <marc:subfield code="d">1926-1977.</marc:subfield>
+      <marc:subfield code="9">16719</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Lucky Luke :</marc:subfield>
+      <marc:subfield code="b">la ballade des Dalton /</marc:subfield>
+      <marc:subfield code="c">René Goscinny et Morris présentent ; raconté par Guy Vidal.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="0">
+      <marc:subfield code="a">Ballade des Dalton</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Paris :</marc:subfield>
+      <marc:subfield code="b">Dargaud editeur,</marc:subfield>
+      <marc:subfield code="c">1981</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">61 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lucky Luke</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;D&apos;aprés le film animé par Le Studio Idefix.&amp;quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">French language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers.</marc:subfield>
+      <marc:subfield code="9">13931</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Lucky Luke (Fictitious character)</marc:subfield>
+      <marc:subfield code="9">213690</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cowboys</marc:subfield>
+      <marc:subfield code="v">Comic books, strips, etc.</marc:subfield>
+      <marc:subfield code="9">213691</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Morris,</marc:subfield>
+      <marc:subfield code="d">1923-2001.</marc:subfield>
+      <marc:subfield code="9">213692</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Vidal, Guy.</marc:subfield>
+      <marc:subfield code="9">213693</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Studio Idefix.</marc:subfield>
+      <marc:subfield code="9">213694</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="800" ind1="0" ind2=" ">
+      <marc:subfield code="a">Morris,</marc:subfield>
+      <marc:subfield code="d">1923-2001</marc:subfield>
+      <marc:subfield code="t">Lucky Luke.</marc:subfield>
+      <marc:subfield code="9">213695</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 660071</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30292</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

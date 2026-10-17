@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01355cas a2200349 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003052457</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110819</marc:controlfield>
+    <marc:controlfield tag="008">081124c19929999caumr1p       0   a0eng d</marc:controlfield>
+    <marc:datafield tag="022" ind1="0" ind2=" ">
+      <marc:subfield code="a">1061-2688</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003052457</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">200903171541</marc:subfield>
+      <marc:subfield code="b">prema</marc:subfield>
+      <marc:subfield code="c">200811241820</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200705081227</marc:subfield>
+      <marc:subfield code="d">suankui</marc:subfield>
+      <marc:subfield code="y">200705040817</marc:subfield>
+      <marc:subfield code="z">suankui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">5.43</marc:subfield>
+      <marc:subfield code="b">SYS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="210" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sys admin</marc:subfield>
+      <marc:subfield code="b">(Lawrence Kan.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="222" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sys admin</marc:subfield>
+      <marc:subfield code="b">(Lawrence, Kan.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sys admin :</marc:subfield>
+      <marc:subfield code="b">the journal for UNIX system administrators.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="3">
+      <marc:subfield code="a">Sysadmin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Lawrence, KS :</marc:subfield>
+      <marc:subfield code="b">R &amp;amp; D Publications,</marc:subfield>
+      <marc:subfield code="c">c1992-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">v. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="310" ind1=" " ind2=" ">
+      <marc:subfield code="a">Monthly,</marc:subfield>
+      <marc:subfield code="b">1996-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="321" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bimonthly,</marc:subfield>
+      <marc:subfield code="b">1992-1995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Title from cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on: v.14, no.4 (April 2005).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Back issues : Located at Bound Journals Shelves</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Latest issues : Located at Current Journals Shelves</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Unbound back issues : Located in Work Room</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Unbound issues being processed for binding : Please see library staff for assistance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">THIS RECORD REFERS TO THE JOURNAL COLLECTION AT TCLCS, TAYLOR&apos;S COLLEGE, PETALING JAYA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="630" ind1="0" ind2="0">
+      <marc:subfield code="a">UNIX (Computer file)</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+      <marc:subfield code="9">213459</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Operating systems (Computers)</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+      <marc:subfield code="9">213460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LBJSOCIT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30101</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

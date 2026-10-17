@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00957cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003245430</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154543</marc:controlfield>
+    <marc:controlfield tag="008">121121s2009    nyuaf         001 0deng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780061672194 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003245430</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201303270907</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201303121150</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="c">201303121029</marc:subfield>
+      <marc:subfield code="d">izani</marc:subfield>
+      <marc:subfield code="y">201211210901</marc:subfield>
+      <marc:subfield code="z">wilmina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-cc---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">381.142092</marc:subfield>
+      <marc:subfield code="b">LIU 2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Liu, Shiying.</marc:subfield>
+      <marc:subfield code="9">65979</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Alibaba :</marc:subfield>
+      <marc:subfield code="b">the inside story behind Jack Ma and the creation of the world&apos;s biggest online marketplace /</marc:subfield>
+      <marc:subfield code="c">Liu Shiying and Martha Avery.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st Collins ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York, NY :</marc:subfield>
+      <marc:subfield code="b">Collins Business,</marc:subfield>
+      <marc:subfield code="c">c2009.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 228 p., [8] p. of plates :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Ma, Yun,</marc:subfield>
+      <marc:subfield code="d">1964-</marc:subfield>
+      <marc:subfield code="9">68111</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Alibaba (Firm)</marc:subfield>
+      <marc:subfield code="9">65980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Internet auctions</marc:subfield>
+      <marc:subfield code="z">China.</marc:subfield>
+      <marc:subfield code="9">213424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Avery, Martha,</marc:subfield>
+      <marc:subfield code="d">1951-</marc:subfield>
+      <marc:subfield code="9">65981</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">UWE : 190079</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30067</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

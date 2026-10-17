@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01417cas a22003375a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003127870</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154604</marc:controlfield>
+    <marc:controlfield tag="006">m        d  ||||||</marc:controlfield>
+    <marc:controlfield tag="007">cr anunnnuuuaa</marc:controlfield>
+    <marc:controlfield tag="008">820302c19819999at fxzp   ob  0   a0eng d</marc:controlfield>
+    <marc:datafield tag="022" ind1="0" ind2=" ">
+      <marc:subfield code="a">0726-8602</marc:subfield>
+      <marc:subfield code="y">0706-3563</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="y">1469-2996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(EbpS)ebs515380</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003127870</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201212071132</marc:subfield>
+      <marc:subfield code="b">izani</marc:subfield>
+      <marc:subfield code="c">200812260843</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200812011700</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">P1</marc:subfield>
+      <marc:subfield code="b">.A9</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Australian journal of linguistics</marc:subfield>
+      <marc:subfield code="h">[electronic resource] :</marc:subfield>
+      <marc:subfield code="b">journal of the Australian Linguistic Society.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">St. Lucia, Q. :</marc:subfield>
+      <marc:subfield code="b">The Society,</marc:subfield>
+      <marc:subfield code="c">[1981?-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="310" ind1=" " ind2=" ">
+      <marc:subfield code="a">Two no. a year</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="362" ind1="0" ind2=" ">
+      <marc:subfield code="a">Vol. 1, no. 1 (June 1981)-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Title from cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Academic Journal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="529" ind1=" " ind2=" ">
+      <marc:subfield code="a">TSLHHL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="530" ind1=" " ind2=" ">
+      <marc:subfield code="a">Indexing and abstracting for print publication.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="555" ind1=" " ind2=" ">
+      <marc:subfield code="a">Vols. 1 (1981)-10 (1990). 1 v.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Linguistics</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+      <marc:subfield code="9">213958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Australian languages</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+      <marc:subfield code="9">213959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Australian Linguistic Society.</marc:subfield>
+      <marc:subfield code="9">213960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">Academic Source Complete</marc:subfield>
+      <marc:subfield code="d">Ipswich, MA : EBSCO Publishing, 1999-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="3">Abstracts Available: Apr 1998-</marc:subfield>
+      <marc:subfield code="z">Available on EBSCOhost.</marc:subfield>
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=https://search.ebscohost.com/direct.asp?db=a9h&amp;amp;jid=35P</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30501</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

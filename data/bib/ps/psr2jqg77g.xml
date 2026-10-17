@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01062cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003145089</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154548</marc:controlfield>
+    <marc:controlfield tag="008">110218s2006    enk      b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780230605305 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0230605303 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003145089</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181315</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201003051630</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201002271055</marc:subfield>
+      <marc:subfield code="d">meena</marc:subfield>
+      <marc:subfield code="c">200907271302</marc:subfield>
+      <marc:subfield code="d">chon ling</marc:subfield>
+      <marc:subfield code="y">200907271258</marc:subfield>
+      <marc:subfield code="z">chon ling</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">658.4012</marc:subfield>
+      <marc:subfield code="b">MOU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mourkogiannis, Nikos.</marc:subfield>
+      <marc:subfield code="9">213552</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Purpose :</marc:subfield>
+      <marc:subfield code="b">the starting point of great companies /</marc:subfield>
+      <marc:subfield code="c">Nikos Mourkogiannis ; foreword by Roger Fisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">1st Palgrave Macmillan paperback ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Basingstoke :</marc:subfield>
+      <marc:subfield code="b">Palgrave Macmillan,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 253 p. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="2" ind2=" ">
+      <marc:subfield code="a">Pt. 1. What is purpose? - Pt. II. Great stories of purpose. - Pt. III. How purpose builds greatness.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Strategic planning.</marc:subfield>
+      <marc:subfield code="9">201879</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Success in business.</marc:subfield>
+      <marc:subfield code="9">2620</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Business planning.</marc:subfield>
+      <marc:subfield code="9">201886</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GRL : 134393</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30172</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

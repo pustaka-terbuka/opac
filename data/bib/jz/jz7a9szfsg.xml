@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02529nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000052317</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204336</marc:controlfield>
+    <marc:controlfield tag="008">110328t2010    my a   f m    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0006450(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000052317</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905141136</marc:subfield>
+      <marc:subfield code="b">amirul</marc:subfield>
+      <marc:subfield code="c">201110040904</marc:subfield>
+      <marc:subfield code="d">Fida</marc:subfield>
+      <marc:subfield code="c">201107131626</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">201103280949</marc:subfield>
+      <marc:subfield code="z">ida</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TJ930 .F57 2010 rs Bc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Mohd Firdaus Ahmad Sani</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Effect of soil resistivity in Pekan campus to the corrosion behavior of steel pipe system /</marc:subfield>
+      <marc:subfield code="c">Mohd Firdaus Ahmad Sani</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Effect of soil resistivity in Pekan campus to the corrosion behavior of steel pipe system</marc:subfield>
+      <marc:subfield code="h">[computer file]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi, 83 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 computer disc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Project paper (Bachelor of Mechanical Engineering) -- Universiti Malaysia Pahang - 2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography : p. [82]-83</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">Underground pipe system will place at different place and will pass through the different soil structure. This different soil condition has different soil resistivity that will give the different result of the corrosion rate at same pipeline system. In this experiment, soil resistivities of different type of soils were measured by using Earth Resistance Tester. It is found that the soil resistivity of sand is the lowest at 5.03 k&amp;#x3A9;&amp;#xB7;cm and followed by clay and loam with 94.25 k&amp;#x3A9;&amp;#xB7;cm and 628.32 k&amp;#x3A9;&amp;#xB7;cm respectively. The effect of soil resistivity on corrosion behavior of coated and uncoated specimen were examined by buried the specimen in three different type of soil for 50 days. The surface  morphology were examined by using SEM while corrosion rate was calculated using weight loss. Surface morphology examinations indicate the type of corrosion occurred on the steel pipe was uniform corrosion, erosion corrosion and pitting corrosion. It is found the corrosion rate is highest in sand followed by clay, loam and atmosphere. It is also found that coating has decreased the corrosion rate of the specimen with highest at sand which 6.76 mpy followed by clay, loam and atmosphere with 6.36, 5.88 and 1.52 mpy respectively.In conclusion, with the lower soil resistivity, the corrosivity of the steel pipe will be higher. It is also found that coating specimen proves that it can reduce  the corrosion rate of the pipeline system.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Pipelines</marc:subfield>
+      <marc:subfield code="x">Corrosion</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TJ930 .F57 2010 rs Bc.</marc:subfield>
+      <marc:subfield code="p">53991</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 5011 | TJ930 .F57 2010 rs Bc.</marc:subfield>
+      <marc:subfield code="p">53992</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">350</marc:subfield>
+      <marc:subfield code="d">356</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2460*2600*3000*5020*5040*5200*6500*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

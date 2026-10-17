@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>05758nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000060319</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204330</marc:controlfield>
+    <marc:controlfield tag="008">120525t2011    enka   f      001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780521886567</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000060319</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201703081612</marc:subfield>
+      <marc:subfield code="b">nazri</marc:subfield>
+      <marc:subfield code="c">201209241413</marc:subfield>
+      <marc:subfield code="d">asmadi</marc:subfield>
+      <marc:subfield code="y">201205251129</marc:subfield>
+      <marc:subfield code="z">safura</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">QH671 .A66 2011 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Apoptosis :</marc:subfield>
+      <marc:subfield code="b">physiology and pathology /</marc:subfield>
+      <marc:subfield code="c">edited by John C. Reed, Sanford-Burnham Medical Research Institute, Douglas R. Green, St. Jude Children&amp;#x2019;s Research Hospital</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge, UK :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiii, 421 pages :</marc:subfield>
+      <marc:subfield code="b">ill. (some color) ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Machine generated contents note: Part I. General Principles of Cell Death: 1. Human caspases - apoptosis and inflammation signaling proteases Guy S. Salvesen; 2. Inhibitor of apoptosis proteins Jason B. Garrison, Andreas Krieg, Kate Welsh, Yunfei Wen, and John C. Reed; 3. Death domain-containing receptors: decisions between suicide and fire Henning Walczak and Chahrazade Kantari; 4. Mitochondria and cell death Gavin P. McStay and Douglas R. Green; 5. BCL-2 family proteins and the control of mitochondrial apoptosis Anthony Letai; 6. Endoplasmic reticulum stress response in cell death and cell survival Michael Boyce, Marta M. Lipinski, Be;ne;dicte F. Py and Junying Yuan; 7. Autophagy: the liaison between the lysosomal system and cell death Hiroshi Koga and Ana Maria Cuervo; 8. Cell death in response to genotoxic stress and DNA damage Pablo Lopez-Bergami and Ze&amp;#x2019;ev Ronai; 9. Ceramide and lipid mediators in apoptosis Thomas D. Mullen, Russell W. Jenkins, Lina M. Obeid, and Yusuf A. Hannun; 10. Cytotoxic granules house potent pro-apoptotic toxins critical for anti-viral responses and immune homeostasis Katherine Baran, Ilia Voskoboinik, Nigel J. Waterhouse, Vivien R. Sutton and Joseph A. Trapani; Part II. Cell Death in Tissues and Organs: 11. Cell death in nervous system development and neurological disease Juying Li and Junying Yuan; 12. Role of programmed cell death in neurodegenerative diseases Dale E. Bredesen; 13. Implications of nitrosative stress-induced protein misfolding in neurodegeneration Tomohiro Nakamura and Stuart A. Lipton; 14. Mitochondrial mechanisms of neural cell death in cerebral ischemia Lucian Soane, Brian M. Polster, and Gary Fiskum; 15. Cell death In spinal cord injury: an evolving taxonomy with therapeutic promise Rajiv R. Ratan and Moses V. Chao; 16. Apoptosis and homeostasis in the eye Jerry Y. Niederkorn; 17. Cell death in the inner ear Lisa L. Cunningham and Justin Tan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">18. Cell death in the olfactory system Pawel Kermer; 19. Apoptosis regulation of the endocrine pancreas and pathophysiology of diabetes Nika N. Danial; 20. Apoptosis in the physiology and diseases of the respiratory tract Christian Taube and Martin Schuler; 21. Regulation of cell death in the gastrointestinal track Maria Eugenia Guicciardi and Gregory J. Gores; 22. Apoptosis in the kidney Juan Antonio Moreno, Adrian Mario Ramos, and Alberto Ortiz; 23. Physiological and pathological cell death in the mammary gland Armelle Melet and and Roya Khosravi-Far; 24. Apoptosis in the female reproductive biology - implications for therapy Kaisa Selesniemi and Jonathan L. Tilly; 25. Apoptotic signaling in male germ cells Amiya P. Sinha Hikim, Yue Jia, Yan-He Lue, Christina Wang, and Ronald S. Swerdloff; 26. Cell death in the cardiovascular system Vladimir Kaplinskiy, Martin R. Bennett, and Richard N. Kitsis; 27. Cell death regulation in muscle Ayesha Saleem, Lawrence Kazak, Michael O&amp;#x2019;Leary, and David A. Hood; 28. Cell death in the skin Saskia Lippens, Esther Hoste, Peter Vandenabeele, and Wim Declercq; 29. Apoptosis and cell survival in the immune system Delphine Me;rino and Philippe Bouillet; 30. Cell death regulations in the hematopoietic system Paul A. Ney; 31. Apoptotic cell death in sepsis Pavan Brahmamdam, Jared T. Muenzer, Richard S. Hotchkiss, and Jonathan E. McDunn; 32. Host-pathogen interactions Maya Saleh; Part III. Cell Death in Non-Mammalian Organisms: 33. Programmed cell death in the yeast, S. cerevisiae Valter D. Longo and Cristina Mazzoni; 34. C. elegans and apoptosis Brian L. Harry and Ding Xue; 35. Apoptoic cell death in drosophila Kathleen Galindo and John M. Abrams; 36. Analysis of cell death in zebrafish Ujwal J. Pyati and A. Thomas Look</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Apoptosis, or cell death, can be pathological, a sign of disease and damage, or physiological, a process essential for normal health. This pathological dysregulation of cell death can be characterized by either too much loss of essential cells in the heart, brain, and other tissues with little regenerative capacity or by too little cell turnover in self-renewing tissues, giving rise to cancer and other maladies. This is a process of fundamental importance for development and normal health, which is altered in many disease conditions. This book, with contributions from experts in the field, provides a timely compilation of reviews of mechanisms of apoptosis. The book is organized into three convenient sections. The first section explores the different processes of cell death and how they relate to one another. The second section focuses on organ-specific apoptosis-related diseases. The third section explores cell death in non-mammalian organisms, such as plants. This comprehensive text is a must-read for all researchers and scholars interested in apoptosis&quot;--Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Apoptosis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Reed, John C.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Green, Douglas R.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="g">383.33</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">QH671 .A66 2011 f</marc:subfield>
+      <marc:subfield code="p">66882</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="v">383.33</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">159</marc:subfield>
+      <marc:subfield code="d">165</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*2450*2600*3000*5040*5050*5051*5200*6500*7000*7001*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02250nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002886460</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154553</marc:controlfield>
+    <marc:controlfield tag="008">110218s1998    nyu           000 0aeng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0374286213 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002886460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201706081510</marc:subfield>
+      <marc:subfield code="b">haizir</marc:subfield>
+      <marc:subfield code="c">201102181332</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200508111720</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200505301227</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">617.48092</marc:subfield>
+      <marc:subfield code="b">CON</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Conley, Frances K.</marc:subfield>
+      <marc:subfield code="9">213673</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Walking out on the boys /</marc:subfield>
+      <marc:subfield code="c">Frances K. Conley.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">N.Y. :</marc:subfield>
+      <marc:subfield code="b">Farrar, Straus and Giroux,</marc:subfield>
+      <marc:subfield code="c">1998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">245 p. ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&apos;&apos;Frances Conley, the first female tenured full Professor of Neurosurgery in the country, made headline news when she resigned from her position at Stanford University to protest the medical school&apos;s long-ingrained overt gender discrimination.  In this forthright memoir, Conley describes her medical training, the enormous investment she made in becoming a member of the small, elite, white male world of neurosurgery, and her realization-late in an extraordinary successful career-that she would never really be a full member of this club.  Conley takes us inside the world of academic medicine, where all doctors are trained but where women are still considered inferior.  As a result, research and treatment of women&apos;s health problems lag far behind those of men, and women&apos;s careers and psyches are suffering.  Conley eventually returned to Stanford after some of the changes for which she fought so hard were initiated, but her story makes it painfully clear that, in spite of their advances, female doctors-as well as all other female hospital staff-still have a long way to go before they are judged on the basis of their abilities rather than on their gender.  A revealing, sometimes shocking account, Walking Out on the Boys should be read by anyone concerned with the future of medicine in America.&apos;&apos; - Book Jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Surgery, regional medicine, dentistry, ophthalmology, otology, audiology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2=" ">
+      <marc:subfield code="a">Conley Frances K.</marc:subfield>
+      <marc:subfield code="9">213674</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Neurosurgeons</marc:subfield>
+      <marc:subfield code="z">California</marc:subfield>
+      <marc:subfield code="x">Biography.</marc:subfield>
+      <marc:subfield code="9">213675</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sex discrimination in medicine.</marc:subfield>
+      <marc:subfield code="9">213676</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Women surgeons</marc:subfield>
+      <marc:subfield code="z">California</marc:subfield>
+      <marc:subfield code="x">Biography.</marc:subfield>
+      <marc:subfield code="9">213677</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104337</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30276</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

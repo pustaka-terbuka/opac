@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01716nam a2200289   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002891860</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110833</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0415257093 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002891860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181338</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">420</marc:subfield>
+      <marc:subfield code="b">POP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pope, Rob.</marc:subfield>
+      <marc:subfield code="9">211853</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The English studies book :</marc:subfield>
+      <marc:subfield code="b">an introduction to language, literature and culture /</marc:subfield>
+      <marc:subfield code="c">Rob Pope</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2nd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London ; N.Y. :</marc:subfield>
+      <marc:subfield code="b">Routledge,</marc:subfield>
+      <marc:subfield code="c">c2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiii, 420 p. :</marc:subfield>
+      <marc:subfield code="b">ill., maps ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Previous ed.: 1998.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">List of figures.  - Preface and acknowledgements.  - What the book is about and how to use it.  -    Prologue: Change and Challenge Today.  - Pt.  1.  Introduction to English Studies.  - Pt.  2.  Theoretical Positions and Practical Approaches.  - Pt.  3.  Common Topics.  - Pt.  4.  Textual Activities and Learning Strategies.  - Pt.  5.  Anthology of Sample Texts.  - Pt.  6.  Glossary of Grammatical and Linguistic Terms.  - Appendix A.  Maps of Britain, the USA and the world.  - Appendix B.  A chronology of English language, literature, culture, communication and media.  -   Appendix C.  English and or as other educational subjects.  - Appendix D.  An alphabet of speech sounds.  - Bibliography.  - Relevant journals and useful addresses.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Rhetoric.</marc:subfield>
+      <marc:subfield code="9">1397</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language.</marc:subfield>
+      <marc:subfield code="9">205153</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English literature</marc:subfield>
+      <marc:subfield code="x">History and criticism.</marc:subfield>
+      <marc:subfield code="9">2926</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English literature.</marc:subfield>
+      <marc:subfield code="9">203931</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English philology</marc:subfield>
+      <marc:subfield code="v">Handbooks, manuals, etc.</marc:subfield>
+      <marc:subfield code="9">213756</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104317</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30335</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

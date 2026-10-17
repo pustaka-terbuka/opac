@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01181cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002901960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154602</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    si a          00  0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">079460160X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002901960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201208290838</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="c">201208290838</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201102181506</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="043" ind1=" " ind2=" ">
+      <marc:subfield code="a">a-ja---</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">747.8571</marc:subfield>
+      <marc:subfield code="b">JIT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jitsukawa, Motoko.</marc:subfield>
+      <marc:subfield code="9">213877</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Contemporary Japanese restaurant design /</marc:subfield>
+      <marc:subfield code="c">text by Motoko Jitsukawa with K.K. Cornucopia &amp;amp; photos by Nacasa &amp;amp; Partners Inc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Periplus,</marc:subfield>
+      <marc:subfield code="c">c2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">175 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">26 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction : Contemporary restaurant design in Japan. Part 1 Contemporary classics. Part 11 Tradition redifined. Part 3 Cultural cohesion. Epilogue : I love restaurants. Designers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Restaurants</marc:subfield>
+      <marc:subfield code="x">Decoration</marc:subfield>
+      <marc:subfield code="z">Japan</marc:subfield>
+      <marc:subfield code="v">Pictorial works.</marc:subfield>
+      <marc:subfield code="9">213878</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Restaurants</marc:subfield>
+      <marc:subfield code="x">Decoration</marc:subfield>
+      <marc:subfield code="z">Japan.</marc:subfield>
+      <marc:subfield code="9">213879</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Restaurants</marc:subfield>
+      <marc:subfield code="z">Japan</marc:subfield>
+      <marc:subfield code="x">Design</marc:subfield>
+      <marc:subfield code="v">Pictorial works.</marc:subfield>
+      <marc:subfield code="9">213880</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Restaurants</marc:subfield>
+      <marc:subfield code="z">Japan</marc:subfield>
+      <marc:subfield code="x">Design.</marc:subfield>
+      <marc:subfield code="9">213881</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Cornucopia, K. K.</marc:subfield>
+      <marc:subfield code="9">16978</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 640212</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30441</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01160nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002899660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110841</marc:controlfield>
+    <marc:controlfield tag="008">110218s2000    nyu           000 0deng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0375410775 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002899660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181332</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200811241800</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200509021148</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200410221309</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">70.92</marc:subfield>
+      <marc:subfield code="b">KOP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Koppel, Ted,</marc:subfield>
+      <marc:subfield code="d">1940-</marc:subfield>
+      <marc:subfield code="9">213841</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Off camera :</marc:subfield>
+      <marc:subfield code="b">private thoughts made public /</marc:subfield>
+      <marc:subfield code="c">by Ted Koppel.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">N.Y. :</marc:subfield>
+      <marc:subfield code="b">Alfred Knopf,</marc:subfield>
+      <marc:subfield code="c">c2000.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">ix, 320 p.  ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&apos;&apos;One of America&apos;s most admired television newsmen now gives us an intimate chronicle of the final year of the twentieth century.  In his engrossing narrative, the  year&apos;s personalities and events not only are themselves made vivid but also lead to wide-ranging discussions of the past and of expectations of things to come...&amp;quot; - Book jacket.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Koppel, Ted, 1940-</marc:subfield>
+      <marc:subfield code="v">Diaries</marc:subfield>
+      <marc:subfield code="9">213842</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Television journalists</marc:subfield>
+      <marc:subfield code="z">United States</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2=" ">
+      <marc:subfield code="a">United States</marc:subfield>
+      <marc:subfield code="x">Civilization</marc:subfield>
+      <marc:subfield code="y">1970-</marc:subfield>
+      <marc:subfield code="9">213844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104368</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30407</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

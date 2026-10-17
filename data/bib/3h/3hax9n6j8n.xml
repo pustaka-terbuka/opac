@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01335nam a2200241 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003143220</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154551</marc:controlfield>
+    <marc:controlfield tag="008">110218s2005    vaua          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1562864106 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781562864101 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003143220</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181537</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201003241656</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201003231605</marc:subfield>
+      <marc:subfield code="d">radtha</marc:subfield>
+      <marc:subfield code="c">201003231605</marc:subfield>
+      <marc:subfield code="d">radtha</marc:subfield>
+      <marc:subfield code="y">200905271445</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">658.4022</marc:subfield>
+      <marc:subfield code="b">BOL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boller, Sharon</marc:subfield>
+      <marc:subfield code="9">213619</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Teamwork training /</marc:subfield>
+      <marc:subfield code="c">Sharon Boller</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Alexandria :</marc:subfield>
+      <marc:subfield code="b">ASTD Press,</marc:subfield>
+      <marc:subfield code="c">c2005.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 197 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM (4 3/4 in.).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">ASTD trainer&apos;s workshop series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction: who needs teamwork? - Defining the teamwork competency. - Assessing the organizational competency. - Gaining executive buy-in: a 90-minute overview for senior managers. - Fostering teamwork: a one-day workshop for team leaders and managers. - Developing teamwork skills: a one-day workshop for members of teams and groups. - Team-building activities for use with departments and teams. - Learning activities. - Handouts. - Assessments, tools and training instruments. - Creating an implementation strategy.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Teams in the workplace.</marc:subfield>
+      <marc:subfield code="9">201974</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">ASTD trainer&apos;s workshop series</marc:subfield>
+      <marc:subfield code="9">35568</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADTP : 133118</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30232</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

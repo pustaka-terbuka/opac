@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01460nam a2200277   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002865760</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110817</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">053495393X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002865760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181417</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">6.37</marc:subfield>
+      <marc:subfield code="b">SON</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sonka, Milan.</marc:subfield>
+      <marc:subfield code="9">16842</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Image processing, analysis, and machine vision /</marc:subfield>
+      <marc:subfield code="c">Milan Sonka, Vaclav Hlavac, and Roger Boyle</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2nd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Pacific Grove, CA :</marc:subfield>
+      <marc:subfield code="b">PWS Pub.,</marc:subfield>
+      <marc:subfield code="c">c1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxiv, 770 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">List of algorithms.  - List of symbols and abbreviations.  - Preface.  - Course contents.  - 1.  Introduction.  - 2.  The digitized image and its properties.  - 3.  Data structures for image analysis.  - 4.  Image pre-processing.  - 5.  Segmentation.  - 6.  Shape representation and description.  - 7. Object recognition.  - 8.  Image understanding.  - 9.  3D vision, geometry, and radiometry.  - 10.  Use of 3D vision.  - 11.  Mathematical morphology.  - 12.  Linear discrete image transforms.  - 13.  Image data compression.  - 14.  Texture.  - 15.  Motion analysis.  - 16.  Case studies.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Computer vision.</marc:subfield>
+      <marc:subfield code="9">8067</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Image analysis.</marc:subfield>
+      <marc:subfield code="9">16843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Image processing.</marc:subfield>
+      <marc:subfield code="9">16844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boyle, Roger.</marc:subfield>
+      <marc:subfield code="e">(j.a.)</marc:subfield>
+      <marc:subfield code="9">16845</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hlavac, Vaclav.</marc:subfield>
+      <marc:subfield code="e">(j.a.)</marc:subfield>
+      <marc:subfield code="9">16846</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CIT(DIP) : 546031</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30019</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

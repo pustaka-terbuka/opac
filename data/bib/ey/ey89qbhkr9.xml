@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01477nam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002884360</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154552</marc:controlfield>
+    <marc:controlfield tag="008">110218s2002                  000   eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0321202538 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002884360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201404281331</marc:subfield>
+      <marc:subfield code="b">patrick</marc:subfield>
+      <marc:subfield code="c">201102181322</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">808.202</marc:subfield>
+      <marc:subfield code="b">LES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lester, James D.,</marc:subfield>
+      <marc:subfield code="c">Sr.,</marc:subfield>
+      <marc:subfield code="d">1935-2006</marc:subfield>
+      <marc:subfield code="9">71187</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Writing research papers :</marc:subfield>
+      <marc:subfield code="b">a complete guide /</marc:subfield>
+      <marc:subfield code="c">James D. Lester, James Lester, Jr.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">10th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Pearson/Longman,</marc:subfield>
+      <marc:subfield code="c">c2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxi, 362 p. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Includes 2003 MLA updates&amp;quot; - Cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface to the Instructor.  - Preface to the Student.  - Ch. 1. Writing From Research. - Ch. 2. Finding A Topic.  - Ch. 3. Gathering Data In The Library.  - Ch. 4. Searching The World Wide Web.  - Ch. 5. Collecting Data Outside The Library.  - Ch. 6. Organizing Ideas And Setting Goals.  - Ch. 7. Finding    And Reading The Best Sources.  - Ch. 8. Practicing Academic Integrity. - Ch. 9. Writing Notes. - Ch. 10. Drafting The Paper In An Academic Style. - Ch. 11. Blending Reference Material Into Your Writing.  - Ch. 12. Writing The Introduction, Body, And Conclusion.  - Ch. 13. Revising,</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">ESL Studies : 2ELG20</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Report writing.</marc:subfield>
+      <marc:subfield code="9">94550</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Research</marc:subfield>
+      <marc:subfield code="9">202061</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lester, James D.,</marc:subfield>
+      <marc:subfield code="c">Jr.,</marc:subfield>
+      <marc:subfield code="d">1959-</marc:subfield>
+      <marc:subfield code="e">(j.a.)</marc:subfield>
+      <marc:subfield code="9">71188</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SAM : 74798, 74799, 74800, 74801</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30252</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

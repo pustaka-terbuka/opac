@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01926nam a2200349 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003140401</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110816</marc:controlfield>
+    <marc:controlfield tag="008">110218s2006    nyuda         001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521685710 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780521685719 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003140401</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201608181454</marc:subfield>
+      <marc:subfield code="b">patrick</marc:subfield>
+      <marc:subfield code="c">201408191422</marc:subfield>
+      <marc:subfield code="d">patrick</marc:subfield>
+      <marc:subfield code="c">201407181542</marc:subfield>
+      <marc:subfield code="d">patrick</marc:subfield>
+      <marc:subfield code="c">201103311040</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200902191035</marc:subfield>
+      <marc:subfield code="z">jamalia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">361.26</marc:subfield>
+      <marc:subfield code="b">HOW</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">How to spend $50 billion to make the world a better place /</marc:subfield>
+      <marc:subfield code="c">edited by Bjorn Lomborg.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxi, 183 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">An abridged ed. of: Global crises, global solutions / edited by Bjorn Lomborg. 2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1. Meeting the challenge of global warming / William R. Cline. -  2. Communicable diseases / Anne Mills and Sam Shillcutt. - 3. The challenge of reducing the global incidence of civil war / Paul Collier and Anke Hoeffler. -  4. Towards a new consensus for addressing the global challenge of the lack of education / Lant Pritchett. -  5. The challenge of poor governance and corruption / Susan Rose-Ackerman. -  6. Hunger and malnutrition / Jere R. Behrman, Harold Alderman and John Hoddinott. - 7. Population and migration / Philip Martin. -  8. The water challenge / Frank Rijsberman. -  9. Subsidies and trade barriers / Kym Anderson.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Sociology : 9699</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">International Business Fundamental : BBB4M</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">International cooperation.</marc:subfield>
+      <marc:subfield code="9">212830</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Globalization.</marc:subfield>
+      <marc:subfield code="9">200310</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Economic development.</marc:subfield>
+      <marc:subfield code="9">94740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Economic policy.</marc:subfield>
+      <marc:subfield code="9">216095</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Economic development</marc:subfield>
+      <marc:subfield code="x">Environmental aspects.</marc:subfield>
+      <marc:subfield code="9">30153</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lomborg, Bjørn,</marc:subfield>
+      <marc:subfield code="d">1965-</marc:subfield>
+      <marc:subfield code="9">32829</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="730" ind1="0" ind2=" ">
+      <marc:subfield code="a">Global crises, global solutions.</marc:subfield>
+      <marc:subfield code="9">213333</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CPU : 63807</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAL : 157708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30000</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

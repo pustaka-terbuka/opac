@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01185nam a22003013u 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003275193</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154547</marc:controlfield>
+    <marc:controlfield tag="007">cr |||||||||||</marc:controlfield>
+    <marc:controlfield tag="008">180411s2011    enk|   fs|    00| 0|eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781849192620</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UkSgIET)PBCE075E</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003275193</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201804111131</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201804111022</marc:subfield>
+      <marc:subfield code="d">AUTHORITY</marc:subfield>
+      <marc:subfield code="y">201801081740</marc:subfield>
+      <marc:subfield code="z">shuhada</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UkSgIET</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UkSgIET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Garelli, Fabricio</marc:subfield>
+      <marc:subfield code="9">213503</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Advanced control for constrained processes and systems</marc:subfield>
+      <marc:subfield code="h">[electronic resource] /</marc:subfield>
+      <marc:subfield code="c">Garelli et al.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Stevenage :</marc:subfield>
+      <marc:subfield code="b">IET,</marc:subfield>
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource (207 p.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Control, Robotics &amp;amp; Sensors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Control.</marc:subfield>
+      <marc:subfield code="9">212899</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Engineering design.</marc:subfield>
+      <marc:subfield code="9">203041</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Process control.</marc:subfield>
+      <marc:subfield code="9">210653</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sliding mode control.</marc:subfield>
+      <marc:subfield code="9">213504</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Mantz, Ricardo J.</marc:subfield>
+      <marc:subfield code="9">213505</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">De Battista, Hernǹ</marc:subfield>
+      <marc:subfield code="9">213506</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">IET control, robotics and sensors series.</marc:subfield>
+      <marc:subfield code="9">77633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2=" ">
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://digital-library.theiet.org/content/books/ce/pbce075e</marc:subfield>
+      <marc:subfield code="z">An electronic book accessible through the World Wide Web; click to view</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30137</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

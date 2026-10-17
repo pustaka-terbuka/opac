@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01742cgm a2200313 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003219808</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154540</marc:controlfield>
+    <marc:controlfield tag="007">vd cvaizu</marc:controlfield>
+    <marc:controlfield tag="008">110706s2008    at 053        000 vleng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003219808</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201108301655</marc:subfield>
+      <marc:subfield code="b">pushpa</marc:subfield>
+      <marc:subfield code="y">201107060907</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">631.5233</marc:subfield>
+      <marc:subfield code="b">JIM 2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Jimmy&apos;s GM food fight</marc:subfield>
+      <marc:subfield code="h">[videorecording]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Frenchs Forest, N.S.W. :</marc:subfield>
+      <marc:subfield code="b">BBC Active,</marc:subfield>
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 videodisc (53 min.) :</marc:subfield>
+      <marc:subfield code="b">sd., col. ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Originally produced by the BBC for their Horizon series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="508" ind1=" " ind2=" ">
+      <marc:subfield code="a">Produced &amp;amp; directed by Michael Lachmann.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="511" ind1="0" ind2=" ">
+      <marc:subfield code="a">Presenter, Jimmy Doherty.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Around the world a food crisis is looming. Global demand for crops is exceeding supply. Many plant scientist believe genetic modification is the answer, boosting food production and preventing famines. To others it is a dangerous untested science that threatens environmental disaster. So where does the truth lie? Jimmy Doherty - pig farmer, environmentalist and former entomologist - is on a mission to find out, gathering views from scientists, environmentalists and farmers across the world. If the technology is there, and it could help feed our planet, why don&apos;t we use it? But if it&apos;s not properly tested, could genetic modification unleash a host of problems we barely even now about?&amp;quot;--container.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="538" ind1=" " ind2=" ">
+      <marc:subfield code="a">DVD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Genetically modified foods.</marc:subfield>
+      <marc:subfield code="9">12357</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Food crops</marc:subfield>
+      <marc:subfield code="x">Biotechnology.</marc:subfield>
+      <marc:subfield code="9">213348</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Food supply.</marc:subfield>
+      <marc:subfield code="9">206298</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lachmann, Michael.</marc:subfield>
+      <marc:subfield code="9">213349</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doherty, Jimmy.</marc:subfield>
+      <marc:subfield code="9">79239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">BBC Active (Firm)</marc:subfield>
+      <marc:subfield code="9">48030</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="730" ind1="0" ind2=" ">
+      <marc:subfield code="a">Horizon (Television program)</marc:subfield>
+      <marc:subfield code="9">213350</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">AVLS : 166191</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30009</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

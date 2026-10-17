@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>03075cam a2200397 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002865260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20230204000659</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    njua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0131426443 (pbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">013122543X (pbk, int. ed)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">013142646X (Inst.Resorce CD)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">013142646X922 (Inst.Resource CD)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002865260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201304281047</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201106271102</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181247</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181247</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">5.133</marc:subfield>
+      <marc:subfield code="b">DEI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2="0">
+      <marc:subfield code="a">Deitel, Harvey M.,</marc:subfield>
+      <marc:subfield code="d">1945-</marc:subfield>
+      <marc:subfield code="9">26476</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">C :</marc:subfield>
+      <marc:subfield code="b">how to program /</marc:subfield>
+      <marc:subfield code="c">H. M. Deitel, P. J. Deitel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">4th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Upper Saddle River, N.J. :</marc:subfield>
+      <marc:subfield code="b">Pearson/Prentice Hall,</marc:subfield>
+      <marc:subfield code="c">c2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xli, 1255 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm. +</marc:subfield>
+      <marc:subfield code="e">2 CD-ROM (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">How to program series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM : Software to accompany C how to program, 4th ed. : microsoft visual C++ 6.0 : introductory ed. [by] H.M. Deitel, P.J. Deitel.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 CD-ROM : Instructor&apos;s Resource CD  to accompany C how to program, 4th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - 1.  Introduction to Computers, the Internet and the World Wide Web.  - 2.  Introduction to C Programming.  - 3.  Structured Program Development in C.  - 4.  C Program Control.  - 5.  C Functions.  - 6.  C Arrays.  - 7.  C Pointers.  - 8.  C Characters and Strings.  - 9.  C Formatted Input/Output.  - 10.  C Structures, Unions, Bit Manipulations and Enumerations.  - 11.  C File Processing.  - 12.  C Data Structures.  - 13.  C Preprocessor.  - 14.  Other C Topics.  - 15.  C++ as a &amp;quot;Better C&amp;quot;.  - 16.  C++ Classes and Data Abstraction.  - 17.  C++ Classes: Part II.  - 18.  C++ Operator Overloading.  - 19.  C++ Inheritance.  - 20.  C++ Virtual Functions and Polymorphism.  - 21.  C++ Stream Input/Output. - 22.  C++ Templates.  - 23.  C++ Exception Handling.  -  24.  Introduction to Java Applications and Applets.  - 25.  Beyond C &amp;amp; C++: Operators, Methods &amp;amp; Arrays in Java.  - 26.  Java Object-Based Programming.  - 27.  Java Object-Oriented Programming.  - 28.  Java Graphics and Java2D.  - 29.  Java Graphical User Interface Components.  -    30.  Java Multimedia: Images, Animation and Audio.  - A.  Internet and Web Resources.  - B.  C99 Internet and Web Resources.  - C.  Operator Precedence Charts.  - D.  ASCII Character Set.  - E:  Number Systems.  - F.  C Standard Library Resources.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">American Degree Programme : CSCI116</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">C (Computer program language)</marc:subfield>
+      <marc:subfield code="9">5668</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">C++ (Computer program language)</marc:subfield>
+      <marc:subfield code="9">201752</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Java (Computer program language)</marc:subfield>
+      <marc:subfield code="9">17415</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Deitel, Paul J.</marc:subfield>
+      <marc:subfield code="9">3046</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Software to accompany C how to program, 4th ed. : microsoft visual C++ 6.0 : introductory ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Instructor&apos;s Resource CD  to accompany C how to program, 4th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SOCIT : 546039, 546040, CD546006, CD546007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">ADTP: 96734, CD90557, 96770, CD90566, 96771, CD90567, 96772, CD90568, 96773, CD90569</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1=" " ind2=" ">
+      <marc:subfield code="a">ENG : CD30172</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30023</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

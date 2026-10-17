@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00968nam a2200301Ia 4500</marc:leader>
+    <marc:controlfield tag="001">b10003654</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20250110074924</marc:controlfield>
+    <marc:controlfield tag="008">990225c19799999si qr p       0   a0eng/d</marc:controlfield>
+    <marc:datafield tag="022" ind1=" " ind2=" ">
+      <marc:subfield code="a">0129-797X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-37660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b10003654</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMT rda</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMQ</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">DS520 .C761</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="222" ind1=" " ind2=" ">
+      <marc:subfield code="b">( )</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Contemporary Southeast Asia.</marc:subfield>
+      <marc:subfield code="b">/</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">:[Singapore, :</marc:subfield>
+      <marc:subfield code="b">, Singapore University Press for the Institute of Southeast Asian Studies],</marc:subfield>
+      <marc:subfield code="c">-1979-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">v.,</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+      <marc:subfield code="b">colour illustrations ;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="310" ind1=" " ind2=" ">
+      <marc:subfield code="a">Quarterly</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="362" ind1="0" ind2=" ">
+      <marc:subfield code="a">v. 1 (May 1979)-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="365" ind1=" " ind2=" ">
+      <marc:subfield code="a">0 1</marc:subfield>
+      <marc:subfield code="b">0</marc:subfield>
+      <marc:subfield code="c">RM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Subscription has been stopped as from 1998-.;&quot;Resubscribes in 2006-.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Asia, Southeastern -- Periodicals.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Institute of Southeast Asian Studies.</marc:subfield>
+      <marc:subfield code="e">issuing body.</marc:subfield>
+      <marc:subfield code="9">45507</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">1</marc:subfield>
+      <marc:subfield code="s">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">94045</marc:subfield>
+      <marc:subfield code="h">1994 V.16 N.1-3</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">94046</marc:subfield>
+      <marc:subfield code="h">1995 V.17 N.1-4</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">94047</marc:subfield>
+      <marc:subfield code="h">1996 V.18 N.1-4</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">94048</marc:subfield>
+      <marc:subfield code="h">1997 V.19 N.1-4</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-06-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">94049</marc:subfield>
+      <marc:subfield code="h">1998 V.20 N.1-4</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000164253</marc:subfield>
+      <marc:subfield code="h">2007 V.29 N.1-3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000206900</marc:subfield>
+      <marc:subfield code="h">2010 V.32 N.1-3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000206908</marc:subfield>
+      <marc:subfield code="h">2009 V.31 N.1-3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000230141</marc:subfield>
+      <marc:subfield code="h">2011 V.33 N.1</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000182594</marc:subfield>
+      <marc:subfield code="h">2008 V.30 N.1-3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000194104</marc:subfield>
+      <marc:subfield code="h">2006 V.28 N.1-2</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-13 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000230237</marc:subfield>
+      <marc:subfield code="h">2012 V.34 N.1_3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-14 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000270171</marc:subfield>
+      <marc:subfield code="h">2013 V.35 N.2_3</marc:subfield>
+      <marc:subfield code="w">2017-07-14</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-14</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2017-07-14 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000270313</marc:subfield>
+      <marc:subfield code="h">2014 V.36 N.1_3</marc:subfield>
+      <marc:subfield code="w">2017-07-14</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-14</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2019-03-20 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000270614</marc:subfield>
+      <marc:subfield code="h">2016 Vol.38 No.1-3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="r">2019-04-15 00:00:00</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DS520 .C761</marc:subfield>
+      <marc:subfield code="p">1000270671</marc:subfield>
+      <marc:subfield code="h">2015 Vol.37 No.1-3</marc:subfield>
+      <marc:subfield code="w">2017-07-13</marc:subfield>
+      <marc:subfield code="y">4</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cs_s</marc:subfield>
+      <marc:subfield code="d">2017-07-13</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">274</marc:subfield>
+      <marc:subfield code="d">274</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01398nam a2200277Ia 4500</marc:leader>
+    <marc:controlfield tag="001">b10002510</marc:controlfield>
+    <marc:controlfield tag="003">MY-KsUMS</marc:controlfield>
+    <marc:controlfield tag="005">20241219093122</marc:controlfield>
+    <marc:controlfield tag="008">990212s1991    sz b     b    100 0 eng/d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">2831700736</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0000-26260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)b10002510</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMQ</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMT</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">K3517 .L496</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Legal aspects of the conservation of wetlands :</marc:subfield>
+      <marc:subfield code="b">papers presented at an international conference held in Lyon, 23-26 September 1987 =Aspects juridiques de la protection des zones humides :</marc:subfield>
+      <marc:subfield code="b">communications pr+&amp;#xFFFD;sent+&amp;#xFFFD;es +&amp;#xFFFD; la confer+&amp;#xFFFD;rence internationale de Lyon, 23-26 septembre 1987 /</marc:subfield>
+      <marc:subfield code="c">scientific direction, Jean Untermaier = direction scientifique, Jean Untermaier.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2=" ">
+      <marc:subfield code="a">Aspects juridiques de la protection des zones humides : communications pr+&amp;#xFFFD;sent+&amp;#xFFFD;es +&amp;#xFFFD; la confer+&amp;#xFFFD;rence internationale de Lyon, 23-26 septembre 1987.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Gland, Switzerland :</marc:subfield>
+      <marc:subfield code="b">IUCN,</marc:subfield>
+      <marc:subfield code="c">1991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">202 p. :</marc:subfield>
+      <marc:subfield code="b">1 map,</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Soci+&amp;#xFFFD;t+&amp;#xFFFD; fran+&amp;#xFFFD;aise pour le droit de l&apos;environnement. IUCN Commission on Environmental Policy, Law, and Administration.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Wetland conservation</marc:subfield>
+      <marc:subfield code="v">Congresses.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Wetland conservation</marc:subfield>
+      <marc:subfield code="x">Law and legislation</marc:subfield>
+      <marc:subfield code="v">Congresses.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Untermaier, Jean.</marc:subfield>
+      <marc:subfield code="9">21125</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="c">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">K3517 .L496</marc:subfield>
+      <marc:subfield code="p">22897</marc:subfield>
+      <marc:subfield code="r">2023-06-12 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">CAIS</marc:subfield>
+      <marc:subfield code="b">CAIS</marc:subfield>
+      <marc:subfield code="c">cc_1</marc:subfield>
+      <marc:subfield code="d">2017-06-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">K3517 .L496</marc:subfield>
+      <marc:subfield code="p">22898</marc:subfield>
+      <marc:subfield code="r">2023-06-12 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-06-13</marc:subfield>
+      <marc:subfield code="y">BK001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">175</marc:subfield>
+      <marc:subfield code="d">175</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

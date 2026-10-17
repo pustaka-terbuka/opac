@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01525nam a2200241   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002867260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20260731085823</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">72227311</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002867260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181229</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">6.6</marc:subfield>
+      <marc:subfield code="b">UND</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Underdahl, Brian.</marc:subfield>
+      <marc:subfield code="9">213385</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Create your own DVDs /</marc:subfield>
+      <marc:subfield code="c">Brian Underdahl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Berkeley, CA :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill/Osborne,</marc:subfield>
+      <marc:subfield code="c">c2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xv, 377 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm. +</marc:subfield>
+      <marc:subfield code="e">1 electronic optical disk (CD-ROM) (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Part I Introduction to DVDs and VCDs : 1. Getting started with DVDs and VCDs. 2. Introduction to DVD creation tools. 3. Capturing your video. - Part II Movie making concepts: 4. Storyboards and timelines. 5. Transitions and special effects. 6. Audio tracks for your movies. 7. Titles for your movies. 8. Menus for your movies. 9. Choosing output formats for your movies. - Part III Creating your movies: 10. Creating a movie in Sonic MyDVD. 11. Creating a movie in Pinnacle expression. 12. Creating a movie in roxio videowave movie creator. 13. Creating a movie in Sonic DVDit! 14. Creating a movie in Pinnacle studio. 15. Creating a movie in Roxio videowave power edition. A. A new type of recordable DVD drive. B. Using your DVE burner for data and music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 electronic optical disk (CD-ROM) : Sonic software trial</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">DVDs.</marc:subfield>
+      <marc:subfield code="9">204821</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sonic software trial</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">CIT(DIP) : 546038, CD546005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30039</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

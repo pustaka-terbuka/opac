@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01559nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002897260</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110838</marc:controlfield>
+    <marc:controlfield tag="008">110218n        my a          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9831040880 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002897260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181649</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200605031502</marc:subfield>
+      <marc:subfield code="d">rosnani</marc:subfield>
+      <marc:subfield code="c">200411221326</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="c">200411221155</marc:subfield>
+      <marc:subfield code="d">susan</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">363.19</marc:subfield>
+      <marc:subfield code="b">TOX</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Toxics in plastics :</marc:subfield>
+      <marc:subfield code="b">what dangers &amp;amp; which plastics to avoid.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Pulau Pinang :</marc:subfield>
+      <marc:subfield code="b">Consumers&apos; Association of Penang,</marc:subfield>
+      <marc:subfield code="c">[199-?]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">60 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">11 x 14 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">CAP guide.</marc:subfield>
+      <marc:subfield code="9">94602</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Title from cover page.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Toxic chemicals from plastics migrate into and contaminate our foods.  - What plastic is used where.  - Why plastic  can be a problem.  - Styrene in instant noodles.  - High intake of chemicals from widespread use of plastics.  Phthalates in baby milk.  - Chemical migration from clingform wraps.  - Plastic baby feeding bottles leach out toxic chemical -- Why tiny amouts of some chemicals in our babies&apos; food can be harmful.  - Bisphenol-A(BHA) in canned foods.  - BHA in tooth-coating chemical.  - BHA leached from PVC too.  - Toxic plastic softeners in children&apos;s teethers, pacifers and toys.  - PVC plastic a serious threat to human reproduction.  - Styrene health hazards from food containers.&amp;quot; -   Back cover.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Food contamination.</marc:subfield>
+      <marc:subfield code="9">213814</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Food</marc:subfield>
+      <marc:subfield code="x">Packaging.</marc:subfield>
+      <marc:subfield code="9">16601</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Consumers Association of Penang</marc:subfield>
+      <marc:subfield code="9">49135</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 104281</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30382</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

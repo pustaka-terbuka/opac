@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01278nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002870460</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103931</marc:controlfield>
+    <marc:controlfield tag="008">110218s2003    enkd          001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0421784202 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002870460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181344</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">200901290734</marc:subfield>
+      <marc:subfield code="d">meena</marc:subfield>
+      <marc:subfield code="c">200712100854</marc:subfield>
+      <marc:subfield code="d">khirudin</marc:subfield>
+      <marc:subfield code="c">200711121242</marc:subfield>
+      <marc:subfield code="d">radtha</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">345.42</marc:subfield>
+      <marc:subfield code="b">CLA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Clarkson, C. M. V.</marc:subfield>
+      <marc:subfield code="q">(Christopher M. V.)</marc:subfield>
+      <marc:subfield code="9">16866</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Criminal law :</marc:subfield>
+      <marc:subfield code="b">text and materials /</marc:subfield>
+      <marc:subfield code="c">by C.M.V. Clarkson, H.M. Keating</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">5th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Sweet &amp;amp; Maxwell,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">li, 886 p. : Charts ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">The law is stated as at March 31, 2003.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Preface.  - Acknowledgments.  - Table of Cases.  - Table of Statutes.  - Table of Statutory Instruments.  - 1.  Crime and Punishment.  - 2. The General Principles of Criminal Liability.  - 3.  General Defences.  - 4.  Causation.  - 5.  Inchoate Offences.  - 6.  Participation in Crime.  - 7.  Non-Fatal Offences Against the Person.  - 8. Homicide.  - 9.  Offences Against Property.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminal law</marc:subfield>
+      <marc:subfield code="z">England.</marc:subfield>
+      <marc:subfield code="9">11410</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Criminal law</marc:subfield>
+      <marc:subfield code="z">Wales.</marc:subfield>
+      <marc:subfield code="9">12884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Keating, Heather M</marc:subfield>
+      <marc:subfield code="e">(j.a.)</marc:subfield>
+      <marc:subfield code="9">28419</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAW : 21730, 21731</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30091</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02460nam a2200325 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002905460</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20220614161339</marc:controlfield>
+    <marc:controlfield tag="008">110218s2000    enka          000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521773997 (Student&apos;s book)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521773865 (Cassettes)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7560021360 (Workbook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521773903 (Workbook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002905460</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181759</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181759</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181759</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181622</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">428.24</marc:subfield>
+      <marc:subfield code="b">RIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Richards, Jack C.</marc:subfield>
+      <marc:subfield code="9">4954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">New interchange :</marc:subfield>
+      <marc:subfield code="b">intro : english for international communication : student&apos;s book /</marc:subfield>
+      <marc:subfield code="c">Jack C. Richards.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge, U.K. :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">2000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 v. (various pagings) :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm. +</marc:subfield>
+      <marc:subfield code="e">3 sound cassettes + 1 workbook (iv, 96 p. ; 28 cm.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">LC1233 - LC1238 published in China.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Unit 1.  It&apos;s nice to meet you.  - Unit 2.  What&apos;s this?  - Unit 3.  Where are you from?  - Unit 4.  I&apos;m not wearing boots!  - Unit 5.  What are you doing?  - Unit 6.  We live in the suburbs.  - Unit 7.  Does the apartment have a view?  - Unit 8.  What do you do? - Unit 9.  Broccoli is good for you.  - Unit 10.  You can play baseball really well.  - Unit 11.  What are you going to do?.  - Unit 12.  What&apos;s the matter?  - Unit 13.  You can&apos;t miss it.  - Unit 14.  Did you have a good weekend?  - Unit 15.  Where were you born?  - Unit 16.  Please leave us a message.  - Unit summaries.  - Appendix.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">3 sound cassettes : New interchange : intro : class audio cassettes [by] Jack C.Richards : Cassette 1 : units 1-5 (69 min.) - Cassette 2 : units 6-11 (58 min.) - Cassette 3 : units 12-16 (65 min.) ISBN 0521773865.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 workbook : New interchange : intro : english for international communication : workbook [by] Jack C. Richards. ISBN 7560021360. ISBN 0521773903</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Communication, International</marc:subfield>
+      <marc:subfield code="v">Problems, exercises, etc.</marc:subfield>
+      <marc:subfield code="9">213904</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers.</marc:subfield>
+      <marc:subfield code="9">10818</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">New interchange : intro : class audio cassettes.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">New interchange : intro : english for international communication : workbook</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAC : LC1146, LCSC114, LCSC115, LCSC116,  LC1233, LC1234, LC1235, LC1236, LC1237, LC1238. This item is reserved for lecturers of the Language Centre.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT: 660445 (student&apos;s book), 660446 (workbook), C224 (cassettes).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30472</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

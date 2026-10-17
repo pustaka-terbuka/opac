@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02266nam a2200457Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003241249</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154550</marc:controlfield>
+    <marc:controlfield tag="006">m        u</marc:controlfield>
+    <marc:controlfield tag="007">cr cn|||||||||</marc:controlfield>
+    <marc:controlfield tag="008">121009s2011    nyuab   sb    001 0deng d</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="z">2010-031857</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9781438435350 (hardcover : alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">1438435355 (hardcover : alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9781438435367</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)713030411</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CaPaEBR)ebr10574115</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003241249</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="y">201210090939</marc:subfield>
+      <marc:subfield code="z">wilmina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">CaPaEBR</marc:subfield>
+      <marc:subfield code="c">CaPaEBR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="1" ind2="4">
+      <marc:subfield code="a">F129.H74</marc:subfield>
+      <marc:subfield code="b">M35 2011eb</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McMath, Ann,</marc:subfield>
+      <marc:subfield code="d">1834-1873.</marc:subfield>
+      <marc:subfield code="9">213577</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The journal of Ann McMath</marc:subfield>
+      <marc:subfield code="h">[electronic resource] :</marc:subfield>
+      <marc:subfield code="b">an orphan in a New York parsonage in the 1850s /</marc:subfield>
+      <marc:subfield code="c">Ann McMath ; edited and with an introduction by C. Stewart Doty.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Albany, N.Y. :</marc:subfield>
+      <marc:subfield code="b">Excelsior Editions, State University of New York Press,</marc:subfield>
+      <marc:subfield code="c">c2011.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">ix, 269 p. :</marc:subfield>
+      <marc:subfield code="b">ill., maps.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="533" ind1=" " ind2=" ">
+      <marc:subfield code="a">Electronic reproduction.</marc:subfield>
+      <marc:subfield code="b">Palo Alto, Calif. :</marc:subfield>
+      <marc:subfield code="c">ebrary,</marc:subfield>
+      <marc:subfield code="d">2011</marc:subfield>
+      <marc:subfield code="n">Available via World Wide Web.</marc:subfield>
+      <marc:subfield code="n">Access may be limited to ebrary affiliated libraries.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">McMath, Ann,</marc:subfield>
+      <marc:subfield code="d">1834-1873</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213578</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Young women</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">Horseheads</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213579</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Teenage girls</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">Horseheads</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213580</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Orphans</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">Horseheads</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213581</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Presbyterians</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="z">Horseheads</marc:subfield>
+      <marc:subfield code="v">Diaries.</marc:subfield>
+      <marc:subfield code="9">213582</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Second Great Awakening</marc:subfield>
+      <marc:subfield code="z">New York (State)</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="v">Sources.</marc:subfield>
+      <marc:subfield code="9">213583</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Horseheads (N.Y.)</marc:subfield>
+      <marc:subfield code="v">Biography.</marc:subfield>
+      <marc:subfield code="9">213584</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Horseheads Region (N.Y.)</marc:subfield>
+      <marc:subfield code="x">Social life and customs</marc:subfield>
+      <marc:subfield code="y">19th century</marc:subfield>
+      <marc:subfield code="v">Sources.</marc:subfield>
+      <marc:subfield code="9">213585</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Horseheads Region (N.Y.)</marc:subfield>
+      <marc:subfield code="x">Religious life and customs</marc:subfield>
+      <marc:subfield code="v">Sources.</marc:subfield>
+      <marc:subfield code="9">213586</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">New York (State)</marc:subfield>
+      <marc:subfield code="x">Church history</marc:subfield>
+      <marc:subfield code="v">Sources.</marc:subfield>
+      <marc:subfield code="9">213587</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1="7" ind2=" ">
+      <marc:subfield code="a">Electronic books.</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+      <marc:subfield code="9">201578</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Doty, C. Stewart</marc:subfield>
+      <marc:subfield code="q">(Charles Stewart)</marc:subfield>
+      <marc:subfield code="9">213588</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">ebrary, Inc.</marc:subfield>
+      <marc:subfield code="9">25628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://site.ebrary.com/lib/taylorscollege/Doc?id=10574115</marc:subfield>
+      <marc:subfield code="z">An electronic book accessible through the World Wide Web; click to view</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30207</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

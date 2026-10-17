@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01564cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002886860</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154553</marc:controlfield>
+    <marc:controlfield tag="008">040401s1997    my ae    b    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002886860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201010211709</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201010211706</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201010211658</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">201010211557</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">728.5</marc:subfield>
+      <marc:subfield code="b">OBE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ober, Charles.</marc:subfield>
+      <marc:subfield code="9">16930</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hotel design guide /</marc:subfield>
+      <marc:subfield code="c">by Charles Ober.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Hotel design guide A, B, C</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Pulau Pinang] :</marc:subfield>
+      <marc:subfield code="b">Manual House Penang,</marc:subfield>
+      <marc:subfield code="c">1997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">3 v. :</marc:subfield>
+      <marc:subfield code="b">ill., plans ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Ring binding&amp;quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;Title from cover&amp;quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Guides A &amp;amp; B: Introduction - 1. Administrative. 2. Definitions. 3. Standard requirements. 4. Architectural requirements. 5. Mechanical requirements. 6. Electrical requirements. 7. Plumbing requirements. 8. Interior design quality standards. 9. Miscellaneous design quality standards. 10. Operational design. 11. Hardware systems. 12. Communications. 13. Firesafety guidelines.  - Guide C: Fire and safety guidelines for new hotel construction : Introduction. Synopsis. - Part 1 The Fire. - Part 2 Compartmentation. - Part 3 Detection, Alarm and Communication. - Part 4 Escape. - Part 5 Extinguishment.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hotels</marc:subfield>
+      <marc:subfield code="x">Decoration.</marc:subfield>
+      <marc:subfield code="9">30442</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hotels</marc:subfield>
+      <marc:subfield code="x">Design and construction.</marc:subfield>
+      <marc:subfield code="9">15102</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hotels</marc:subfield>
+      <marc:subfield code="x">Planning.</marc:subfield>
+      <marc:subfield code="9">212403</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 640177 / Guide A ; 640179 / Guide B ; 640178 / Guide C, 153184, 153186, 153185</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30280</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

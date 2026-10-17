@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01424cam a2200301 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003139875</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110845</marc:controlfield>
+    <marc:controlfield tag="008">110218t2007    enka     b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0415397197 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415397193 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003139875</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181341</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201008251317</marc:subfield>
+      <marc:subfield code="d">komathi</marc:subfield>
+      <marc:subfield code="c">200903111702</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">200903111647</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">200901281111</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">363.6909512</marc:subfield>
+      <marc:subfield code="b">CUL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Cultural heritage management in China :</marc:subfield>
+      <marc:subfield code="b">preserving the cities of the Pearl River Delta /</marc:subfield>
+      <marc:subfield code="c">edited by Hilary du Cros and Yok-shiu F. Lee.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London ;</marc:subfield>
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Routledge,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">viii, 170 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge contemporary China series ;</marc:subfield>
+      <marc:subfield code="v">20</marc:subfield>
+      <marc:subfield code="9">32959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. [151]-161) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">The Pearl River Delta : one region, three systems -- The rise of professionalism -- Economic growth and cultural identity -- The human factor and cultural affinity.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cultural property</marc:subfield>
+      <marc:subfield code="x">Protection</marc:subfield>
+      <marc:subfield code="z">China</marc:subfield>
+      <marc:subfield code="z">Hong Kong.</marc:subfield>
+      <marc:subfield code="9">213950</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cultural property</marc:subfield>
+      <marc:subfield code="x">Protection</marc:subfield>
+      <marc:subfield code="z">China</marc:subfield>
+      <marc:subfield code="z">Macau (Special Administrative Region)</marc:subfield>
+      <marc:subfield code="9">213951</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hong Kong (China)</marc:subfield>
+      <marc:subfield code="x">Cultural policy.</marc:subfield>
+      <marc:subfield code="9">213952</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Guangzhou Shi (China)</marc:subfield>
+      <marc:subfield code="x">Cultural policy.</marc:subfield>
+      <marc:subfield code="9">213953</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Du Cros, Hilary.</marc:subfield>
+      <marc:subfield code="9">19239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Lee, Yok-shiu F.</marc:subfield>
+      <marc:subfield code="9">32960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">BLT(DIP): 527928</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30499</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

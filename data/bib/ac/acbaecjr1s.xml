@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>03073nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000078684</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204335</marc:controlfield>
+    <marc:controlfield tag="008">140527t2013    my a   f m    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0007496(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0007795(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000078684</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201906131117</marc:subfield>
+      <marc:subfield code="b">nadia</marc:subfield>
+      <marc:subfield code="c">201905161436</marc:subfield>
+      <marc:subfield code="d">fawwaz</marc:subfield>
+      <marc:subfield code="c">201406020858</marc:subfield>
+      <marc:subfield code="d">training1</marc:subfield>
+      <marc:subfield code="c">201405271109</marc:subfield>
+      <marc:subfield code="d">training1</marc:subfield>
+      <marc:subfield code="y">201405270956</marc:subfield>
+      <marc:subfield code="z">training1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TS155.8 .K86 2013 rs Bc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Ku Mohd Suhail Ku Sulaiman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Overall equipment effectiveness (OEE) measurement analysis at hicom automotive manufacturers (Malaysia) /</marc:subfield>
+      <marc:subfield code="c">Ku Mohd Suhail Ku Sulaiman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi, 100 p. :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Project paper (Bachelor of Manufacturing Engineering) --Universiti Malaysia Pahang - 2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography : p. 70</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">HICOM Automotive Manufacturers (Malaysia) is the company that produce automobile and it painting line have a capacity to produce 60,000 cars per year. Even though it has a high capacity in terms of design capacity, several problems occur in the Paint Shop Department. Problem in this department is the Overall Equipment Effectiveness (OEE) value does not achieve the standard and passable OEE for manufacturing company which is 65% and above. This study&amp;#x2019;s objectives are to identify problem that are affecting OEE measurement, to find suitable approach to increase OEE value and the third objectives is to propose a solution for reducing downtime rate. First method that will be used is to measure the current OEE value for each section. Current OEE value for PTED section is 32.61%, Sealant section is 28.66%, Primer section is 29.31% and the Top Coat section is 33.26%. Problems such as high downtime are more likely make the OEE value drop down. Using several tools for improvement, this problem can be eliminated or reduce. Tools such as control chart were being used to find the points that have problem and pattern that occur in the process. By reviewing the control chart, we can find the root causes of the problem by using Fishbone or Ishikawa Diagram. 5W and 1H Analysis also were being used to focus more on the problem that have high impact on the process thus propose a solution for each problems arise. New target can be achieved by eliminated the point that have high downtime and several improvement actions can be make in order to achieve new target OEE. By reviewing the propose solution, the value of OEE can be increase where PTED section increase to 66.36%, Sealant section increase to 51.92%, Primer section increase to 57.92% and Top Coat section increase to 52.93%. Even though some of section does not achieve the passable OEE value which is 65%-75% after propose solution, each section have improve and this may the first step for making the Paint Shop Department achieving the world class OEE value.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Quality control</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TS155.8 .K86 2013 rs Bc.</marc:subfield>
+      <marc:subfield code="p">80283</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">PSM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">-2</marc:subfield>
+      <marc:subfield code="a">20000</marc:subfield>
+      <marc:subfield code="b">20000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 7746 | TS155.8 .K86 2013 rs Bc.</marc:subfield>
+      <marc:subfield code="p">80284</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">RESTRICT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">332</marc:subfield>
+      <marc:subfield code="d">338</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0201*0400*0900*1000*2450*2600*3000*5020*5040*5200*6500*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

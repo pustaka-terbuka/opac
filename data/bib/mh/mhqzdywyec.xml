@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>03269nam a2200313 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000048444</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204330</marc:controlfield>
+    <marc:controlfield tag="008">101130t2009    enkabe f b    001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415469593 (hardback : alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0415469597 (hardback : alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415469609 (pbk. : alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0415469600 (pbk. : alk. paper)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780203894538 (ebook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0203894537 (ebook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000048444</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201703091043</marc:subfield>
+      <marc:subfield code="b">nazri</marc:subfield>
+      <marc:subfield code="c">201107140031</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201101281104</marc:subfield>
+      <marc:subfield code="d">fauzi</marc:subfield>
+      <marc:subfield code="y">201011301006</marc:subfield>
+      <marc:subfield code="z">shah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">TA705 .W34 2009 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Waltham, Tony</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Foundations of engineering geology /</marc:subfield>
+      <marc:subfield code="c">Tony Waltham</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">3rd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London ;</marc:subfield>
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Spon Press,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">98 p. :</marc:subfield>
+      <marc:subfield code="b">col. ill., maps, plans ;</marc:subfield>
+      <marc:subfield code="c">31 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. 88-91) and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Geology and civil engineering -- Igneous rocks -- Sedimentary processes -- Sedimentary rocks -- Metamorphic rocks -- Geological structures -- Geological maps and sections -- Geological map interpretation -- Plate tectonics -- Boundary hazards -- Rocks of Britain -- Rocks of the United States -- Weathering and soils -- Floodplains and alluvium -- Glacial deposits -- Climatic variants -- Coastal processes -- Groundwater -- Ground investigation -- Desk study -- Ground investigation boreholes -- Geophysical surveys -- Assessment of difficult ground -- Rock strength -- Rock mass strength -- Soil strength -- Ground subsidence -- Subsidence on clays -- Subsidence on limestone -- Subsidence over old mines -- Mining subsidence -- Slope failure and landslides -- Water in landslides -- Soil failures and flowslides -- Landslide hazards -- Slope stabilization -- Rock excavation -- Tunnels in rock -- Stone and aggregate</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="1" ind2=" ">
+      <marc:subfield code="a">&quot;Now in full colour, the third edition of this well-established book provides a readable and highly illustrated overview of the aspects of geology that are most significant to civil engineers.&quot; &quot;Sections in the book include those devoted to the main rock types, weathering, ground investigation, rock mass strength, failures of old mines, subsidence on peats and clays, sinkholes on limestone and chalk, water in landslides, slope stabilization and understanding ground conditions. The roles of both natural and man-induced processes are assessed, and this understanding is developed into an appreciation of the geological environments potentially hazardous to civil engineering and construction projects.&quot; &quot;For each style of difficult ground, available techniques of site investigation and remediation are reviewed and evaluated. Each topic is presented as a double page spread with a careful mix of text and diagrams, with tabulated reference material on parameters such as bearing strength of soils and rocks. This new edition of Foundations of Engineering Geology has been comprehensively updated and covers the entire spectrum of topics of interest for both students and practitioners in the field of civil engineering.&quot;--BOOK JACKET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Engineering geology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="g">357.93</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TA705 .W34 2009 f</marc:subfield>
+      <marc:subfield code="p">53470</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="v">357.93</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">174</marc:subfield>
+      <marc:subfield code="d">180</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0201*0202*0203*0204*0205*0400*0900*1000*2450*2500*2600*3000*5040*5050*5200*6500*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

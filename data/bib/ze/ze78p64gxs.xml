@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01548cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002871860</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154546</marc:controlfield>
+    <marc:controlfield tag="008">110218s2004    flua     b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0849310938 (hbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002871860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906181153</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181514</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200502151648</marc:subfield>
+      <marc:subfield code="d">kusuma</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">621.3822</marc:subfield>
+      <marc:subfield code="b">ELA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">El-Ali, Taan Said,</marc:subfield>
+      <marc:subfield code="d">1963-</marc:subfield>
+      <marc:subfield code="9">16876</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Discrete systems and digital signal processing with MATLAB /</marc:subfield>
+      <marc:subfield code="c">Taan S. ElAli</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boca Raton, Fla. :</marc:subfield>
+      <marc:subfield code="b">CRC Press,</marc:subfield>
+      <marc:subfield code="c">c2004.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">667 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Electrical engineering textbook series / Richard C. Dorf, series editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1.  Signal representation.  - 2.  The discrete system.  - 3.  The fourier series and the fourier transform of discrete signals.  - 4.  The z-transform and discrete systems.  - 5. State-space and discrete systems.  - 6.  Modeling and representaion of discrete linear systems.  - 7.  The discrete fourier transform and discrete systems.  - 8.  Analogue filter design.  - 9.  Transformations between continuous and discrete representations.  10.  Infinite impulse response (IIR) filter design.  - 11.  Finite impulse response (FIR) digital filters.  - References.  - Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="630" ind1="0" ind2="0">
+      <marc:subfield code="a">MATLAB.</marc:subfield>
+      <marc:subfield code="9">39069</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Signal processing</marc:subfield>
+      <marc:subfield code="x">Digital techniques</marc:subfield>
+      <marc:subfield code="x">Mathematics.</marc:subfield>
+      <marc:subfield code="9">213478</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Dorf, Richard C.</marc:subfield>
+      <marc:subfield code="9">47243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">ENG(UOS) : 31724, 31725</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">CIT (RMIT) : 546708</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30110</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

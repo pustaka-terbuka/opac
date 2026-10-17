@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01266nam a2200313 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003277290</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20240103110539</marc:controlfield>
+    <marc:controlfield tag="008">190624s2012    enka          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781902686776</marc:subfield>
+      <marc:subfield code="q">paperback</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003277290</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201908191058</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201906241510</marc:subfield>
+      <marc:subfield code="d">malathy</marc:subfield>
+      <marc:subfield code="y">201906241450</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">CDX</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">CDX</marc:subfield>
+      <marc:subfield code="d">OCLCO</marc:subfield>
+      <marc:subfield code="d">UKMGB</marc:subfield>
+      <marc:subfield code="d">BAZ</marc:subfield>
+      <marc:subfield code="d">UKWOH</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">YDXCP</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">H9Z</marc:subfield>
+      <marc:subfield code="d">OCLCF</marc:subfield>
+      <marc:subfield code="d">OCLCA</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">FOLLT</marc:subfield>
+      <marc:subfield code="d">GBVCP</marc:subfield>
+      <marc:subfield code="d">TXSCH</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">TUL</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="1" ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+      <marc:subfield code="h">fre</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">749</marc:subfield>
+      <marc:subfield code="b">DRO 2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Drouet, Aurélie</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">213407</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="240" ind1="1" ind2="0">
+      <marc:subfield code="a">100 % déco.</marc:subfield>
+      <marc:subfield code="l">English</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">100% pallet :</marc:subfield>
+      <marc:subfield code="b">from freight to furniture : 21 DIY designer projects /</marc:subfield>
+      <marc:subfield code="c">Aurélie Drouet ; photography, Jérôme Blin.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">One hundred per cent pallet from freight to furniture</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Scriptum Editions,</marc:subfield>
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">191 pages :</marc:subfield>
+      <marc:subfield code="b">colour illustrations ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Furniture design.</marc:subfield>
+      <marc:subfield code="9">203343</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Salvage (Waste, etc.) in interior decoration.</marc:subfield>
+      <marc:subfield code="9">213408</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Pallets (Shipping, storage, etc.)</marc:subfield>
+      <marc:subfield code="9">213409</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Blin, Jérôme</marc:subfield>
+      <marc:subfield code="e">photographer.</marc:subfield>
+      <marc:subfield code="9">213410</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TDS : 235279</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30056</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

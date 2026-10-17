@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01898cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002880660</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154550</marc:controlfield>
+    <marc:controlfield tag="008">110218s1994    njua          001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">013095795X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002880660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201906141035</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181245</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271959</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">647.94068</marc:subfield>
+      <marc:subfield code="b">GRA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Gray, William S.,</marc:subfield>
+      <marc:subfield code="d">1936 -</marc:subfield>
+      <marc:subfield code="9">16914</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hotel and motel management and operations /</marc:subfield>
+      <marc:subfield code="c">Wiliam S. Gray, Salvatore C. Liguori.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">3rd ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Englewood Cliffs, N.J. :</marc:subfield>
+      <marc:subfield code="b">Prentice Hall,</marc:subfield>
+      <marc:subfield code="c">c1994.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 346 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Section 1 Hotel and motel development: 1. The history of the hospitality industry. 2. Types of hotels.  3. Corporate structures and concepts of operation. 4. Feasibility determination. - Section II Hotel management: 5. Hotel structure and staff. 6. Staffing a hotel: the personnel department. 7. Reservations: systems and operations. 8. Sales and public relations. - Section III Hotel operations: 9. The front office. 10. Food and beverage preparation and service. 11. The telephone department. 12. Engineering. 13. Housekeeping. 14. Other departments and sources of income. 15. Insurance. - Section IV Hotel accounting and controls: 16. The uniform system of accounts. 17. The organization of accounting. 18. Income control. 19. Food and beverage cost control. 20. Payroll. 21. Accounts payable. 22. Credit. 23. Financial statements: structure and analysis. - Section V: The future of the industry: 24. Franchising. 25. Casinos. 26. Health Spas. 27. Trends in the industry. Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Casinos</marc:subfield>
+      <marc:subfield code="x">Management.</marc:subfield>
+      <marc:subfield code="9">14260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Health resorts</marc:subfield>
+      <marc:subfield code="x">Management.</marc:subfield>
+      <marc:subfield code="9">16915</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hotel management.</marc:subfield>
+      <marc:subfield code="9">205706</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Motel management.</marc:subfield>
+      <marc:subfield code="9">14430</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Liguori, Salvatore C.,</marc:subfield>
+      <marc:subfield code="d">1909 -</marc:subfield>
+      <marc:subfield code="9">213576</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 665083</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30205</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

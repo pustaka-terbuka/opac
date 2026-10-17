@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>04281ntm a2200373 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000105474</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204340</marc:controlfield>
+    <marc:controlfield tag="008">190212t20182018my a   f am   000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">THE0000110(Local)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000105474</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201905131151</marc:subfield>
+      <marc:subfield code="b">nazirah</marc:subfield>
+      <marc:subfield code="y">201902121211</marc:subfield>
+      <marc:subfield code="z">saini</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">UMP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">FIST .A36 2018 r Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nurul Ain Manshor,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Structural and optical characterizations of methyl ammonium lead halide perovskite embedded polymer films /</marc:subfield>
+      <marc:subfield code="c">Nurul Ain Manshor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuantan, Pahang :</marc:subfield>
+      <marc:subfield code="b">UMP,</marc:subfield>
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="4">
+      <marc:subfield code="c">&amp;#xA9; 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 98 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations (some color) ;</marc:subfield>
+      <marc:subfield code="c">30 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">computer disc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="347" ind1=" " ind2=" ">
+      <marc:subfield code="a">text file</marc:subfield>
+      <marc:subfield code="b">PDF</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Faculty of Industrial Sciences and Technology</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thesis (Master of Science in Advanced Materials) -- Universiti Malaysia Pahang &amp;#x2013; 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="3" ind2=" ">
+      <marc:subfield code="a">Perovskite solar cells (PSCs) made using methylammonium lead iodide (MAPbI3) perovskite is currently under intensive investigation by the clean and sustainable energy research community. This is because many advantages they offer, such as (i) solution processability and hence lower cost, (ii) feasibility to be fabricated in diverse device designs, (iii) workability under low-light conditions, and (iv) high photovoltaic conversion efficiency (~22%). However, their operational stability is very poor, only few hours under normal operating conditions, and they show a hysteresis in their current &amp;#x2013; voltage characteristics when the measurements are done at forward and reverse bias conditions. It is hypothesized in this research that the poor operational stability is due to the volatile nature of the methylammonium ions in the crystals and stabilizing them could lead to stable PSCs. Synthetic polymers are very stable under atmospheric conditions and encapsulating the MAPbI3 perovskites in a polymer could be an efficient method to improve their stability. Following this argument, this thesis describes synthesis and characterization of MAPbI3 embedded polyvinylpyrrolidone (PVP) polymeric films. In this research work, four films were produced (i) pure MAPbI3 with 0 wt.% PVP, (ii) MAPbI3 in 5 wt.% PVP, (iii) MAPbI3 in 10 wt.% PVP, (iv) MAPbI3 in 20 wt.% PVP. 20 wt.% of PVP reported retained its optical and structural characteristics in dark for ~2000 h and ~800 h in room light which is noticeably higher than pure perovskite film which fully degraded in 600 h in dark and less than 100 h when exposed to light. The MAPbI3 crystals dissolved in DMF were dispersed in the above amount of polymers and developed into films on 500 nm TiO2 coated glass plates by spin coating. The structural and optical properties of the films as a function of time (up to 2000 h) under light and dark were studied by X-ray diffraction (XRD), Fourier-Transform Infrared spectroscopy (FTIR), Scanning Electron Microscopy (SEM), Ultra-Violet Visible (UV-Vis) absorption spectrometry, and Photoluminescence spectroscopy (PL). Minor degradation in perovskite films stored in humid dark environment were observed whereas upon exposure to light, the films undergo a drastic degradation, primarily owing to the reactive TiO2/perovskite interface and also the surface defects of TiO2. The superior stability of PVP incorporated perovskite films are attributed to improved structural stability of MAPbI3 and also the improved TiO2/perovskite interface upon incorporating a polymer matrix. A charge injection from the polymer embedded perovskite films has also been confirmed by fabricating solar cells using them; thereby providing a promising future research pathway on stable and efficient perovskite solar cells.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Faculty of Industrial Sciences and Technology</marc:subfield>
+      <marc:subfield code="x">Dissertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Universities and colleges</marc:subfield>
+      <marc:subfield code="x">Disertations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Theses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">FIST .A36 2018 r Thesis</marc:subfield>
+      <marc:subfield code="p">126548</marc:subfield>
+      <marc:subfield code="r">2022-04-13 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">lcc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">6</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">CD 11526 | FIST .A36 2018 r Thesis</marc:subfield>
+      <marc:subfield code="p">126549</marc:subfield>
+      <marc:subfield code="r">2019-09-04 00:00:00</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">THESIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">475</marc:subfield>
+      <marc:subfield code="d">481</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0400*0900*1000*2450*2640*2641*3000*3360*3361*3370*3371*3380*3381*3470*5000*5020*5040*5200*6100*6500*6501*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

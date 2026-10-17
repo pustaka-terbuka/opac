@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02528cgm a2200505 i 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003257524</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154603</marc:controlfield>
+    <marc:controlfield tag="007">vd cvaizz</marc:controlfield>
+    <marc:controlfield tag="008">140922p20132013cau149        s00 vleng d</marc:controlfield>
+    <marc:datafield tag="024" ind1="1" ind2=" ">
+      <marc:subfield code="z">9555275656991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003257524</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201809071354</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201511121832</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201511050926</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201507221142</marc:subfield>
+      <marc:subfield code="d">malathy</marc:subfield>
+      <marc:subfield code="y">201409221226</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="1" ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+      <marc:subfield code="j">may</marc:subfield>
+      <marc:subfield code="h">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">791.4372</marc:subfield>
+      <marc:subfield code="b">LON 2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="130" ind1="0" ind2=" ">
+      <marc:subfield code="a">Lone Ranger (Motion picture : 2013)</marc:subfield>
+      <marc:subfield code="9">213907</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The Lone Ranger /</marc:subfield>
+      <marc:subfield code="c">Disney and Jerry Bruckheimer Films present a Blind Wink/Infinitum Nihil production ; a Gore Verbinski film ; produced by Jerry Bruckheimer, Gore Verbinski ; directed by Gore Verbinski.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="2" ind2=" ">
+      <marc:subfield code="a">[Burbank, California] :</marc:subfield>
+      <marc:subfield code="b">Buena Vista Home Entertainment,</marc:subfield>
+      <marc:subfield code="c">[2013]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="2" ind2=" ">
+      <marc:subfield code="a">Selangor, Malaysia :</marc:subfield>
+      <marc:subfield code="b">HVN Entertainment Sdn. Bhd.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="4" ind2=" ">
+      <marc:subfield code="c">©2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 videodisc (approximately 149 min.) :</marc:subfield>
+      <marc:subfield code="b">sound, colour ;</marc:subfield>
+      <marc:subfield code="c">4 3/4 in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">two-dimensional moving image</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">video</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">videodisc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="344" ind1=" " ind2=" ">
+      <marc:subfield code="a">digital</marc:subfield>
+      <marc:subfield code="b">optical</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="347" ind1=" " ind2=" ">
+      <marc:subfield code="a">video file</marc:subfield>
+      <marc:subfield code="b">DVD video</marc:subfield>
+      <marc:subfield code="e">region 3</marc:subfield>
+      <marc:subfield code="2">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Disney DVD.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Originally released as a motion picture in 2013.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="511" ind1="1" ind2=" ">
+      <marc:subfield code="a">Johnny Depp, Armie Hammer, William Fichtner, Tom Wilkinson, Barry Pepper, James Badge Dale, Helena Bonham Carter.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A thrilling adventure infused with action and humor, in which the famed masked hero is brought to life through new eyes. Native American spirit warrior Tonto recounts the untold tales that transformed John Reid, a man of the law, into a legend of justice -- taking the audience on a runaway train of epic surprises and humorous friction as the two unlikely heroes must learn to work together and fight against greed and corruption.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">DVD, region 3, NTSC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In English with Malay subtitles embeded</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Lone Ranger (Fictitious character)</marc:subfield>
+      <marc:subfield code="v">Drama.</marc:subfield>
+      <marc:subfield code="9">213908</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Tonto (Fictitious character)</marc:subfield>
+      <marc:subfield code="v">Drama.</marc:subfield>
+      <marc:subfield code="9">213909</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bruckheimer, Jerry</marc:subfield>
+      <marc:subfield code="9">213910</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Verbinski, Gore</marc:subfield>
+      <marc:subfield code="9">213911</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Depp, Johnny</marc:subfield>
+      <marc:subfield code="9">85509</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hammer, Armie,</marc:subfield>
+      <marc:subfield code="d">1986-</marc:subfield>
+      <marc:subfield code="9">213912</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fichtner, William</marc:subfield>
+      <marc:subfield code="9">213913</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wilkinson, Tom,</marc:subfield>
+      <marc:subfield code="d">1948-</marc:subfield>
+      <marc:subfield code="9">28894</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Buena Vista Home Entertainment (Firm)</marc:subfield>
+      <marc:subfield code="9">15579</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">HVN Entertainment Sdn. Bhd. (Firm)</marc:subfield>
+      <marc:subfield code="9">213914</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">Disney DVD</marc:subfield>
+      <marc:subfield code="9">213915</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GENLS : 213556</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30465</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

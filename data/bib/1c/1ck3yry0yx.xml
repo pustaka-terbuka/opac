@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01353nam a2200349Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003243049</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154605</marc:controlfield>
+    <marc:controlfield tag="006">m        u</marc:controlfield>
+    <marc:controlfield tag="007">cr cn|||||||||</marc:controlfield>
+    <marc:controlfield tag="008">121009s2009    ilu     sb   s000 0 eng d</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="z">2008-012691</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">252033566</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9780252033568</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9780252090707</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)785781208</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(CaPaEBR)ebr10532362</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003243049</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="y">201210090950</marc:subfield>
+      <marc:subfield code="z">wilmina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">CaPaEBR</marc:subfield>
+      <marc:subfield code="c">CaPaEBR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="1" ind2="4">
+      <marc:subfield code="a">F539</marc:subfield>
+      <marc:subfield code="b">.C35 2009eb</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Callary, Edward.</marc:subfield>
+      <marc:subfield code="9">213961</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Place names of Illinois</marc:subfield>
+      <marc:subfield code="h">[electronic resource] /</marc:subfield>
+      <marc:subfield code="c">Edward Callary.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Urbana :</marc:subfield>
+      <marc:subfield code="b">University of Illinois Press,</marc:subfield>
+      <marc:subfield code="c">c2009.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxvii, 425 p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. [393]-425).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="533" ind1=" " ind2=" ">
+      <marc:subfield code="a">Electronic reproduction.</marc:subfield>
+      <marc:subfield code="b">Palo Alto, Calif. :</marc:subfield>
+      <marc:subfield code="c">ebrary,</marc:subfield>
+      <marc:subfield code="d">2011</marc:subfield>
+      <marc:subfield code="n">Available via World Wide Web.</marc:subfield>
+      <marc:subfield code="n">Access may be limited to ebrary affiliated libraries.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Names, Geographical</marc:subfield>
+      <marc:subfield code="z">Illinois.</marc:subfield>
+      <marc:subfield code="9">213962</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Illinois</marc:subfield>
+      <marc:subfield code="x">Geography.</marc:subfield>
+      <marc:subfield code="9">213963</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1="7" ind2=" ">
+      <marc:subfield code="a">Electronic books.</marc:subfield>
+      <marc:subfield code="2">local</marc:subfield>
+      <marc:subfield code="9">201578</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">ebrary, Inc.</marc:subfield>
+      <marc:subfield code="9">25628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://site.ebrary.com/lib/taylorscollege/Doc?id=10532362</marc:subfield>
+      <marc:subfield code="z">An electronic book accessible through the World Wide Web; click to view</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30502</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

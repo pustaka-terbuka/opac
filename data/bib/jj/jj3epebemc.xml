@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01549cam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003153586</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154550</marc:controlfield>
+    <marc:controlfield tag="008">110218t2010    caudao        001 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0495561819 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780495561811 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003153586</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181405</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="c">201011031218</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="c">200910281307</marc:subfield>
+      <marc:subfield code="d">Irma</marc:subfield>
+      <marc:subfield code="c">200910280923</marc:subfield>
+      <marc:subfield code="d">radtha</marc:subfield>
+      <marc:subfield code="y">200910270942</marc:subfield>
+      <marc:subfield code="z">radtha</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">612</marc:subfield>
+      <marc:subfield code="b">STA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Starr, Cecie.</marc:subfield>
+      <marc:subfield code="9">3496</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Human biology /</marc:subfield>
+      <marc:subfield code="c">Cecie Starr, Beverly McMillan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">8th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Belmont, CA :</marc:subfield>
+      <marc:subfield code="b">Brooks/Cole, Cengage Learning,</marc:subfield>
+      <marc:subfield code="c">c2010.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 v. (various pagings) :</marc:subfield>
+      <marc:subfield code="b">col. ill., col. maps ;</marc:subfield>
+      <marc:subfield code="c">28 cm. +</marc:subfield>
+      <marc:subfield code="e">1 CD-ROM (4 3/4 in.).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Learning about human biology. - Chemistry of life. - Cells and how they work. - Tissues, organs, and organ systems. - The skeletal system. - The muscular system. - Circulation: the heart and blood vessels. - Blood. - Immunity and disease. - The respiratory system. - Digestion and nutrition. - The urinary system. - The nervous system. - Sensory systems. - The endocrine system. - Reproductive systems. - Development and aging. - Cell reproduction. - Introduction to genetics. - Chromosomes and human genetics. - DNA, genes, and biotechnology. - Genes and disease: cancer. - Principles of evolution. - Principles of ecology. - Human impacts on the biosphere.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Human biology.</marc:subfield>
+      <marc:subfield code="9">205294</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">McMillan, Beverly.</marc:subfield>
+      <marc:subfield code="9">7444</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">BMS : 138274, 146655</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30206</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

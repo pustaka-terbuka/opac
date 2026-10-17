@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01235nam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">vtls002871560</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20250619110819</marc:controlfield>
+    <marc:controlfield tag="008">110218                       00    bm</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9679120651 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002871560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201102181629</marc:subfield>
+      <marc:subfield code="b">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">920.0595114</marc:subfield>
+      <marc:subfield code="b">TOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Tokoh-tokoh Batu Gajah, Perak</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cet. 1.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Arkib Negara Malaysia,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 392 p., [14] p. of plates :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.), col. map. ;</marc:subfield>
+      <marc:subfield code="c">26 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1.  Titah Perutusan.  - 2.  Kata-kata Aluan.  - 3.  Prakata.  - 4.  Pendahuluan.  - 5.  Singkatan.  - 6.  &amp;quot;Sejarah Batu Gajah&amp;quot; oleh Tuan Haji Mohd Zain Zon, Naib President Persatuan Sejarah Malaysia Cawangan Perak Darul Ridzuan.  - 7.  Biografi Duli Yang Maha Mulia Seri Sultan Azlan Muhibbuddin Shah ibni Almarhum Sultan Yusuff Izzuddin Shah Ghafaullahu-Lah.  - 8.  Tokoh-Tokoh Batu Gajah.  - 9.  Lampiran.  - 10.  Bibliografi.  - 11.  Indeks.  - 12.  Penghargaan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In Malay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Batu Gajah (Perak)</marc:subfield>
+      <marc:subfield code="x">Biography.</marc:subfield>
+      <marc:subfield code="9">213472</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="0" ind2=" ">
+      <marc:subfield code="a">Batu Gajah (Perak)</marc:subfield>
+      <marc:subfield code="x">History.</marc:subfield>
+      <marc:subfield code="9">213473</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Arkib Negara Malaysia.</marc:subfield>
+      <marc:subfield code="9">16874</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LCS : 280336</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="n">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30107</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

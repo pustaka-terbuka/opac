@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01666cam a2200325 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002869760</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200226103930</marc:controlfield>
+    <marc:controlfield tag="006">innn</marc:controlfield>
+    <marc:controlfield tag="007">sd fungnnmluuu</marc:controlfield>
+    <marc:controlfield tag="008">120220s2002    enka          000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780521013376 (pbk. : with answers and 2 audio CDs)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780521013369 (sound discs)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002869760</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201307170855</marc:subfield>
+      <marc:subfield code="b">izani</marc:subfield>
+      <marc:subfield code="c">201203260834</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201203251645</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="c">201203231649</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="y">200407271958</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">428.24076</marc:subfield>
+      <marc:subfield code="b">CAM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Cambridge IELTS.</marc:subfield>
+      <marc:subfield code="n">3 :</marc:subfield>
+      <marc:subfield code="b">examination papers from the University of Cambridge Local Examinations Syndicate.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">iv, 172 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">25 cm. +</marc:subfield>
+      <marc:subfield code="e">2 sound discs (digital ; 4 3/4 in.).</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;quot;With answers edition.&amp;quot;.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">International English Language Testing System</marc:subfield>
+      <marc:subfield code="v">Study guides.</marc:subfield>
+      <marc:subfield code="9">30877</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Examinations, questions, etc.</marc:subfield>
+      <marc:subfield code="9">13296</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers.</marc:subfield>
+      <marc:subfield code="9">10818</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">University of Cambridge.</marc:subfield>
+      <marc:subfield code="b">Local Examinations Syndicate.</marc:subfield>
+      <marc:subfield code="9">7964</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">GEN : 64536, 64634, 64531, 64529, 64528, 64527, 64535, 64533, 64532, 64530, 64517, 64521, 64520, 64519, 64518, 64522, 64526, 64523, 64524, 64525, 64537, 64539, 64540, 64538, 64541,</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="921" ind1=" " ind2=" ">
+      <marc:subfield code="a">SHT : 84073, 84074, 84072, 179688, 179689, 179690, 180084, 180085, 180086</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="922" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAC : 143517, 135844, 137120, 135845, 137121, 78851, 78849, 78852, 78850, 135811, 135810</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="923" ind1=" " ind2=" ">
+      <marc:subfield code="a">LACLS : 153352</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="924" ind1=" " ind2=" ">
+      <marc:subfield code="a">GENLS : 89975, 89976, 69975, 74094, 69974, 74095</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="925" ind1=" " ind2=" ">
+      <marc:subfield code="a">TBF : 199959, 199957, 199960, 199958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30064</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

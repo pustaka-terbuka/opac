@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01776nam a2200373 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000053276</marc:controlfield>
+    <marc:controlfield tag="003">KUKTEM</marc:controlfield>
+    <marc:controlfield tag="005">20251114204330</marc:controlfield>
+    <marc:controlfield tag="008">110531t2010    enkac  f b    001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781847355539</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1847355536</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UMPSA)vtls000053276</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201904251539</marc:subfield>
+      <marc:subfield code="b">AUTHORITY</marc:subfield>
+      <marc:subfield code="c">201703081618</marc:subfield>
+      <marc:subfield code="d">nazri</marc:subfield>
+      <marc:subfield code="c">201110061158</marc:subfield>
+      <marc:subfield code="d">fauzi</marc:subfield>
+      <marc:subfield code="c">201107140011</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">201105311114</marc:subfield>
+      <marc:subfield code="z">irma</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UMP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">RS200 .E98 2010 f</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="111" ind1="2" ind2=" ">
+      <marc:subfield code="a">Extractables &amp; Leachables for Pharmaceutical Products</marc:subfield>
+      <marc:subfield code="n">(3rd :</marc:subfield>
+      <marc:subfield code="d">2010 :</marc:subfield>
+      <marc:subfield code="c">London, UK)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Extractables &amp; Leachables for Pharmaceutical Products 2010 :</marc:subfield>
+      <marc:subfield code="b">14-15 September 2010, London /</marc:subfield>
+      <marc:subfield code="c">organised by iSmithers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Extractables and Leachables for Pharmaceutical Products 2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="8">
+      <marc:subfield code="a">Extractables &amp; Leachables for Pharmaceutical Products 2010 :</marc:subfield>
+      <marc:subfield code="b">conference proceedings</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Shawbury, Shrewsbury, Shropshire, UK :</marc:subfield>
+      <marc:subfield code="b">Smithers Rapra Technology,</marc:subfield>
+      <marc:subfield code="c">c2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 v. (various pagings) :</marc:subfield>
+      <marc:subfield code="b">ill., ports. ;</marc:subfield>
+      <marc:subfield code="c">30 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;3rd International Conference, 14-15 September 2010, London, UK, conference proceedings&quot;--Cover</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Drugs</marc:subfield>
+      <marc:subfield code="x">Dosage forms</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Leachate</marc:subfield>
+      <marc:subfield code="x">Health aspects</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Drug stability</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Drug delivery systems</marc:subfield>
+      <marc:subfield code="x">Safety measures</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Pharmaceutical technology</marc:subfield>
+      <marc:subfield code="x">Quality control</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Pharmaceutical industry</marc:subfield>
+      <marc:subfield code="x">Quality control</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Pharmaceutical policy</marc:subfield>
+      <marc:subfield code="v">Congresses</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">iSmithers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Rapra Technology Limited</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1="0" ind2="0">
+      <marc:subfield code="0">1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">10000</marc:subfield>
+      <marc:subfield code="b">10000</marc:subfield>
+      <marc:subfield code="d">2019-09-04</marc:subfield>
+      <marc:subfield code="g">461.88</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">RS200 .E98 2010 f</marc:subfield>
+      <marc:subfield code="p">59680</marc:subfield>
+      <marc:subfield code="r">2019-12-16 00:00:00</marc:subfield>
+      <marc:subfield code="s">2019-12-11</marc:subfield>
+      <marc:subfield code="t">1</marc:subfield>
+      <marc:subfield code="v">461.88</marc:subfield>
+      <marc:subfield code="w">2019-09-04</marc:subfield>
+      <marc:subfield code="y">OPEN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">umpsa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VIRTUA40</marc:subfield>
+      <marc:subfield code="c">175</marc:subfield>
+      <marc:subfield code="d">181</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">VTLSSORT0080*0200*0201*0400*0900*1110*2450*2460*2461*2600*3000*5000*5040*6500*6501*6502*6503*6504*6505*6506*7100*7101*9992</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

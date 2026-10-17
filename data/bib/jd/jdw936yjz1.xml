@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01841cam a2200229 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003031622</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200306154551</marc:controlfield>
+    <marc:controlfield tag="008">110218s2001    ii a          001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">8175120177 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003031622</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">202001301728</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201102181623</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">200907231536</marc:subfield>
+      <marc:subfield code="d">siew</marc:subfield>
+      <marc:subfield code="e">ng</marc:subfield>
+      <marc:subfield code="c">200611091628</marc:subfield>
+      <marc:subfield code="d">pushpa</marc:subfield>
+      <marc:subfield code="y">200611061546</marc:subfield>
+      <marc:subfield code="z">malathy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">647.940688</marc:subfield>
+      <marc:subfield code="b">WEA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wearne, Neil.</marc:subfield>
+      <marc:subfield code="9">206229</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hospitality marketing /</marc:subfield>
+      <marc:subfield code="c">Neil Wearne.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New Delhi, India :</marc:subfield>
+      <marc:subfield code="b">Global Books &amp;amp; Subscription Services,</marc:subfield>
+      <marc:subfield code="c">2001</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi, 352 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">25 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction -- 1. The marketing function -- 2. The marketing environment -- 3. The marketing mix -- 4. Market analysis -- 5. Segmentation by purchase motivations -- 6. The customer mix -- 7. Target marketing -- 8. The product mix -- 9. The service concept -- 10. Service strategies -- 11. Marketing management -- 12. The planning discipline -- 13. The marketing audit -- 14. The marketing information system -- 15. Market and marketing research -- 16. Sustainable competitive advantage -- 17. Positioning -- 18. Local hotel strategies -- 19. Positioning strategies -- 20. Strategic solutions -- 21. Growth strategies -- 22. Pricing strategies -- 23. Promotion strategies -- 24. In-reach sales tactics -- 25. Out-reach sales tactics -- 26. Advertising strategies -- 27. Advertising: creative strategies -- 28. Advertising: media and budgets -- 29. Sales promotion, publicity strategies -- 30. Direct marketing strategies -- 31. Product development strategies -- 32. Forecasting market demand -- 33. Product strategies -- Index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hospitality industry</marc:subfield>
+      <marc:subfield code="x">Marketing.</marc:subfield>
+      <marc:subfield code="9">11718</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Advertising</marc:subfield>
+      <marc:subfield code="x">Hospitality industry.</marc:subfield>
+      <marc:subfield code="9">20387</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Hospitality industry</marc:subfield>
+      <marc:subfield code="x">Management.</marc:subfield>
+      <marc:subfield code="9">5110</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">TCHT : 641672</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30236</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

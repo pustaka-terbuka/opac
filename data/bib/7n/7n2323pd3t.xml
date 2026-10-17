@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01633cam a2200385Ia 4500</marc:leader>
+    <marc:controlfield tag="001">vtls003250434</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20200508124507</marc:controlfield>
+    <marc:controlfield tag="006">m     o  d</marc:controlfield>
+    <marc:controlfield tag="007">cr cnu---unuuu</marc:controlfield>
+    <marc:controlfield tag="008">160405s2010    nyu     ob    001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780203854495 (ebk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0203854497 (ebk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">415473268</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780415473262</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9780415473262</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="024" ind1="8" ind2=" ">
+      <marc:subfield code="a">9786612586873</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)643053639</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)ocn643053639</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls003250434</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201604051604</marc:subfield>
+      <marc:subfield code="b">shuhada</marc:subfield>
+      <marc:subfield code="c">201604051549</marc:subfield>
+      <marc:subfield code="d">shuhada</marc:subfield>
+      <marc:subfield code="y">201302041131</marc:subfield>
+      <marc:subfield code="z">shuhada</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">658.8</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Skalen, Per.</marc:subfield>
+      <marc:subfield code="9">213461</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Managing service firms</marc:subfield>
+      <marc:subfield code="h">[electronic resource] :</marc:subfield>
+      <marc:subfield code="b">the power of managerial marketing /</marc:subfield>
+      <marc:subfield code="c">by Per Skalen.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York, NY :</marc:subfield>
+      <marc:subfield code="b">Routledge,</marc:subfield>
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 online resource (xii, 185 p.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Routledge interpretive marketing research ;</marc:subfield>
+      <marc:subfield code="v">v. 11</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="588" ind1=" " ind2=" ">
+      <marc:subfield code="a">Description based on print version record.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Service industries.</marc:subfield>
+      <marc:subfield code="9">206013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Marketing</marc:subfield>
+      <marc:subfield code="x">Management.</marc:subfield>
+      <marc:subfield code="9">8897</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="655" ind1="4" ind2=" ">
+      <marc:subfield code="a">Electronic books.</marc:subfield>
+      <marc:subfield code="9">201578</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1="0" ind2="8">
+      <marc:subfield code="i">Print version:</marc:subfield>
+      <marc:subfield code="a">Skålén, Per.</marc:subfield>
+      <marc:subfield code="t">Managing service firms.</marc:subfield>
+      <marc:subfield code="d">New York, NY : Routledge, 2010</marc:subfield>
+      <marc:subfield code="z">9780415473262</marc:subfield>
+      <marc:subfield code="w">(DLC)  2009040648</marc:subfield>
+      <marc:subfield code="w">(OCoLC)449284376</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1="0" ind2=" ">
+      <marc:subfield code="a">Routledge interpretive marketing research ;</marc:subfield>
+      <marc:subfield code="v">v. 11.</marc:subfield>
+      <marc:subfield code="9">213462</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">https://ezproxy.taylors.edu.my/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;scope=site&amp;amp;db=nlebk&amp;amp;db=nlabk&amp;amp;AN=316460</marc:subfield>
+      <marc:subfield code="z">An electronic book accessible through the World Wide Web; click to view</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30102</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

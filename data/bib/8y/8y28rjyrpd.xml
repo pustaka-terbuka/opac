@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02775nam a2200373 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls002904960</marc:controlfield>
+    <marc:controlfield tag="003">MY-SjTCS</marc:controlfield>
+    <marc:controlfield tag="005">20220614161339</marc:controlfield>
+    <marc:controlfield tag="008">110218s1997    enka          000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521628628 (Student&apos;s book)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7560021336 (Student&apos;s book)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7560021409 (Workbook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0521628547 (Cassettes)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(TAYLORS)vtls002904960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1="9" ind2=" ">
+      <marc:subfield code="a">201204241431</marc:subfield>
+      <marc:subfield code="b">wilmina</marc:subfield>
+      <marc:subfield code="c">201102181622</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181622</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="c">201102181410</marc:subfield>
+      <marc:subfield code="d">VLOAD</marc:subfield>
+      <marc:subfield code="y">200407272000</marc:subfield>
+      <marc:subfield code="z">VLOAD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">428.24</marc:subfield>
+      <marc:subfield code="b">RIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Richards, Jack C.</marc:subfield>
+      <marc:subfield code="9">4954</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">New interchange.</marc:subfield>
+      <marc:subfield code="n">2 :</marc:subfield>
+      <marc:subfield code="b">English for international communication : student&apos;s book /</marc:subfield>
+      <marc:subfield code="c">Jack C. Richards with Jonathan Hull and Susan Proctor.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Press,</marc:subfield>
+      <marc:subfield code="c">1997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 v. (various pagings) :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">28 cm. +</marc:subfield>
+      <marc:subfield code="e">3 sound cassettes + 1 workbook (iv, 96 p. ; 28 cm.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Rev ed. of : Interchange : English for international communication : student&apos;s book 2. 1991.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">LC1251 - LC1256 published in China.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Unit 1.  A time to remember.  - Unit 2.  Caught in the rush.  - Unit 3.  Time for a change?  - Unit 4.  I&apos;ve never heard of that!.  - Unit 5.  Going places.  - Unit 6.  Sure. No problem!  - Unit 7.  What&apos;s this for?  - Unit 8.  Let&apos;s celebrate!  - Unit 9.  Back to the future.  - Unit 10.  I don&apos;t like working on weekends!  - Unit 11.  It&apos;s really worth seeing!  - Unit 12.  It&apos;s been a long time!  - Unit 13.  A terrific book, but a terrible movie!  - Unit 14.  So that&apos;s what it means!  - Unit 15.  What would you do?  - Unit 16.  What&apos;s your excuse?  - Unit summaries.  - Appendix.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">3 sound cassettes : New interchange : 2 : class audio cassettes [by] Jack C. Richards with Jonathan Hull and Susan Proctor : Cassette 1 : units 1-6 (67 min.) - Cassette 2 : units 7-12 (62 min.) - Cassette 3 : units 12-16 (68 min.) ISBN 0521628547.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="525" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 workbook : New interchange : 2 :  English for international communication : workbook [by] Jack C. Richards with Jonathan Hull and Susan Proctor. ISBN 7560021409</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">Communication, International</marc:subfield>
+      <marc:subfield code="v">Problems, exercises, etc.</marc:subfield>
+      <marc:subfield code="9">213904</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Textbooks for foreign speakers.</marc:subfield>
+      <marc:subfield code="9">10818</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Study and teaching</marc:subfield>
+      <marc:subfield code="x">Foreign speakers.</marc:subfield>
+      <marc:subfield code="9">461</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2=" ">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Spoken English</marc:subfield>
+      <marc:subfield code="9">2429</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hull, Jonathan</marc:subfield>
+      <marc:subfield code="d">1949-</marc:subfield>
+      <marc:subfield code="9">213905</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Proctor, Susan</marc:subfield>
+      <marc:subfield code="d">1945-</marc:subfield>
+      <marc:subfield code="9">213906</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">New interchange.</marc:subfield>
+      <marc:subfield code="n">2 : class audio cassettes.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">New interchange.</marc:subfield>
+      <marc:subfield code="n">2 : English for international communication : workbook</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="920" ind1=" " ind2=" ">
+      <marc:subfield code="a">LAC : LC1144, LAC LCSC119, LCSC120, LCSC121, LC1251, LC1252, LC1253, LC1254, LC1255, LC1256. This item is reserved for lecturers of the Language Centre.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">taylors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">30466</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

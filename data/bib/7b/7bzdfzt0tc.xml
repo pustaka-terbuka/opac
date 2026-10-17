@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">317</marc:controlfield>
+    <marc:controlfield tag="003">UNIMAS</marc:controlfield>
+    <marc:controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(UNIMAS)317</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">UNIMAS</marc:subfield>
+      <marc:subfield code="c">UNIMAS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">HD9259.S872 I737 1990 )</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kueh, Hong Siong</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Towards greater advancement of the sago industry in the &apos;90s : proceedings of the Fourth International Sago Symposium held August 6-9, 1990, Kuching, Sarawak, Malaysia / chief editors, Ng Thai-Tsiung, Tie Yiu-Liong, Kueh Hong-Siong   assistants, Jong Foh-Soon ... [et al.].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">[Kuching :</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="b">PeTARY PeTARY Media &amp;amp; Special Collection Borneo (Ground Floor)</marc:subfield>
+      <marc:subfield code="o">HD9259.S872 I737 1990 )</marc:subfield>
+      <marc:subfield code="p">76421</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY</marc:subfield>
+      <marc:subfield code="b">PeTARY</marc:subfield>
+      <marc:subfield code="o">HD9259.S872 I737 1990 )</marc:subfield>
+      <marc:subfield code="p">76420</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">PeTARY</marc:subfield>
+      <marc:subfield code="b">PeTARY</marc:subfield>
+      <marc:subfield code="o">HD9259.S872 I737 1990 )</marc:subfield>
+      <marc:subfield code="p">105501</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">unimas</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
