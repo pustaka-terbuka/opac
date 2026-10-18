@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">PPANPS-076456</marc:controlfield>
+    <marc:controlfield tag="003">PPANPS</marc:controlfield>
+    <marc:controlfield tag="008">261016s1981    my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">978-967-6581288-6</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPANPS)PPANPS-076456</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPANPS</marc:subfield>
+      <marc:subfield code="c">PPANPS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">962.3</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Prof. Madya Dr. Ahmad Murad Merican</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Adat Budaya Melayu Utara Perlis : Bahagian 9557</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">Dewan Bahasa dan Pustaka &amp; PPANPS</marc:subfield>
+      <marc:subfield code="c">1981</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dokumentasi dan kajian komprehensif mengenai adat budaya melayu utara perlis terbitan PPANPS bagi kegunaan rujukan umum dan penyelidikan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Adat Budaya Melayu Utara Perlis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Sejarah Perlis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Warisan Budaya Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">PPANPs Pusat Kangar</marc:subfield>
+      <marc:subfield code="h">962.3 PRO</marc:subfield>
+      <marc:subfield code="p">PPANPS-00076456</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppanps</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

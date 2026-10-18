@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000cam a2200000 i 4500</marc:leader>
+    <marc:controlfield tag="001">SSL-074659</marc:controlfield>
+    <marc:controlfield tag="003">SSL</marc:controlfield>
+    <marc:controlfield tag="008">261016s1984    my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">978-967-6450107-9</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(SSL)SSL-074659</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">SSL</marc:subfield>
+      <marc:subfield code="c">SSL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">960.4</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Paul Kadau</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Sejarah Syarikat Berpiagam Borneo Utara (BNBC) : Bahagian 9333</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="b">Dewan Bahasa dan Pustaka &amp; SSL</marc:subfield>
+      <marc:subfield code="c">1984</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Dokumentasi dan kajian komprehensif mengenai sejarah syarikat berpiagam borneo utara (bnbc) terbitan SSL bagi kegunaan rujukan umum dan penyelidikan.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Sejarah Syarikat Berpiagam Borneo Utara (BNBC)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Sejarah Sabah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Warisan Budaya Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">Cawangan Keningau</marc:subfield>
+      <marc:subfield code="h">960.4 PAU</marc:subfield>
+      <marc:subfield code="p">SSL-00074659</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ssl</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
