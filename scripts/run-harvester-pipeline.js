@@ -101,6 +101,14 @@ async function buildAndPublishOpac(phaseLabel) {
   console.log(`[BUILD OPAC] Rebuilding search catalog and Pagefind index (${phaseLabel})...`);
   console.log(`=======================================================`);
   const opacDir = path.join(rootDir, 'opac');
+  const masterLock = path.join(opacDir, 'data', 'state', 'master.lock');
+  if (fs.existsSync(masterLock)) {
+    try { fs.unlinkSync(masterLock); } catch (_) {}
+  }
+  const opacGitLock = path.join(opacDir, '.git', 'index.lock');
+  if (fs.existsSync(opacGitLock)) {
+    try { fs.unlinkSync(opacGitLock); } catch (_) {}
+  }
   const buildScript = path.join(opacDir, 'tools', 'build.js');
   const res = await execCommand(process.execPath, [buildScript], opacDir);
   if (res.code === 0) {
