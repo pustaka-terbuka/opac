@@ -1038,8 +1038,13 @@ export async function buildSite(options) {
     orgsPath = masterOrgsPath;
   }
   let manifestPath = path.join(bibDir, 'manifest.json');
-  if (!fs.existsSync(manifestPath)) {
+  if (!fs.existsSync(manifestPath) && fs.existsSync(manifestPath + '.gz')) {
+    manifestPath = manifestPath + '.gz';
+  } else if (!fs.existsSync(manifestPath)) {
     manifestPath = path.join(dataDir, 'manifest.json');
+    if (!fs.existsSync(manifestPath) && fs.existsSync(manifestPath + '.gz')) {
+      manifestPath = manifestPath + '.gz';
+    }
   }
 
   const report = {

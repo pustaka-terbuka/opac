@@ -129,7 +129,10 @@ export async function mergeInbox(inboxPath, options = {}) {
 
   const bibDir = path.join(dataDir, 'bib');
   const aliasesPath = path.join(dataDir, 'aliases.jsonl');
-  const manifestPath = path.join(bibDir, 'manifest.json');
+  let manifestPath = path.join(bibDir, 'manifest.json');
+  if (!fs.existsSync(manifestPath) && fs.existsSync(manifestPath + '.gz')) {
+    manifestPath = manifestPath + '.gz';
+  }
   
   if (!fs.existsSync(bibDir) && !dryRun) {
     fs.mkdirSync(bibDir, { recursive: true });
