@@ -13,4 +13,7 @@ config/config.local.json
 !harvest/config.example.json
 tests/m5-tmp/
 data/state/
+data/bib/manifest.json
+data/manifest.json
+!data/bib/manifest.json.gz
 

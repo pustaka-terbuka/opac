@@ -752,12 +752,36 @@ export function generateUniversalViewerHtml(baseUrl) {
     }
   };
 
+  function getAliasShard(key) {
+    let h = 2166136261;
+    for (let i = 0; i < key.length; i++) {
+      h = Math.imul(h ^ key.charCodeAt(i), 16777619);
+    }
+    return ((h >>> 0) % 256).toString(16).padStart(2, '0');
+  }
+
   async function resolveBookAlias(alias) {
     try {
-      const res = await fetch('aliases.json');
+      const shard = getAliasShard(alias);
+      const res = await fetch('aliases/' + shard + '.json');
       if (res.ok) {
         const aliases = await res.json();
-        return aliases[alias] || alias;
+        if (aliases[alias]) return aliases[alias];
+      }
+      if (!alias.startsWith('isbn:')) {
+        const isbnShard = getAliasShard('isbn:' + alias);
+        const isbnRes = await fetch('aliases/' + isbnShard + '.json');
+        if (isbnRes.ok) {
+          const isbnAliases = await isbnRes.json();
+          if (isbnAliases['isbn:' + alias]) return isbnAliases['isbn:' + alias];
+        }
+      }
+    } catch(e) {}
+    try {
+      const resLegacy = await fetch('aliases.json');
+      if (resLegacy.ok) {
+        const legacyAliases = await resLegacy.json();
+        if (legacyAliases[alias]) return legacyAliases[alias];
       }
     } catch(e) {}
     return alias;
@@ -1623,8 +1647,27 @@ export async function buildSite(options) {
   }
   
   const bookBaseDir = path.join(distDir, 'book');
-  fs.mkdirSync(bookBaseDir, { recursive: true });
-  fs.writeFileSync(path.join(bookBaseDir, 'aliases.json'), JSON.stringify(aliasMap), 'utf8');
+  const aliasesDir = path.join(bookBaseDir, 'aliases');
+  fs.mkdirSync(aliasesDir, { recursive: true });
+
+  const aliasShards = Array.from({ length: 256 }, () => ({}));
+  for (const [key, id] of Object.entries(aliasMap)) {
+    let h = 2166136261;
+    for (let i = 0; i < key.length; i++) {
+      h = Math.imul(h ^ key.charCodeAt(i), 16777619);
+    }
+    const shardIdx = (h >>> 0) % 256;
+    aliasShards[shardIdx][key] = id;
+  }
+
+  for (let i = 0; i < 256; i++) {
+    const shardHex = i.toString(16).padStart(2, '0');
+    fs.writeFileSync(path.join(aliasesDir, `${shardHex}.json`), JSON.stringify(aliasShards[i]), 'utf8');
+  }
+
+  // Write aliases.json only if small (<= 5000 entries) for backwards compatibility and tests; otherwise '{}' to stay well under GitHub 100MB limit
+  const aliasJsonPayload = Object.keys(aliasMap).length <= 5000 ? JSON.stringify(aliasMap) : '{}';
+  fs.writeFileSync(path.join(bookBaseDir, 'aliases.json'), aliasJsonPayload, 'utf8');
   
   const universalViewerHtml = generateUniversalViewerHtml(baseUrl);
   fs.writeFileSync(path.join(bookBaseDir, 'index.html'), universalViewerHtml, 'utf8');

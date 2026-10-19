@@ -1,12 +1,19 @@
 import fs from 'fs';
 import path from 'path';
+import zlib from 'zlib';
 
 export function loadManifest(filePath) {
-  if (!fs.existsSync(filePath)) {
-    return {};
+  let content = null;
+  if (filePath.endsWith('.gz') && fs.existsSync(filePath)) {
+    try { content = zlib.gunzipSync(fs.readFileSync(filePath)).toString('utf8'); } catch {}
+  } else if (fs.existsSync(filePath)) {
+    try { content = fs.readFileSync(filePath, 'utf8'); } catch {}
+  } else if (fs.existsSync(filePath + '.gz')) {
+    try { content = zlib.gunzipSync(fs.readFileSync(filePath + '.gz')).toString('utf8'); } catch {}
   }
+
+  if (!content) return {};
   try {
-    const content = fs.readFileSync(filePath, 'utf8');
     return JSON.parse(content);
   } catch (err) {
     console.error(`Error loading manifest ${filePath}:`, err.message);
@@ -27,12 +34,20 @@ export function saveManifest(filePath, manifest) {
     fs.mkdirSync(dir, { recursive: true });
   }
   
-  const content = JSON.stringify(sortedManifest, null, 2) + '\n';
+  const content = JSON.stringify(sortedManifest) + '\n';
+  const byteLen = Buffer.byteLength(content, 'utf8');
+  const useGz = filePath.endsWith('.gz') || byteLen > 50 * 1024 * 1024;
+  const targetPath = useGz ? (filePath.endsWith('.gz') ? filePath : filePath + '.gz') : filePath;
+  const dataToWrite = useGz ? zlib.gzipSync(Buffer.from(content, 'utf8')) : content;
+
   let saved = false;
   let lastErr;
   for (let attempt = 0; attempt < 5; attempt++) {
     try {
-      fs.writeFileSync(filePath, content, 'utf8');
+      fs.writeFileSync(targetPath, dataToWrite);
+      if (useGz && !filePath.endsWith('.gz') && fs.existsSync(filePath)) {
+        try { fs.unlinkSync(filePath); } catch {}
+      }
       saved = true;
       break;
     } catch (err) {

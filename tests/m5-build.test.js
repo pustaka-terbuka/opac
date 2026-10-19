@@ -101,6 +101,12 @@ test('Build System Tests', async (t) => {
     assert.ok(fs.existsSync(path.join(DIST_DIR, 'book', 'index.html')));
     const aliases = JSON.parse(fs.readFileSync(path.join(DIST_DIR, 'book', 'aliases.json'), 'utf8'));
     assert.strictEqual(aliases['OLD_ID'], 'REC1');
+    assert.ok(fs.existsSync(path.join(DIST_DIR, 'book', 'aliases')));
+    let h = 2166136261;
+    for (let i = 0; i < 'OLD_ID'.length; i++) h = Math.imul(h ^ 'OLD_ID'.charCodeAt(i), 16777619);
+    const shardHex = ((h >>> 0) % 256).toString(16).padStart(2, '0');
+    const shardData = JSON.parse(fs.readFileSync(path.join(DIST_DIR, 'book', 'aliases', `${shardHex}.json`), 'utf8'));
+    assert.strictEqual(shardData['OLD_ID'], 'REC1');
     
     // Clean export
     const cleanXml = fs.readFileSync(path.join(DIST_DIR, 'export', 'REC1.xml'), 'utf8');
