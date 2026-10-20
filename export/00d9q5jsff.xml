@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01980ngm a2200409 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000443681</marc:controlfield>
+    <marc:controlfield tag="003">PNM</marc:controlfield>
+    <marc:controlfield tag="005">20190717161449</marc:controlfield>
+    <marc:controlfield tag="007">vd bgaizs</marc:controlfield>
+    <marc:controlfield tag="008">000000s2002    my 120 g     |s00 vlmay</marc:controlfield>
+    <marc:datafield tag="015" ind1=" " ind2=" ">
+      <marc:subfield code="a">M06-519</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000443681</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">200812171158</marc:subfield>
+      <marc:subfield code="b">aziah</marc:subfield>
+      <marc:subfield code="c">200808051538</marc:subfield>
+      <marc:subfield code="d">zuraidahm</marc:subfield>
+      <marc:subfield code="c">200604031609</marc:subfield>
+      <marc:subfield code="d">rosimah</marc:subfield>
+      <marc:subfield code="c">200604031523</marc:subfield>
+      <marc:subfield code="d">rosimah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">BNM</marc:subfield>
+      <marc:subfield code="c">PNM</marc:subfield>
+      <marc:subfield code="d">PustakaTerbuka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">mal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">791.430899923</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">791.430899923</marc:subfield>
+      <marc:subfield code="b">DI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="091" ind1=" " ind2=" ">
+      <marc:subfield code="a">MCv 5013 5014 7623 (1388454)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Di belakang tabir</marc:subfield>
+      <marc:subfield code="h">[cakera video]/</marc:subfield>
+      <marc:subfield code="c">penulis dialog, Hassan ; pengarah, Jins Shamsuddin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Music Valley,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">4 cakera video (ca. 240min.) :</marc:subfield>
+      <marc:subfield code="b">bny., h&amp;p ;</marc:subfield>
+      <marc:subfield code="c">4 3/4in.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="365" ind1=" " ind2=" ">
+      <marc:subfield code="a">1</marc:subfield>
+      <marc:subfield code="b">12.9</marc:subfield>
+      <marc:subfield code="c">RM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cakera video</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">MVM 2002.012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Asal diterbitkan oleh Merdeka Film Productions (1969)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="508" ind1=" " ind2=" ">
+      <marc:subfield code="a">Jurukamera, Siew Chan Wa</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="511" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pelakon: P. Ramlee, Jins Samsudin, Nor Azizah, Hussein Abu Hassan, Karim Siraj, Monica Jones, Ali Rahman, Ibrahim, Gass Sherif, Ismail Mahmud, Ali Abdullah, Hussein Jantan, Mustaffa, Rosli, Sultan, Asraf</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Osman dibebaskan selepas menjalani hukuman penjara selama sepuluh tahun atas kesalahan membunuh yang tidak dilakukannya. Dua orang pemuda, Ali dan Hassan telah membelasah Osman sehingga pengsan dan dicampakkan ke dalam sungai. Faridah, isteri ASP Azman, terjumpa Osman ketika dia ke klinik ydan Osman mengesyaki bahawa Faridah sebenarnya adalah Hamidah, teman wanitanya sebelum dipenjarakan dahulu. ASP Azman turut mengesyaki isterinya yang berkelakuan seperti menyembunyikan sesuatu setelah kehadiran Osman.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Motion pictures</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="9">2640</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Motion picture film</marc:subfield>
+      <marc:subfield code="9">10580</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2=" ">
+      <marc:subfield code="a">http://www.filemkita.com/filem/d/di_belakang_tabir_01.html</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="2">
+      <marc:subfield code="u">https://github.com/pustaka-terbuka/master</marc:subfield>
+      <marc:subfield code="y">PustakaTerbuka</marc:subfield>
+      <marc:subfield code="z">Shared open catalog record provided by PustakaTerbuka</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="900" ind1=" " ind2=" ">
+      <marc:subfield code="a">PustakaTerbuka</marc:subfield>
+      <marc:subfield code="u">https://github.com/pustaka-terbuka/master</marc:subfield>
+      <marc:subfield code="d">Open Shared MARC Catalog for Malaysian Libraries</marc:subfield>
+      <marc:subfield code="r">00d9q5jsff</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">DVD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="949" ind1=" " ind2=" ">
+      <marc:subfield code="6">4000011259</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="949" ind1=" " ind2=" ">
+      <marc:subfield code="6">4000011260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="949" ind1=" " ind2=" ">
+      <marc:subfield code="6">4000022548</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="949" ind1=" " ind2=" ">
+      <marc:subfield code="6">4000022547</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">BAS</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

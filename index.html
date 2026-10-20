@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="title">PustakaTerbuka Search</title>
+  
+  <meta name="theme-color" content="#1e3a8a">
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Content Security Policy: Self, Pagefind WASM, HTTPS book covers, and external catalog data APIs -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; connect-src 'self' https: data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; font-src 'self' data:;">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header with Brand & Controls -->
+  <header class="main-header">
+    <div class="header-content">
+      <a href="./" class="brand-link" aria-label="Pustaka Terbuka Home">
+        <div class="brand-logo-icon" aria-hidden="true">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <span class="brand-title">PustakaTerbuka</span>
+          <span class="brand-tagline" data-i18n="brand_tagline">Katalog Induk Terbuka Kebangsaan & OPAC Statik</span>
+        </div>
+      </a>
+      
+      <div class="header-controls">
+        <button id="theme-toggle-btn" class="control-btn theme-btn" aria-label="Toggle Theme" title="Toggle Light / Dark Mode">
+          <span id="theme-icon" aria-hidden="true">🌓</span>
+          <span class="btn-label" data-i18n="theme_toggle">Tema</span>
+        </button>
+
+        <div class="lang-picker">
+          <label for="lang-select" class="sr-only">Language</label>
+          <select id="lang-select" aria-label="Language Selector">
+            <option value="en">English (EN)</option>
+            <option value="ms">Bahasa Melayu (MS)</option>
+          </select>
+        </div>
+
+        <button id="mobile-basket-toggle" class="control-btn mobile-basket-btn" aria-label="View Basket" title="View Basket">
+          <span aria-hidden="true">🛒</span>
+          <span class="mobile-basket-badge" id="mobile-basket-count">0</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="page-main">
+    <!-- Hero Search Box -->
+    <section class="search-hero" aria-label="Catalog Search">
+      <div class="search-hero-inner">
+        <h1 class="sr-only" data-i18n="title">PustakaTerbuka Search</h1>
+        <div id="search-ui" class="search-ui-wrapper"></div>
+
+        <!-- Classification Quick Browse Bar (DDC 000-900) -->
+        <div class="ddc-browse-section" aria-label="Dewey Decimal Classification Browse">
+          <div class="ddc-browse-header">
+            <span class="ddc-browse-title" data-i18n="browse_ddc">Imbas mengikut Klasifikasi (Perpuluhan Dewey / DDC)</span>
+          </div>
+          <div class="ddc-pills-container" id="ddc-pills">
+            <button class="ddc-pill active" data-ddc="" data-i18n="ddc_all">Semua Kelas</button>
+            <button class="ddc-pill" data-ddc="0" data-i18n="ddc_000">000 Karya Am & IT</button>
+            <button class="ddc-pill" data-ddc="1" data-i18n="ddc_100">100 Falsafah</button>
+            <button class="ddc-pill" data-ddc="2" data-i18n="ddc_200">200 Agama</button>
+            <button class="ddc-pill" data-ddc="3" data-i18n="ddc_300">300 Sains Sosial</button>
+            <button class="ddc-pill" data-ddc="4" data-i18n="ddc_400">400 Bahasa</button>
+            <button class="ddc-pill" data-ddc="5" data-i18n="ddc_500">500 Sains Tulen</button>
+            <button class="ddc-pill" data-ddc="6" data-i18n="ddc_600">600 Teknologi</button>
+            <button class="ddc-pill" data-ddc="7" data-i18n="ddc_700">700 Kesenian</button>
+            <button class="ddc-pill" data-ddc="8" data-i18n="ddc_800">800 Kesusasteraan</button>
+            <button class="ddc-pill" data-ddc="9" data-i18n="ddc_900">900 Sejarah</button>
+          </div>
+        </div>
+
+        <!-- Filter Bar -->
+        <div class="filter-bar">
+          <div class="filter-group org-filter-group">
+            <label for="org-filter" data-i18n="organization">Organisasi:</label>
+            <div class="org-combobox-wrapper" id="org-combobox-wrapper">
+              <!-- Native select preserved for accessibility, form bindings & automated test suite -->
+              <select id="org-filter" class="org-filter-native">
+                <option value="" data-i18n="all_organizations">Semua Organisasi</option>
+              </select>
+
+              <!-- Enhanced Combobox Trigger -->
+              <button type="button" id="org-combobox-trigger" class="org-combobox-trigger" aria-haspopup="listbox" aria-expanded="false" aria-controls="org-combobox-dropdown" aria-label="Pilih Organisasi / Select Organization">
+                <span class="org-trigger-icon" aria-hidden="true">🏢</span>
+                <span class="org-trigger-label" id="org-trigger-label" data-i18n="all_organizations">Semua Organisasi</span>
+                <span class="org-trigger-count-badge" id="org-trigger-count-badge" style="display: none;"></span>
+                <span class="org-trigger-arrow" aria-hidden="true">▾</span>
+              </button>
+
+              <!-- Floating Searchable Dropdown Menu -->
+              <div id="org-combobox-dropdown" class="org-combobox-dropdown" role="listbox" style="display: none;">
+                <div class="org-dropdown-search-box">
+                  <span class="org-search-icon" aria-hidden="true">🔍</span>
+                  <input type="text" id="org-dropdown-search" class="org-dropdown-search" placeholder="Cari nama perpustakaan, kod, negeri..." autocomplete="off" />
+                  <button type="button" id="org-search-clear-btn" class="org-search-clear-btn" style="display: none;" title="Kosongkan carian">✕</button>
+                </div>
+
+                <div class="org-dropdown-type-tabs" id="org-type-tabs">
+                  <button type="button" class="org-type-tab active" data-type="all" data-i18n="org_tab_all">Semua</button>
+                  <button type="button" class="org-type-tab" data-type="active" data-i18n="org_tab_active">Aktif (Koleksi)</button>
+                  <button type="button" class="org-type-tab" data-type="public" data-i18n="org_tab_public">Awam & Negeri</button>
+                  <button type="button" class="org-type-tab" data-type="university" data-i18n="org_tab_university">Universiti</button>
+                  <button type="button" class="org-type-tab" data-type="special" data-i18n="org_tab_special">Khusus</button>
+                  <button type="button" class="org-type-tab" data-type="school" data-i18n="org_tab_school">Sekolah</button>
+                </div>
+
+                <div class="org-dropdown-list" id="org-dropdown-list" tabindex="-1"></div>
+
+                <div class="org-dropdown-footer">
+                  <span id="org-dropdown-count-info" class="org-dropdown-count-info"></span>
+                  <button type="button" id="org-dropdown-reset-btn" class="org-dropdown-reset-btn" data-i18n="all_organizations">Semua Organisasi</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="filter-group">
+            <label for="sort-filter" data-i18n="sort_by">Susun:</label>
+            <select id="sort-filter">
+              <option value="relevance" data-i18n="sort_relevance">Ketepatan</option>
+              <option value="year-desc" data-i18n="sort_year_desc">Tahun (Terkini)</option>
+              <option value="year-asc" data-i18n="sort_year_asc">Tahun (Terawal)</option>
+              <option value="title-asc" data-i18n="sort_title_asc">Tajuk (A–Z)</option>
+            </select>
+          </div>
+
+          <div id="shelf-browse-links" class="shelf-browse-links" style="display: none;"></div>
+
+          <div id="active-filters-chips" class="active-filters-chips" style="display: none;">
+            <span class="active-filters-label" data-i18n="active_filter">Penapis Aktif:</span>
+            <div id="filter-chips-list" class="filter-chips-list"></div>
+            <button id="clear-all-filters-btn" class="clear-filters-btn" data-i18n="clear_filter">Padam</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Layout -->
+    <div class="layout-grid">
+      <section class="results-section" aria-label="Search Results">
+        <!-- Rich Organization Profile Banner -->
+        <div id="org-profile-banner" class="org-profile-banner" style="display: none;" role="region" aria-label="Organization Profile">
+          <div class="org-banner-card">
+            <div class="org-banner-header">
+              <div class="org-banner-icon" aria-hidden="true">🏛️</div>
+              <div class="org-banner-info">
+                <div class="org-banner-title-line">
+                  <h2 class="org-banner-title" id="org-banner-name">Nama Perpustakaan</h2>
+                  <span class="org-banner-code-badge" id="org-banner-code">KOD</span>
+                </div>
+                <div class="org-banner-tags" id="org-banner-tags">
+                  <span class="badge org-badge-type" id="org-banner-type">Perpustakaan Awam</span>
+                  <span class="badge org-badge-state" id="org-banner-state">Negeri</span>
+                  <span class="badge org-badge-count" id="org-banner-count">0 rekod</span>
+                  <span class="badge org-badge-scheme" id="org-banner-scheme">DDC</span>
+                </div>
+              </div>
+              <div class="org-banner-controls">
+                <a id="org-banner-opac-link" href="#" target="_blank" rel="noopener" class="btn-org-action btn-opac-link" style="display: none;">
+                  <span data-i18n="org_open_opac">🌐 Buka Portal OPAC Asal</span>
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                </a>
+                <button type="button" id="org-banner-preload-btn" class="btn-org-action btn-preload" title="Pramuat koleksi ini ke storan pelayar untuk capaian segera">
+                  <span id="org-banner-preload-text">⚡ Pramuat Koleksi</span>
+                </button>
+                <button type="button" id="org-banner-shelf-toggle-btn" class="btn-org-action btn-shelf-toggle">
+                  <span data-i18n="org_shelf_browse">📚 Imbas Rak (Shelf Browse)</span>
+                </button>
+                <button type="button" id="org-banner-close-btn" class="btn-org-action btn-close-banner" title="Tutup penapis organisasi">
+                  <span data-i18n="org_close_banner">✕ Semua Perpustakaan</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- Interactive Shelf Browser Drawer -->
+            <div id="org-shelf-drawer" class="org-shelf-drawer" style="display: none;">
+              <div class="org-shelf-bar">
+                <span class="org-shelf-title">📚 Koleksi Tersusun Mengikut Nombor Panggilan (Shelf Order)</span>
+                <div class="org-shelf-schemes" id="org-shelf-schemes"></div>
+              </div>
+              <div class="org-shelf-items" id="org-shelf-items"></div>
+            </div>
+          </div>
+        </div>
+
+        <div id="search-stats" class="search-stats-bar" style="display: none;"></div>
+        <div id="search-results"></div>
+        <!-- Pagination controls -->
+        <nav id="pagination-controls" class="pagination-nav" aria-label="Result Pagination" style="display: none;"></nav>
+      </section>
+
+      <!-- Sidebar / Drawer -->
+      <aside class="sidebar" id="catalog-sidebar">
+        <!-- Basket Card -->
+        <div class="card basket-card" id="basket-container">
+          <div class="card-header">
+            <h2 data-i18n="basket">Bakul</h2>
+            <span class="badge basket-badge-count" id="basket-count-badge">0</span>
+          </div>
+          <ul id="basket-items" class="basket-items-list"></ul>
+          <p id="basket-empty" class="basket-empty-msg" data-i18n="empty_basket">Bakul anda kosong.</p>
+          <div class="basket-actions">
+            <button id="download-basket-btn" class="btn-primary" disabled data-i18n="download_basket">Muat Turun Bakul (MARCXML)</button>
+            <button id="print-basket-slips-btn" class="btn-outline" disabled data-i18n="print_slip">🖨️ Cetak Slip Rak</button>
+          </div>
+        </div>
+        
+        <!-- Librarian Tools Card -->
+        <div class="card tools-card">
+          <div class="card-header">
+            <h2>Alat Pustakawan</h2>
+          </div>
+          <div class="card-body">
+            <ul class="tools-link-list">
+              <li>
+                <a href="https://github.com/pustaka-terbuka/opac/blob/main/docs/CLIENT_DEVELOPER_GUIDE.md" target="_blank" rel="noopener">
+                  📖 Panduan Integrasi LMS (.NET / SLiMS)
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/pustaka-terbuka/opac/blob/main/docs/HARVESTERS.md" target="_blank" rel="noopener">
+                  ⚙️ Piawaian Harvester MARC21
+                </a>
+              </li>
+              <li>
+                <a href="dumps/" id="dumps-link-sidebar" data-i18n="bulk_dumps">
+                  💾 Lambakan Pukal & Dataset (.mrc / .xml)
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- MARC21 Record Inspector Modal -->
+  <dialog id="marc-modal" class="modal-dialog" aria-labelledby="marc-modal-title">
+    <div class="modal-content">
+      <div class="modal-header">
+        <div>
+          <h2 id="marc-modal-title" data-i18n="marc_inspector">Pemeriksa Rekod MARC21</h2>
+          <span id="marc-modal-record-id" class="modal-record-id"></span>
+        </div>
+        <button id="marc-modal-close-btn" class="modal-close-btn" aria-label="Close modal">&times;</button>
+      </div>
+
+      <div class="modal-toolbar">
+        <button id="modal-copy-marcxml-btn" class="btn-outline btn-sm" data-i18n="copy_marcxml">Salin MARCXML</button>
+        <button id="modal-copy-text-btn" class="btn-outline btn-sm" data-i18n="copy_marc_text">Salin Teks MARC</button>
+        <button id="modal-copy-csharp-btn" class="btn-outline btn-sm" data-i18n="copy_csharp">Salin Kod C# (.NET)</button>
+        <span id="modal-toast" class="modal-toast" style="display: none;" data-i18n="copied_to_clipboard">Disalin!</span>
+      </div>
+
+      <div class="modal-body">
+        <div id="marc-modal-loader" class="modal-loading" style="display: none;">
+          <div class="search-spinner"></div>
+          <p>Memuatkan rekod MARC21...</p>
+        </div>
+        <div id="marc-modal-table-container" class="marc-table-container"></div>
+      </div>
+
+      <div class="modal-footer">
+        <a id="modal-download-link" href="#" download="" class="btn-primary btn-sm" data-i18n="download_record">Muat Turun XML</a>
+        <button id="modal-footer-close-btn" class="btn-outline btn-sm" data-i18n="close">Tutup</button>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Printable Shelf Slips Area (Hidden on screen, visible during @media print) -->
+  <div id="print-slips-container" class="print-slips-area" aria-hidden="true"></div>
+
+  <footer class="main-footer">
+    <div class="footer-inner">
+      <div class="footer-info-col">
+        <p>
+          <strong>PustakaTerbuka</strong> &mdash; Inisiatif Katalog Induk Terbuka Kebangsaan.
+          Data bibliografi dilesenkan di bawah ODC-By 1.0.
+        </p>
+        <p class="footer-links">
+          <a href="https://github.com/pustaka-terbuka/opac" target="_blank" rel="noopener">GitHub</a> &bull;
+          <a href="dumps/">Dumps</a> &bull;
+          <a href="https://github.com/pustaka-terbuka/opac/blob/main/docs/AI_AGENT_GUIDE.md" target="_blank" rel="noopener">Docs</a>
+        </p>
+      </div>
+
+      <div class="footer-storage-col">
+        <div id="storage-status-pill" class="storage-status-pill" role="status" aria-label="Offline Storage Status">
+          <span class="storage-icon">📦</span>
+          <span id="storage-status-text">Storan Luar Talian: Memeriksa...</span>
+          <button type="button" id="storage-clear-btn" class="storage-clear-btn" title="Kosongkan cache storan pelayar">Padam Cache</button>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

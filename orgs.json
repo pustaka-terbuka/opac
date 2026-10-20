@@ -1,0 +1,594 @@
+{
+  "PNM": {
+    "name": "Perpustakaan Negara Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "webmaster@pnm.gov.my",
+    "opac_url": "https://opac.pnm.gov.my/"
+  },
+  "PPAPP": {
+    "name": "Perbadanan Perpustakaan Awam Pulau Pinang",
+    "state": "Pulau Pinang",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@penanglib.gov.my",
+    "opac_url": "https://opac.penanglib.gov.my/"
+  },
+  "PPAS": {
+    "name": "Perbadanan Perpustakaan Awam Selangor",
+    "state": "Selangor",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@ppas.gov.my",
+    "opac_url": "https://ppas.ap.iiivega.com/"
+  },
+  "PPAJ": {
+    "name": "Perbadanan Perpustakaan Awam Johor",
+    "state": "Johor",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@ppaj.gov.my",
+    "opac_url": "https://ppaj.johor.gov.my/"
+  },
+  "PPAK": {
+    "name": "Perbadanan Perpustakaan Awam Kedah",
+    "state": "Kedah",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@kedahlib.gov.my",
+    "opac_url": "https://www.kedahlib.gov.my/"
+  },
+  "PPANK": {
+    "name": "Perbadanan Perpustakaan Awam Kelantan",
+    "state": "Kelantan",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@kelantanlibrary.gov.my",
+    "opac_url": "http://catalog.kelantanlibrary.gov.my/"
+  },
+  "PERPUSTAM": {
+    "name": "Perbadanan Perpustakaan Awam Melaka",
+    "state": "Melaka",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@perpustam.gov.my",
+    "opac_url": "https://perpustam.gov.my/"
+  },
+  "PPANS": {
+    "name": "Perbadanan Perpustakaan Awam Negeri Sembilan",
+    "state": "Negeri Sembilan",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@nslibrary.gov.my",
+    "opac_url": "https://www.nslibrary.gov.my/"
+  },
+  "PPAP": {
+    "name": "Perbadanan Perpustakaan Awam Pahang",
+    "state": "Pahang",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@pahanglibrary.gov.my",
+    "opac_url": "https://webopac.pahanglibrary.gov.my/"
+  },
+  "PPANPK": {
+    "name": "Perbadanan Perpustakaan Awam Negeri Perak",
+    "state": "Perak",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@ppanpk.gov.my",
+    "opac_url": "https://pintar.ppanpk.gov.my/"
+  },
+  "PPANPS": {
+    "name": "Perbadanan Perpustakaan Awam Negeri Perlis",
+    "state": "Perlis",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@perlislib.gov.my",
+    "opac_url": "http://opac.perlislib.gov.my/"
+  },
+  "SSL": {
+    "name": "Perpustakaan Negeri Sabah",
+    "state": "Sabah",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@library.sabah.gov.my",
+    "opac_url": "https://library.sabah.gov.my/"
+  },
+  "SARAWAK": {
+    "name": "Pustaka Negeri Sarawak",
+    "state": "Sarawak",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@pustaka-sarawak.com",
+    "opac_url": "https://www.librarynet.com.my/"
+  },
+  "PPAT": {
+    "name": "Perbadanan Perpustakaan Awam Terengganu",
+    "state": "Terengganu",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@trglib.gov.my",
+    "opac_url": "https://www.trglib.gov.my/"
+  },
+  "PKL": {
+    "name": "Perpustakaan Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "info@dbkl.gov.my",
+    "opac_url": "https://perpustakaankualalumpur.dbkl.gov.my/"
+  },
+  "SKBayanLepas": {
+    "name": "SK Bayan Lepas",
+    "state": "Pulau Pinang",
+    "type": "school",
+    "default_scheme": "DDC",
+    "contact": "librarian@skbl.example.edu.my",
+    "opac_url": "https://skbl.example.edu.my/opac"
+  },
+  "SMKGeorgeTown": {
+    "name": "SMK George Town",
+    "state": "Pulau Pinang",
+    "type": "school",
+    "default_scheme": "LCC",
+    "contact": "librarian@smkgt.example.edu.my",
+    "opac_url": "https://smkgt.example.edu.my/opac"
+  },
+  "UniMalaya": {
+    "name": "Universiti Malaya Library",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "lib@um.example.edu.my",
+    "opac_url": "https://um.example.edu.my/opac"
+  },
+  "UM": {
+    "name": "Perpustakaan Universiti Malaya",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "query_perpustakaan@um.edu.my",
+    "opac_url": "https://umlib.um.edu.my/"
+  },
+  "USM": {
+    "name": "Perpustakaan Hamzah Sendut (Universiti Sains Malaysia)",
+    "state": "Pulau Pinang",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "rujukan@usm.my",
+    "opac_url": "https://lib.usm.my/"
+  },
+  "UKM": {
+    "name": "Perpustakaan Tun Seri Lanang (Universiti Kebangsaan Malaysia)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "kpustaka@ukm.edu.my",
+    "opac_url": "https://gemilang.ukm.my/"
+  },
+  "UPM": {
+    "name": "Perpustakaan Sultan Abdul Samad (Universiti Putra Malaysia)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "psas_query@upm.edu.my",
+    "opac_url": "https://lib.upm.edu.my/"
+  },
+  "UTM": {
+    "name": "Perpustakaan Sultanah Zanariah (Universiti Teknologi Malaysia)",
+    "state": "Johor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "psz-enquiry@utm.my",
+    "opac_url": "https://opac.utm.my/"
+  },
+  "UiTM": {
+    "name": "Perpustakaan Tun Abdul Razak (Universiti Teknologi MARA)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "korporatptar@uitm.edu.my",
+    "opac_url": "https://library.uitm.edu.my/"
+  },
+  "IIUM": {
+    "name": "Dar al-Hikmah Library (International Islamic University Malaysia)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "libref@iium.edu.my",
+    "opac_url": "https://lib.iium.edu.my/"
+  },
+  "UUM": {
+    "name": "Perpustakaan Sultanah Bahiyah (Universiti Utara Malaysia)",
+    "state": "Kedah",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "uumpustaka@uum.edu.my",
+    "opac_url": "https://library.uum.edu.my/"
+  },
+  "UNIMAS": {
+    "name": "Pejabat Perpustakaan, Penyiaran dan Penerbitan (Universiti Malaysia Sarawak)",
+    "state": "Sarawak",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "libhelp@unimas.my",
+    "opac_url": "https://www.library.unimas.my/"
+  },
+  "UMS": {
+    "name": "Perpustakaan Universiti Malaysia Sabah",
+    "state": "Sabah",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@ums.edu.my",
+    "opac_url": "https://library.ums.edu.my/"
+  },
+  "UPSI": {
+    "name": "Perpustakaan Tuanku Bainun (Universiti Pendidikan Sultan Idris)",
+    "state": "Perak",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "pustaka@upsi.edu.my",
+    "opac_url": "https://pustaka.upsi.edu.my/"
+  },
+  "USIM": {
+    "name": "Perpustakaan Universiti Sains Islam Malaysia",
+    "state": "Negeri Sembilan",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@usim.edu.my",
+    "opac_url": "https://library.usim.edu.my/"
+  },
+  "UMT": {
+    "name": "Perpustakaan Sultanah Nur Zahirah (Universiti Malaysia Terengganu)",
+    "state": "Terengganu",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "psnz@umt.edu.my",
+    "opac_url": "https://psnz.umt.edu.my/"
+  },
+  "UTHM": {
+    "name": "Perpustakaan Tunku Tun Aminah (Universiti Tun Hussein Onn Malaysia)",
+    "state": "Johor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "ptta@uthm.edu.my",
+    "opac_url": "https://ptta.uthm.edu.my/"
+  },
+  "UTeM": {
+    "name": "Perpustakaan Universiti Teknikal Malaysia Melaka",
+    "state": "Melaka",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@utem.edu.my",
+    "opac_url": "https://library.utem.edu.my/"
+  },
+  "UMPSA": {
+    "name": "Perpustakaan Universiti Malaysia Pahang Al-Sultan Abdullah",
+    "state": "Pahang",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@umpsa.edu.my",
+    "opac_url": "https://library.umpsa.edu.my/"
+  },
+  "UniMAP": {
+    "name": "Perpustakaan Tuanku Fauziah (Universiti Malaysia Perlis)",
+    "state": "Perlis",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@unimap.edu.my",
+    "opac_url": "https://ptf.unimap.edu.my/"
+  },
+  "UniSZA": {
+    "name": "Perpustakaan Al-Wathiqu Billah (Universiti Sultan Zainal Abidin)",
+    "state": "Terengganu",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@unisza.edu.my",
+    "opac_url": "https://library.unisza.edu.my/"
+  },
+  "UMK": {
+    "name": "Perpustakaan Universiti Malaysia Kelantan",
+    "state": "Kelantan",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@umk.edu.my",
+    "opac_url": "https://lib.umk.edu.my/"
+  },
+  "UPNM": {
+    "name": "Perpustakaan Universiti Pertahanan Nasional Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@upnm.edu.my",
+    "opac_url": "https://lib.upnm.edu.my/"
+  },
+  "UTP": {
+    "name": "Information Resource Centre (Universiti Teknologi PETRONAS)",
+    "state": "Perak",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "irc@utp.edu.my",
+    "opac_url": "https://irc.utp.edu.my/"
+  },
+  "MMU": {
+    "name": "Siti Hasmah Digital Library (Multimedia University)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "libdesk@mmu.edu.my",
+    "opac_url": "https://shdl.mmu.edu.my/"
+  },
+  "UNITEN": {
+    "name": "Perpustakaan Universiti Tenaga Nasional",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@uniten.edu.my",
+    "opac_url": "https://library.uniten.edu.my/"
+  },
+  "UTAR": {
+    "name": "UTAR Library (Universiti Tunku Abdul Rahman)",
+    "state": "Perak",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@utar.edu.my",
+    "opac_url": "https://library.utar.edu.my/"
+  },
+  "SUNWAY": {
+    "name": "Sunway Campus Library (Sunway University)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@sunway.edu.my",
+    "opac_url": "https://library.sunway.edu.my/"
+  },
+  "TAYLORS": {
+    "name": "Taylor's Library (Taylor's University)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@taylors.edu.my",
+    "opac_url": "https://taylorslibrary.taylors.edu.my/"
+  },
+  "PPJ": {
+    "name": "Perpustakaan Perbadanan Putrajaya",
+    "state": "Putrajaya",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "perpustakaan@ppj.gov.my",
+    "opac_url": "https://library.ppj.gov.my/"
+  },
+  "PAPL": {
+    "name": "Perpustakaan Awam Perbadanan Labuan",
+    "state": "Labuan",
+    "type": "public",
+    "default_scheme": "DDC",
+    "contact": "library@pl.gov.my",
+    "opac_url": "https://library.pl.gov.my/"
+  },
+  "PARLIMEN": {
+    "name": "Perpustakaan Parlimen Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@parlimen.gov.my",
+    "opac_url": "https://library.parlimen.gov.my/"
+  },
+  "KEHAKIMAN": {
+    "name": "Perpustakaan Mahkamah Persekutuan Malaysia",
+    "state": "Putrajaya",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@kehakiman.gov.my",
+    "opac_url": "https://www.kehakiman.gov.my/library"
+  },
+  "BARCOUNCIL": {
+    "name": "Perpustakaan Majlis Peguam Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "library@malaysianbar.org.my",
+    "opac_url": "https://www.malaysianbar.org.my/library"
+  },
+  "DBP": {
+    "name": "Pusat Dokumentasi Melayu (Dewan Bahasa dan Pustaka)",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "pdm@dbp.gov.my",
+    "opac_url": "https://pustaka.dbp.gov.my/"
+  },
+  "BNM": {
+    "name": "Bank Negara Malaysia Knowledge Management Centre",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "infocentre@bnm.gov.my",
+    "opac_url": "https://library.bnm.gov.my/"
+  },
+  "INTAN": {
+    "name": "Perpustakaan Institut Tadbiran Awam Negara",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "perpustakaan@intanbk.intan.my",
+    "opac_url": "https://library.intan.my/"
+  },
+  "FRIM": {
+    "name": "Perpustakaan Institut Penyelidikan Perhutanan Malaysia",
+    "state": "Selangor",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "frim_perpustakaan@frim.gov.my",
+    "opac_url": "https://library.frim.gov.my/"
+  },
+  "MARDI": {
+    "name": "Perpustakaan Institut Penyelidikan & Kemajuan Pertanian Malaysia",
+    "state": "Selangor",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "library@mardi.gov.my",
+    "opac_url": "https://library.mardi.gov.my/"
+  },
+  "MPOB": {
+    "name": "Perpustakaan Lembaga Minyak Sawit Malaysia",
+    "state": "Selangor",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "library@mpob.gov.my",
+    "opac_url": "https://library.mpob.gov.my/"
+  },
+  "NIH": {
+    "name": "Perpustakaan National Institutes of Health / IMR",
+    "state": "Selangor",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "library@nih.gov.my",
+    "opac_url": "https://library.nih.gov.my/"
+  },
+  "ARKIB": {
+    "name": "Perpustakaan Rujukan Arkib Negara Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "rujukan@arkib.gov.my",
+    "opac_url": "https://www.arkib.gov.my/"
+  },
+  "MUZIUM": {
+    "name": "Perpustakaan Jabatan Muzium Malaysia",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "perpustakaan@jmm.gov.my",
+    "opac_url": "https://www.jmm.gov.my/library"
+  },
+  "UNIKL": {
+    "name": "Universiti Kuala Lumpur Library",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@unikl.edu.my",
+    "opac_url": "https://library.unikl.edu.my/"
+  },
+  "OUM": {
+    "name": "Tan Sri Dr. Abdullah Sanusi Digital Library (Open University Malaysia)",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@oum.edu.my",
+    "opac_url": "https://library.oum.edu.my/"
+  },
+  "WOU": {
+    "name": "Tun Dr Lim Keng Yaik Digital Library (Wawasan Open University)",
+    "state": "Pulau Pinang",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@wou.edu.my",
+    "opac_url": "https://library.wou.edu.my/"
+  },
+  "UCSI": {
+    "name": "UCSI University Library & Information Centre",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@ucsiuniversity.edu.my",
+    "opac_url": "https://library.ucsiuniversity.edu.my/"
+  },
+  "APU": {
+    "name": "Asia Pacific University Library",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@apu.edu.my",
+    "opac_url": "https://library.apu.edu.my/"
+  },
+  "INTI": {
+    "name": "INTI International University Library",
+    "state": "Negeri Sembilan",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@newinti.edu.my",
+    "opac_url": "https://library.newinti.edu.my/"
+  },
+  "MONASHMY": {
+    "name": "Monash University Malaysia Library",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@monash.edu.my",
+    "opac_url": "https://www.monash.edu.my/library"
+  },
+  "NOTTMY": {
+    "name": "University of Nottingham Malaysia Library",
+    "state": "Selangor",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@nottingham.edu.my",
+    "opac_url": "https://www.nottingham.edu.my/library"
+  },
+  "CURTINMY": {
+    "name": "The Library, Curtin University Malaysia",
+    "state": "Sarawak",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@curtin.edu.my",
+    "opac_url": "https://library.curtin.edu.my/"
+  },
+  "SWINMY": {
+    "name": "Swinburne University of Technology Sarawak Library",
+    "state": "Sarawak",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "library@swinburne.edu.my",
+    "opac_url": "https://www.swinburne.edu.my/library"
+  },
+  "JPPKK": {
+    "name": "Perpustakaan Jabatan Pendidikan Politeknik dan Kolej Komuniti",
+    "state": "Putrajaya",
+    "type": "university",
+    "default_scheme": "LCC",
+    "contact": "perpustakaan@polycc.edu.my",
+    "opac_url": "https://library.polycc.edu.my/"
+  },
+  "IPG": {
+    "name": "Pusat Sumber Institut Pendidikan Guru Malaysia (KPM)",
+    "state": "Kuala Lumpur",
+    "type": "university",
+    "default_scheme": "DDC",
+    "contact": "ipgm_pustaka@moe.gov.my",
+    "opac_url": "https://ipgm.moe.edu.my/library"
+  },
+  "PSSSLIMS": {
+    "name": "Pusat Sumber Sekolah Malaysia (SLiMS Engine Gateway)",
+    "state": "Kuala Lumpur",
+    "type": "school",
+    "default_scheme": "DDC",
+    "contact": "pussumbers@moe.gov.my",
+    "opac_url": "https://slims.web.id/"
+  },
+  "MRSM": {
+    "name": "Pusat Sumber Maktab Rendah Sains MARA",
+    "state": "Kuala Lumpur",
+    "type": "school",
+    "default_scheme": "DDC",
+    "contact": "pusatsumber@mara.gov.my",
+    "opac_url": "https://mrsm.mara.gov.my/library"
+  },
+  "MYTO": {
+    "name": "Malaysian Theses Online (PNM / PERPUN)",
+    "state": "Kuala Lumpur",
+    "type": "special",
+    "default_scheme": "LCC",
+    "contact": "myto@pnm.gov.my",
+    "opac_url": "https://myto.pnm.gov.my/"
+  },
+  "MYJURNAL": {
+    "name": "MyJurnal (Pusat Sitasi Malaysia / KPT)",
+    "state": "Putrajaya",
+    "type": "special",
+    "default_scheme": "DDC",
+    "contact": "myjurnal@mohe.gov.my",
+    "opac_url": "https://myjurnal.my/"
+  }
+}
